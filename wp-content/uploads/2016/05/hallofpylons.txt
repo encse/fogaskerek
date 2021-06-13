@@ -1,0 +1,8 @@
+Block Start Exit Start Exit Start Exit Block
+Exit WallWest Trap WallSouth Trap WallEast WallNorth Start
+Start WallNorth BlueCrystal Teleport Potion RedCrystal Trap Exit
+Exit Trap Potion WallEast WallSouth Teleport WallWest Start
+Start WallEast Teleport WallNorth WallWest Potion Trap Exit
+Exit Trap RedCrystal Potion Teleport BlueCrystal WallSouth Start
+Start WallSouth WallWest Trap WallNorth Trap WallEast Exit
+Block Exit Start Exit Start Exit Start Block

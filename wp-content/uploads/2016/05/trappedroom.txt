@@ -1,0 +1,6 @@
+Block Start Exit Start Exit Block
+Exit Trap WallSouth WallSouth Trap Start
+Start WallEast Trap Trap WallWest Exit
+Exit WallEast Trap Trap WallWest Start
+Start Trap WallNorth WallNorth Trap Exit
+Block Exit Start Exit Start Block

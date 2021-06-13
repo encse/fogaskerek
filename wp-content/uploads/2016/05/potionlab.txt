@@ -1,0 +1,6 @@
+Block Start Exit Start Exit Block
+Exit WallWest Trap WallSouth WallNorth Start
+Start WallEast Potion Potion Trap Exit
+Exit Trap Potion Potion WallWest Start
+Start WallSouth WallNorth Trap WallEast Exit
+Block Exit Start Exit Start Block
