@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ismeretterjesztő &#8211; Fogaskerék</title>
+	<atom:link href="/tag/ismeretterjeszto/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Tue, 16 Mar 2010 06:00:00 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>&#8220;Nézd és mondd&#8221; sorozatok</title>
+		<link>/2010/03/nezd_es_mondd_sorozatok/</link>
+					<comments>/2010/03/nezd_es_mondd_sorozatok/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Tue, 16 Mar 2010 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[ismeretterjesztő]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/16/nezd_es_mondd_sorozatok</guid>
+
+					<description><![CDATA[Az előző posztban szereplő sorozat egy speciális esete az &#34;nézd és mondd&#34; (angolul &#34;look and say&#34;) szabállyal képezhető sorozatoknak, melyekkel John Horton Conway zseniális brit matematikus sokat foglalkozott. Nem véletlenül ismerős Conway neve, hiszen &#8211; sok más izgalmas dolog mellett &#8211; az Életjáték felfedezője is ő. Nézzünk egy példát, hogy is működik a dolog: induljunk ki a következő kezdeti értékből: ... <a class="read-more" href="/2010/03/nezd_es_mondd_sorozatok/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Az előző posztban szereplő sorozat egy speciális esete az &quot;nézd és mondd&quot; (angolul &quot;look and say&quot;) szabállyal képezhető sorozatoknak, melyekkel John Horton Conway zseniális brit matematikus sokat foglalkozott. Nem véletlenül ismerős Conway neve, hiszen &#8211; sok más izgalmas dolog  mellett &#8211; az <a href="http://hu.wikipedia.org/wiki/%C3%89letj%C3%A1t%C3%A9k">Életjáték</a>  felfedezője is ő.</p>
+<p>Nézzünk egy példát, hogy is működik a dolog:</p>
+<ul>
+<li>induljunk ki a következő kezdeti értékből: 11</li>
+<li>11 az &quot;két egyes&quot;, tehát a következő elem 21,</li>
+<li>21 az &quot;egy kettes, egy egyes&quot;, azaz 1211</li>
+<li>1211 pedig &quot;egy egyes, egy kettes, két egyes&quot;, tehát 111221</li>
+<li>stb.</li>
+</ul>
+<p style="text-align: justify;">Conway tett néhány érdekes megállapítást az ilyen típusú sorozatokról:</p>
+<ul>
+<li>A számjegyek között az 1,2,3-on kívül más nem fordul elő, hacsak a kezdőértékben nem volt 3-nál hosszabb ugyanabból a számjegyből egymás mellett, vagy eleve magasabb számjegy.</li>
+<li>A sorozat tagjainak hossza (kivéve a 22, 22, 22,&#8230; degenerált esetet), a kezdőértéktől függetlenül határ nélkül növekszik.</li>
+<li>A szomszédos tagok hosszának aránya ekkor közelítőleg 1,30357&#8230;-hez tart, melyet Conway-féle konstansnak hívnak.</li>
+</ul>
+<p>A Conway konstans egyébként meghatározható egy 71-ed fokú polinom egyetlen pozitív valós gyökeként. <a href="http://mathworld.wolfram.com/ConwaysConstant.html">Lásd itt</a>.</p>
+<h2>Az audioaktív bomlás csodálatos kémiája</h2>
+<p style="text-align: justify;">Ez mind szép és jó, de Conway nem állt meg itt, hanem egész saját univerzumot kreált ezeknek a sorozatoknak. Észrevette ugyanis, hogy a sorozat tagjai előbb-utóbb szétbomlanak olyan &#8211; általa &quot;eleminek&quot; nevezett &#8211; részekre, melyek utána már nem lépnek egymással &quot;kölcsönhatásba&quot;. Egészen pontosan 92 db ilyen &quot;elem&quot; létezik feltéve, hogy csak 1,2,3 számjegyek szerepelnek. Ezeket az elemeket a kémia elemek mintájára nevezte el hidrogéntől az uránig. Ha megengedünk 3-nál nagyobb számjegyeket is, akkor még néhány &quot;transzurán&quot; elemmel bővül a kínálat.</p>
+<p style="text-align: justify;">Minden fenti sorozatban a tagok egy idő után &quot;elemi&quot; részekből álló &quot;vegyületekké&quot; esnek szét. Ezen túlmenően, az elemek relatív gyakorisága fix, jól meghatározott számokhoz konvergál. Például minden tizenegyedik atom a leggyakoribb &quot;elem&quot;, a hidrogén, ha kellően hosszú (többmillió atomból álló) tagokat nézünk.</p>
+<p>További információ a <a href="http://mathworld.wolfram.com/LookandSaySequence.html">Mathworldön</a>.</p>
+<p>Ja és ha valakinek meglenne az eredeti Conway cikk, vagy valamelyik reinkarnációja, hálás lennék, ha megosztaná velem <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (lásd irodalomjegyzék az előző linken).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/03/nezd_es_mondd_sorozatok/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

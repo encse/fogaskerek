@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Megfejtésért ingyensör!	</title>
+	<atom:link href="/2010/03/megfejtesert_ingyensor/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/03/megfejtesert_ingyensor/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Fri, 12 Mar 2010 12:59:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: Szajmong		</title>
+		<link>/2010/03/megfejtesert_ingyensor/#comment-22</link>
+
+		<dc:creator><![CDATA[Szajmong]]></dc:creator>
+		<pubDate>Fri, 12 Mar 2010 12:59:02 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/11/megfejtesert_ingyensor#comment-22</guid>
+
+					<description><![CDATA[Én sem.&lt;br /&gt;
+A következő szám egyébként:&lt;br /&gt;
+1113213211]]></description>
+			<content:encoded><![CDATA[<p>Én sem.<br />
+A következő szám egyébként:<br />
+1113213211</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: _Cactus_		</title>
+		<link>/2010/03/megfejtesert_ingyensor/#comment-21</link>
+
+		<dc:creator><![CDATA[_Cactus_]]></dc:creator>
+		<pubDate>Fri, 12 Mar 2010 08:19:58 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/11/megfejtesert_ingyensor#comment-21</guid>
+
+					<description><![CDATA[2. Hármas lehet a legnagyobb számjegy, ami előfordul a sorozat elemeiben, ugyanis pl. 4 csak úgy lehetne, hogy az előző lépésben volt olyan, hogy XXXX, de ez valójában (2*X)X lett volna.&lt;br /&gt;
+&lt;br /&gt;
+(nemtom mennyire érthető, magát a sorozatképzési szabályt direkt nem akarom lelőni a többieknek)]]></description>
+			<content:encoded><![CDATA[<p>2. Hármas lehet a legnagyobb számjegy, ami előfordul a sorozat elemeiben, ugyanis pl. 4 csak úgy lehetne, hogy az előző lépésben volt olyan, hogy XXXX, de ez valójában (2*X)X lett volna.</p>
+<p>(nemtom mennyire érthető, magát a sorozatképzési szabályt direkt nem akarom lelőni a többieknek)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

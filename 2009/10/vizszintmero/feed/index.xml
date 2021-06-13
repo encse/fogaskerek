@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Vízszintmérő	</title>
+	<atom:link href="/2009/10/vizszintmero/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/10/vizszintmero/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Wed, 11 May 2016 20:22:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: Egyéves Önkéntes		</title>
+		<link>/2009/10/vizszintmero/#comment-332</link>
+
+		<dc:creator><![CDATA[Egyéves Önkéntes]]></dc:creator>
+		<pubDate>Sat, 31 Oct 2009 19:39:17 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-332</guid>
+
+					<description><![CDATA[aki ilyen hosszan képes írni, az egyéb gaztettre is hajlamos. :DD&lt;br /&gt;
+&lt;br /&gt;
+mondtam már, hogy igazad van.&lt;br /&gt;
+csak a részleteken vitázunk.&lt;br /&gt;
+ettől szép a matek.]]></description>
+			<content:encoded><![CDATA[<p>aki ilyen hosszan képes írni, az egyéb gaztettre is hajlamos. :DD</p>
+<p>mondtam már, hogy igazad van.<br />
+csak a részleteken vitázunk.<br />
+ettől szép a matek.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/10/vizszintmero/#comment-331</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2009 22:45:45 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-331</guid>
+
+					<description><![CDATA[A feladatkiírásban egészen pontosan az van, hogy &quot;ehhez még egy biztosan vízszintes referencia felületre sem volt szükség&quot;.&lt;br /&gt;
+&lt;br /&gt;
+Tehát nem az a feladat, hogy egy tetszőlegesen, extrém módon ferde alapsíkon állítsuk be a vízszintmérőt, hanem az, hogy egy olyan tetszőleges módszerrel állítsuk be, amelyhez nem szükséges egy vízszintes referencia felület. Tulajdonképpen ez egy picit bújtatott megkötés. Nyilván azért zárjuk ki az ilyen megoldásokat, mert vízszintes felületen a beállítás triviális lenne.&lt;br /&gt;
+&lt;br /&gt;
+Mi már megoldottuk a feladatot, és rábukkantunk egy olyan megoldásra, amivel egy ferde alapsíkon be lehet állítani a mérőnket.&lt;br /&gt;
+&lt;br /&gt;
+Az elméleti megoldást tekintve teljesen mindegy, hogy ez a felület milyen lejtésű.&lt;br /&gt;
+&lt;br /&gt;
+A gyakorlati megoldást tekintve nem mindegy, hiszen a 3.44 fokos határértéken belül kell lennie az alapsík lejtésének ahhoz, hogy pontosan tudjunk kalibrálni. Átfogalmazva az eredeti feladatot úgy, hogy már tudjuk, hogy a beállítás egy ferde felületen történik, azt kapjuk, hogy egy ferde alapsíkon állítsuk be a mérőt. Nincs megkötve, hogy ez az alapsík milyen legyen, tehát rajtunk áll a választás, és mi nyilván olyat fogunk választani, ami minél vízszintesebb, de legalábbis belül van a 3.44 fokos határon. Mivel gyakorlati megoldásról van szó, és egy lakásban vagyunk, ezért ilyen felület létezik, mégpedig a padló. Pontosabban nagyon nagy valószínűséggel létezik, mert a padlók lejtése szerencsére nem egyenletes eloszlású 0 és 90 fok között, hanem (ha kiterjesztjük -90 és 90 fok közé a lejtést) Gauss eloszlású, tehát leginkább a 0-hoz közeli tartományban mozognak a padlók lejtései. Valószínűleg létezik a világon 3.44 foknál nagyobb lejtésű padló, de ilyenekből viszonylag kevés van. A feladat megoldása tehát a gyakorlatban is jól működik.&lt;br /&gt;
+&lt;br /&gt;
+A 3.44 fokos pontossági határértéket nem iPhone-nal mértem ki (de nem rossz az ötlet :-) ), mert ilyenem nincs, és ha lenne is, nem tudom, hogy mennyire pontos. Először egy szögmérőt akartam használni erre a célra, de ilyenem se volt, úgyhogy a sin α = a/c képlettel (derékszögű háromszög) számoltam ki a lejtést.&lt;br /&gt;
+&lt;br /&gt;
+A gyerek mászókáját nem tudom, hogy miért volt nehéz beállítani, csak tippelni tudok, hogy talán túlságosan nagy mértékben mozgattad a vízszintmérőt. A 3.44 fok ugyan elég nagy ahhoz, hogy észre lehessen venni, ha valami ennyire ferde, de elég kicsi ahhoz, hogy egy mászókát macerálva a vízszintmérő ferdesége mindig nagyobb legyen nála, végállású bubit eredményezve.&lt;br /&gt;
+&lt;br /&gt;
+Azért remélem abba az irányba nem megyünk el, hogy azon kezdünk el vitatkozni, hogy a vízszintmérő tényleg úgy működik-e, ahogy leírtam. Az, hogy banán alakú, az tény. Az pedig, hogy bizonyos dőlés határon belül (ami az én esetemben 3.44 fok) a bubi nem megy ki végállásba, egyenes következménye a banán alaknak.&lt;br /&gt;
+&lt;br /&gt;
+Bővebben itt írnak a vízszintmérőről, és konkrétan a banánalakról:&lt;br /&gt;
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Spirit_level&quot; rel=&quot;nofollow&quot;&gt;en.wikipedia.org/wiki/Spirit_level&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://hu.wikipedia.org/wiki/V%C3%ADzm%C3%A9rt%C3%A9k&quot; rel=&quot;nofollow&quot;&gt;hu.wikipedia.org/wiki/V%C3%ADzm%C3%A9rt%C3%A9k&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Na most érzem, hogy a következő probléma az lesz, hogy bár az előbbi wikipedia oldalon ugyan írnak is a banán alakról, sőt a magyar oldalon még rajz is van róla, de a fényképen egyenesnek látszik a cső, nem pedig banán alakúnak. Úgyhogy ennek a paradoxonnak inkább elébe mennék.&lt;br /&gt;
+&lt;br /&gt;
+Igen, valóban egyenesnek látszik. Ennek a magyarázata pedig az lehet, hogy a fénykép a fényképezőgép objektívjének tökéletlensége miatt torzít és/vagy utólagos korrekciót végeztek a képen. Konkrétan a következők valamelyikére tippelek:&lt;br /&gt;
+&lt;br /&gt;
+1. Hordó alakú torzítás alakult ki, amely a szélein lefelé hajló banánalakot még jobban lefelé görbítette (a cső felső része a kép felezővonala felett helyezkedik el), és ezt a torzítást a kép készítője szoftveresen túlságosan is jól korrigálta, annyira, hogy tök egyenes lett, pedig a valóságban nem volt az.&lt;br /&gt;
+&lt;br /&gt;
+2. Egy kivágott képet látunk, ami az eredeti fénykép alsó része, így a cső felső része valójában az eredeti kép felezővonala alatt helyezkedik el. Hordó alakú torzítás alakult ki, amely a szélein lefelé hajló banánalakot kiegyenesítette.&lt;br /&gt;
+&lt;br /&gt;
+3. Párna alakú torzítás alakult ki, amely a szélein lefelé hajló banánalakot kiegyenesítette (a cső felső része a kép felezővonala felett helyezkedik el).&lt;br /&gt;
+&lt;br /&gt;
+4. Egy kivágott képet látunk, ami az eredeti fénykép alsó része, így a cső felső része valójában az eredeti kép felezővonala alatt helyezkedik el. Párna alakú torzítás alakult ki, amely a szélein lefelé hajló banánalakot még jobban lefelé görbítette, és ezt a torzítást a kép készítője szoftveresen túlságosan is jól korrigálta, annyira, hogy tök egyenes lett, pedig a valóságban nem volt az.&lt;br /&gt;
+&lt;br /&gt;
+5. A fényképen nem alakult ki semmilyen torzítás, de a kép készítője azt hitte, hogy igen, és szoftveresen korrigálta úgy, hogy tök egyenes lett, pedig a valóságban nem volt az.&lt;br /&gt;
+&lt;br /&gt;
+Az ilyen közeli makró felvételek esetén nem túl profi objektívvel tényleg kialakulnak ezek a torzítások. Az én fényképezőgépemmel ilyen közelről fényképet készítve hordó torzítás alakul ki, pedig egyáltalán nem gagyi gépről van szó, mégsem elég jó az objektívje erre a célra.&lt;br /&gt;
+&lt;br /&gt;
+Itt pl. eléggé látszik a banán alak:&lt;br /&gt;
+&lt;a href=&quot;http://shop.adjustplus.biz/images/ProdPic_A+AdvSpLvl.JPG&quot; rel=&quot;nofollow&quot;&gt;shop.adjustplus.biz/images/ProdPic_A+AdvSpLvl.JPG&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Sőt, jól látható, hogy vonalkák is vannak rajta. Abban remélem egyetértünk, hogy ha a vízszintmérőt picit kibillentve a vízszintes helyzetéből rögtön végállásba menne a bubi, akkor nem sok értelme lenne ezeknek a vonalkáknak.]]></description>
+			<content:encoded><![CDATA[<p>A feladatkiírásban egészen pontosan az van, hogy &#8220;ehhez még egy biztosan vízszintes referencia felületre sem volt szükség&#8221;.</p>
+<p>Tehát nem az a feladat, hogy egy tetszőlegesen, extrém módon ferde alapsíkon állítsuk be a vízszintmérőt, hanem az, hogy egy olyan tetszőleges módszerrel állítsuk be, amelyhez nem szükséges egy vízszintes referencia felület. Tulajdonképpen ez egy picit bújtatott megkötés. Nyilván azért zárjuk ki az ilyen megoldásokat, mert vízszintes felületen a beállítás triviális lenne.</p>
+<p>Mi már megoldottuk a feladatot, és rábukkantunk egy olyan megoldásra, amivel egy ferde alapsíkon be lehet állítani a mérőnket.</p>
+<p>Az elméleti megoldást tekintve teljesen mindegy, hogy ez a felület milyen lejtésű.</p>
+<p>A gyakorlati megoldást tekintve nem mindegy, hiszen a 3.44 fokos határértéken belül kell lennie az alapsík lejtésének ahhoz, hogy pontosan tudjunk kalibrálni. Átfogalmazva az eredeti feladatot úgy, hogy már tudjuk, hogy a beállítás egy ferde felületen történik, azt kapjuk, hogy egy ferde alapsíkon állítsuk be a mérőt. Nincs megkötve, hogy ez az alapsík milyen legyen, tehát rajtunk áll a választás, és mi nyilván olyat fogunk választani, ami minél vízszintesebb, de legalábbis belül van a 3.44 fokos határon. Mivel gyakorlati megoldásról van szó, és egy lakásban vagyunk, ezért ilyen felület létezik, mégpedig a padló. Pontosabban nagyon nagy valószínűséggel létezik, mert a padlók lejtése szerencsére nem egyenletes eloszlású 0 és 90 fok között, hanem (ha kiterjesztjük -90 és 90 fok közé a lejtést) Gauss eloszlású, tehát leginkább a 0-hoz közeli tartományban mozognak a padlók lejtései. Valószínűleg létezik a világon 3.44 foknál nagyobb lejtésű padló, de ilyenekből viszonylag kevés van. A feladat megoldása tehát a gyakorlatban is jól működik.</p>
+<p>A 3.44 fokos pontossági határértéket nem iPhone-nal mértem ki (de nem rossz az ötlet 🙂 ), mert ilyenem nincs, és ha lenne is, nem tudom, hogy mennyire pontos. Először egy szögmérőt akartam használni erre a célra, de ilyenem se volt, úgyhogy a sin α = a/c képlettel (derékszögű háromszög) számoltam ki a lejtést.</p>
+<p>A gyerek mászókáját nem tudom, hogy miért volt nehéz beállítani, csak tippelni tudok, hogy talán túlságosan nagy mértékben mozgattad a vízszintmérőt. A 3.44 fok ugyan elég nagy ahhoz, hogy észre lehessen venni, ha valami ennyire ferde, de elég kicsi ahhoz, hogy egy mászókát macerálva a vízszintmérő ferdesége mindig nagyobb legyen nála, végállású bubit eredményezve.</p>
+<p>Azért remélem abba az irányba nem megyünk el, hogy azon kezdünk el vitatkozni, hogy a vízszintmérő tényleg úgy működik-e, ahogy leírtam. Az, hogy banán alakú, az tény. Az pedig, hogy bizonyos dőlés határon belül (ami az én esetemben 3.44 fok) a bubi nem megy ki végállásba, egyenes következménye a banán alaknak.</p>
+<p>Bővebben itt írnak a vízszintmérőről, és konkrétan a banánalakról:<br />
+<a href="http://en.wikipedia.org/wiki/Spirit_level" rel="nofollow">en.wikipedia.org/wiki/Spirit_level</a><br />
+<a href="http://hu.wikipedia.org/wiki/V%C3%ADzm%C3%A9rt%C3%A9k" rel="nofollow">hu.wikipedia.org/wiki/V%C3%ADzm%C3%A9rt%C3%A9k</a></p>
+<p>Na most érzem, hogy a következő probléma az lesz, hogy bár az előbbi wikipedia oldalon ugyan írnak is a banán alakról, sőt a magyar oldalon még rajz is van róla, de a fényképen egyenesnek látszik a cső, nem pedig banán alakúnak. Úgyhogy ennek a paradoxonnak inkább elébe mennék.</p>
+<p>Igen, valóban egyenesnek látszik. Ennek a magyarázata pedig az lehet, hogy a fénykép a fényképezőgép objektívjének tökéletlensége miatt torzít és/vagy utólagos korrekciót végeztek a képen. Konkrétan a következők valamelyikére tippelek:</p>
+<p>1. Hordó alakú torzítás alakult ki, amely a szélein lefelé hajló banánalakot még jobban lefelé görbítette (a cső felső része a kép felezővonala felett helyezkedik el), és ezt a torzítást a kép készítője szoftveresen túlságosan is jól korrigálta, annyira, hogy tök egyenes lett, pedig a valóságban nem volt az.</p>
+<p>2. Egy kivágott képet látunk, ami az eredeti fénykép alsó része, így a cső felső része valójában az eredeti kép felezővonala alatt helyezkedik el. Hordó alakú torzítás alakult ki, amely a szélein lefelé hajló banánalakot kiegyenesítette.</p>
+<p>3. Párna alakú torzítás alakult ki, amely a szélein lefelé hajló banánalakot kiegyenesítette (a cső felső része a kép felezővonala felett helyezkedik el).</p>
+<p>4. Egy kivágott képet látunk, ami az eredeti fénykép alsó része, így a cső felső része valójában az eredeti kép felezővonala alatt helyezkedik el. Párna alakú torzítás alakult ki, amely a szélein lefelé hajló banánalakot még jobban lefelé görbítette, és ezt a torzítást a kép készítője szoftveresen túlságosan is jól korrigálta, annyira, hogy tök egyenes lett, pedig a valóságban nem volt az.</p>
+<p>5. A fényképen nem alakult ki semmilyen torzítás, de a kép készítője azt hitte, hogy igen, és szoftveresen korrigálta úgy, hogy tök egyenes lett, pedig a valóságban nem volt az.</p>
+<p>Az ilyen közeli makró felvételek esetén nem túl profi objektívvel tényleg kialakulnak ezek a torzítások. Az én fényképezőgépemmel ilyen közelről fényképet készítve hordó torzítás alakul ki, pedig egyáltalán nem gagyi gépről van szó, mégsem elég jó az objektívje erre a célra.</p>
+<p>Itt pl. eléggé látszik a banán alak:<br />
+<a href="http://shop.adjustplus.biz/images/ProdPic_A+AdvSpLvl.JPG" rel="nofollow">shop.adjustplus.biz/images/ProdPic_A+AdvSpLvl.JPG</a></p>
+<p>Sőt, jól látható, hogy vonalkák is vannak rajta. Abban remélem egyetértünk, hogy ha a vízszintmérőt picit kibillentve a vízszintes helyzetéből rögtön végállásba menne a bubi, akkor nem sok értelme lenne ezeknek a vonalkáknak.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Egyéves Önkéntes		</title>
+		<link>/2009/10/vizszintmero/#comment-330</link>
+
+		<dc:creator><![CDATA[Egyéves Önkéntes]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2009 06:47:20 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-330</guid>
+
+					<description><![CDATA[Köszönöm kimerítő válaszod.&lt;br /&gt;
+&lt;br /&gt;
+Egy fontos dolog: a feladatkiírásban az van, hogy nem tudjuk milyen ferde az alapsík, tehát lehet 3,44 foknál (ezt hogy mérted ki, tán ájfonnal? :) ) márpedig ez jelentősen befolyásolja a megoldhatóságot.&lt;br /&gt;
+&lt;br /&gt;
+(Amúgy a te példádnak teljesen ellentmond az a tény, hogy gyerek mászókáját nagyon nehezen tudtam beállítani, mert mindig végállásba került a bubi. És nem teszkós volt, hanem Bosch.)]]></description>
+			<content:encoded><![CDATA[<p>Köszönöm kimerítő válaszod.</p>
+<p>Egy fontos dolog: a feladatkiírásban az van, hogy nem tudjuk milyen ferde az alapsík, tehát lehet 3,44 foknál (ezt hogy mérted ki, tán ájfonnal? 🙂 ) márpedig ez jelentősen befolyásolja a megoldhatóságot.</p>
+<p>(Amúgy a te példádnak teljesen ellentmond az a tény, hogy gyerek mászókáját nagyon nehezen tudtam beállítani, mert mindig végállásba került a bubi. És nem teszkós volt, hanem Bosch.)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/10/vizszintmero/#comment-329</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2009 06:19:42 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-329</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7488178&quot; class=&quot;reply_nick_327552&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7488178 );&quot; rel=&quot;nofollow&quot;&gt;@EÖ&lt;/a&gt;: &quot;milyen ferde az alapsík, márpedig, ha ferdébb, mint a mérő hibája, akkor a bubi mindig A vagy I pozícióban lesz (koppanásig a cső végén)&quot;&lt;br /&gt;
+&lt;br /&gt;
+Szerencsére ez nem igaz. Ha ez így lenne, akkor egy jól beállított vízszintmérő (nulla hiba) egy csak egészen picit ferde alapsíkon már koppanásig kitérő bubit eredményezne. Ez nagyon megnehezítené a mérést (pl. egy képkeret beállítása vízszintes helyzetbe), hiszen rendkívül instabil lenne a buborék helyzete. A vízszintmérő csöve, amiben a bubi mozog, enyhén banán alakú (a két szélén lefelé hajlik, a közepén magasabb). Így ha a cső egy picit eltér a vízszintestől, akkor a bubi nem megy ki rögtön koppanásig, hanem bizonyos lejtésig amolyan szögmérőként funkcionál. Lemértem most itthon, hogy a képen látható Tesco gazdaságos vízszintmérő esetén ez a lejtés mekkora. 3.44 fok lett az eredmény. Ennyi kell ahhoz, hogy a buborék széle elérje a cső végét. Ezután, ha még jobban megdöntjük a vízszintmérőt, a buborék egyre jobban a cső végéhez préselődik, jól látható alakváltozást produkálva (a buborék másik széle mozog), bár ez már nem annyira pontos, mint a 0 és 3.44 fok közötti tartományban, amikor a buborék még tudott mozogni. Az alakváltozás kb. 40 fokos lejtésig még látható. Nyilván minél közelebb vagyunk a 40 fokos határhoz, annál pontatlanabb a dolog.&lt;br /&gt;
+&lt;br /&gt;
+A 3.44 fokot nevezzük el pontossági határértéknek, a 40 fokot pedig észlelési határértéknek. Ha a cső vízszintestől való eltérése meghaladja az előbbit, akkor egyre pontatlanabbá válik a bubi irányának meghatározása, ha utóbbit, akkor már lehetetlenné. Határérték alatt ezentúl értsük valamelyiket, attól függően, hogy pontosan kell megmondani a bubi irányát, vagy megengedünk egy kis pontatlanságot is. A határértéket jelöljük &quot;h&quot;-val (h&#062;0).&lt;br /&gt;
+&lt;br /&gt;
+Ha az alapsík lejtése &quot;c&quot; (c&#062;0), a vízszintmérő pontatlansága pedig &quot;p&quot; (p&#062;0), akkor a cső vízszintestől való eltérése c+p ill. c-p (vigyázat, ezek előjeles mennyiségek), attól függően, hogy normál vagy fordított állásban tesszük rá az alapsíkra a vízszintmérőt. A c+p ill. c-p értékeket a bubi helyzetéből lehet kiolvasni.&lt;br /&gt;
+&lt;br /&gt;
+A bubi irányát akkor nem tudjuk pontosan meghatározni valamelyik állásban, ha a c+p&#062;h vagy c-p&#062;h, azaz egyszerűbben írva: ha c+p&#062;h. Nevezzük ezt nulladrendű zavarnak. Azonban nulladrendű zavar nem feltétlenül jelenti azt, hogy nem tudjuk pontosan beállítani a vízszintmérőt.&lt;br /&gt;
+&lt;br /&gt;
+Igazi probléma akkor léphet fel, amikor a cső vízszintestől való eltérése normál és fordított esetben is meghaladja valamelyik határértéket (azaz mindkét esetben azonos oldalon koppanásig van a bubi): c + p &#062; h és c - p &#062; h&lt;br /&gt;
+&lt;br /&gt;
+Vagy egyszerűbben írva: c - p &#062; h&lt;br /&gt;
+&lt;br /&gt;
+Nevezzük ezt elsőrendű problémának. (A definícióból adódóan az elsőrendű probléma egyben nulladrendű zavar is.) Ebben az esetben a bubi irányát sem normál, sem fordított esetben nem tudjuk pontosan meghatározni, és azt sem tudjuk, hogy melyik irányban pontatlan a mérőnk, azaz nem tudjuk, hogy hogyan csökkenthetjük &quot;p&quot; értékét.&lt;br /&gt;
+&lt;br /&gt;
+Jól látszik, hogy extrém esetben, ha mondjuk c = 60 fok és p = 59 fok, vagy c = 60 fok és p = 61 fok, még ekkor sem lép fel az elsőrendű probléma (bár nullandrendű zavar észlelhető). Viszont ez még nem elég nekünk, hiszen ha az előbbi két esetben megpróbáljuk beállítani a mérőt, akkor azt fogjuk tapasztalni, hogy elsőre biztosan nem fog sikerülni, ugyanis az egyik állásban nem tudjuk pontosan meghatározni a bubi irányát, hiszen túllépte a határértéket. Ha kicsit állítunk a vízszintmérőn, hogy pontosabb legyen, akkor pedig egy idő után fellép az elsőrendű probléma. Vizsgáljuk meg, hogy mi vezethet elsőrendű problémához.&lt;br /&gt;
+&lt;br /&gt;
+A probléma megoldása során, ahogy egyre pontosabbra állítjuk be a vízszintmérőt, van egy invariánsunk, ez pedig a cső vízszintestől való eltéréseinek a számtani közepe normál és fordított esetben, azaz: ((c + p) + (c - p)) / 2 = c&lt;br /&gt;
+&lt;br /&gt;
+Látszik, hogy ez tényleg állandó, akárhogy is állítunk &quot;p&quot; értékén. Pontosan beállított vízszintmérő esetén nyilván p=0, azaz a cső vízszintestől való eltérése megegyezik ezzel a számtani középpel, ami az alapsík lejtése.&lt;br /&gt;
+&lt;br /&gt;
+Miközben egyre pontosabbra akarjuk beállítani a vízszintmérőt, &quot;p&quot; értéke egyre csökken. Tehát c+p ill. c-p értéke &quot;c&quot;-hez közelít (nyilván a bubi helyes iránya is a normál és fordított bubi irányainak számtani közepe lesz). Vagyis ha c&#062;h, akkor egy idő után (még mielőtt pontosan be tudnánk állítani a vízszintmérőt) mindenképpen eljutunk az elsőrendő problémához. Nevezzük ezt másodrendű problémának. (A definícióból adódóan az elsőrendű probléma egyben másodrendű is.)&lt;br /&gt;
+&lt;br /&gt;
+Tehát akkor nem tudjuk pontosan beállítani a vízszintmérőnket, ha másodrendű problémával állunk szemben, azaz ha az alapsík lejtése nagyobb a határértéknél (c&#062;h). Látszik, hogy ebben a képletben egyáltalán nem szerepel a mérő hibája (p).&lt;br /&gt;
+&lt;br /&gt;
+Csak érdekességként említem, hogy ebből jól látszik, hogy extrém pontatlanságú vízszintmérőt is tökéletesen be tudunk állítani, ha az alapsík lejtése a határértéken belül van. Pl. legyen c = 3 fok, és p = 60 fok. Ekkor c + p = 63 fok, és c - p = -57 fok. Normál és fordított állásban is koppanásig lesz a bubi, de különböző oldalakon. Azaz nulladrendű zavarunk van, viszont nincs első- ill. másodrendű problémánk. A bubik irányát a koppanásig kint lévő helyzetük miatt nem tudjuk pontosan leolvasni, de tudjuk, hogy melyik irányban pontatlan a mérőnk, azaz tudjuk, hogy hogyan csökkenthetjük &quot;p&quot; értékét. Egy-két állítgatás után, amikor &quot;p&quot; értéke 0.44 fok alá csökken, megszűnik a nulladrendű zavar, és innentől már pontosan beállíthatjuk a vízszintmérőt.&lt;br /&gt;
+&lt;br /&gt;
+Tehát, abban teljesen igazad van, hogy a megoldás elméletben tökéletesen alkalmazható. Abban is igazad van, hogy a gyakorlatban előfordulhatnak olyan esetek, amikor nem tudjuk pontosan beállítani a vízszintmérőnket. Viszont ha már gyakorlatról beszélünk, akkor legyünk tisztességesek, és nézzük meg, hogy mi kell ahhoz, hogy egy ilyen eset előálljon. Az kell hozzá, hogy a lakásban ne legyen egyetlen olyan sík felület sem, aminek a lejtése kisebb mint a határérték. Legyünk szigorúak, és vegyük a pontossági határértéket, azaz 3.44 fokot. Ez látszólag kis szám, valójában azért eléggé észrevehető egy ilyen lejtéssel megáldott felület. És bár az építőcégek Magyarországon legendásan szar munkát végeznek, azért egy 3.44 foknál kisebb lejtésű padlót még ők is össze tudnak hozni. :-)&lt;br /&gt;
+&lt;br /&gt;
+A feladat megoldása tehát a gyakorlatban is jól működik, és nagyon extrém helyzetnek kell kialakulnia ahhoz, hogy ne működjön.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7488178" class="reply_nick_327552" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7488178 );" rel="nofollow">@EÖ</a>: &#8220;milyen ferde az alapsík, márpedig, ha ferdébb, mint a mérő hibája, akkor a bubi mindig A vagy I pozícióban lesz (koppanásig a cső végén)&#8221;</p>
+<p>Szerencsére ez nem igaz. Ha ez így lenne, akkor egy jól beállított vízszintmérő (nulla hiba) egy csak egészen picit ferde alapsíkon már koppanásig kitérő bubit eredményezne. Ez nagyon megnehezítené a mérést (pl. egy képkeret beállítása vízszintes helyzetbe), hiszen rendkívül instabil lenne a buborék helyzete. A vízszintmérő csöve, amiben a bubi mozog, enyhén banán alakú (a két szélén lefelé hajlik, a közepén magasabb). Így ha a cső egy picit eltér a vízszintestől, akkor a bubi nem megy ki rögtön koppanásig, hanem bizonyos lejtésig amolyan szögmérőként funkcionál. Lemértem most itthon, hogy a képen látható Tesco gazdaságos vízszintmérő esetén ez a lejtés mekkora. 3.44 fok lett az eredmény. Ennyi kell ahhoz, hogy a buborék széle elérje a cső végét. Ezután, ha még jobban megdöntjük a vízszintmérőt, a buborék egyre jobban a cső végéhez préselődik, jól látható alakváltozást produkálva (a buborék másik széle mozog), bár ez már nem annyira pontos, mint a 0 és 3.44 fok közötti tartományban, amikor a buborék még tudott mozogni. Az alakváltozás kb. 40 fokos lejtésig még látható. Nyilván minél közelebb vagyunk a 40 fokos határhoz, annál pontatlanabb a dolog.</p>
+<p>A 3.44 fokot nevezzük el pontossági határértéknek, a 40 fokot pedig észlelési határértéknek. Ha a cső vízszintestől való eltérése meghaladja az előbbit, akkor egyre pontatlanabbá válik a bubi irányának meghatározása, ha utóbbit, akkor már lehetetlenné. Határérték alatt ezentúl értsük valamelyiket, attól függően, hogy pontosan kell megmondani a bubi irányát, vagy megengedünk egy kis pontatlanságot is. A határértéket jelöljük &#8220;h&#8221;-val (h&gt;0).</p>
+<p>Ha az alapsík lejtése &#8220;c&#8221; (c&gt;0), a vízszintmérő pontatlansága pedig &#8220;p&#8221; (p&gt;0), akkor a cső vízszintestől való eltérése c+p ill. c-p (vigyázat, ezek előjeles mennyiségek), attól függően, hogy normál vagy fordított állásban tesszük rá az alapsíkra a vízszintmérőt. A c+p ill. c-p értékeket a bubi helyzetéből lehet kiolvasni.</p>
+<p>A bubi irányát akkor nem tudjuk pontosan meghatározni valamelyik állásban, ha a c+p&gt;h vagy c-p&gt;h, azaz egyszerűbben írva: ha c+p&gt;h. Nevezzük ezt nulladrendű zavarnak. Azonban nulladrendű zavar nem feltétlenül jelenti azt, hogy nem tudjuk pontosan beállítani a vízszintmérőt.</p>
+<p>Igazi probléma akkor léphet fel, amikor a cső vízszintestől való eltérése normál és fordított esetben is meghaladja valamelyik határértéket (azaz mindkét esetben azonos oldalon koppanásig van a bubi): c + p &gt; h és c &#8211; p &gt; h</p>
+<p>Vagy egyszerűbben írva: c &#8211; p &gt; h</p>
+<p>Nevezzük ezt elsőrendű problémának. (A definícióból adódóan az elsőrendű probléma egyben nulladrendű zavar is.) Ebben az esetben a bubi irányát sem normál, sem fordított esetben nem tudjuk pontosan meghatározni, és azt sem tudjuk, hogy melyik irányban pontatlan a mérőnk, azaz nem tudjuk, hogy hogyan csökkenthetjük &#8220;p&#8221; értékét.</p>
+<p>Jól látszik, hogy extrém esetben, ha mondjuk c = 60 fok és p = 59 fok, vagy c = 60 fok és p = 61 fok, még ekkor sem lép fel az elsőrendű probléma (bár nullandrendű zavar észlelhető). Viszont ez még nem elég nekünk, hiszen ha az előbbi két esetben megpróbáljuk beállítani a mérőt, akkor azt fogjuk tapasztalni, hogy elsőre biztosan nem fog sikerülni, ugyanis az egyik állásban nem tudjuk pontosan meghatározni a bubi irányát, hiszen túllépte a határértéket. Ha kicsit állítunk a vízszintmérőn, hogy pontosabb legyen, akkor pedig egy idő után fellép az elsőrendű probléma. Vizsgáljuk meg, hogy mi vezethet elsőrendű problémához.</p>
+<p>A probléma megoldása során, ahogy egyre pontosabbra állítjuk be a vízszintmérőt, van egy invariánsunk, ez pedig a cső vízszintestől való eltéréseinek a számtani közepe normál és fordított esetben, azaz: ((c + p) + (c &#8211; p)) / 2 = c</p>
+<p>Látszik, hogy ez tényleg állandó, akárhogy is állítunk &#8220;p&#8221; értékén. Pontosan beállított vízszintmérő esetén nyilván p=0, azaz a cső vízszintestől való eltérése megegyezik ezzel a számtani középpel, ami az alapsík lejtése.</p>
+<p>Miközben egyre pontosabbra akarjuk beállítani a vízszintmérőt, &#8220;p&#8221; értéke egyre csökken. Tehát c+p ill. c-p értéke &#8220;c&#8221;-hez közelít (nyilván a bubi helyes iránya is a normál és fordított bubi irányainak számtani közepe lesz). Vagyis ha c&gt;h, akkor egy idő után (még mielőtt pontosan be tudnánk állítani a vízszintmérőt) mindenképpen eljutunk az elsőrendő problémához. Nevezzük ezt másodrendű problémának. (A definícióból adódóan az elsőrendű probléma egyben másodrendű is.)</p>
+<p>Tehát akkor nem tudjuk pontosan beállítani a vízszintmérőnket, ha másodrendű problémával állunk szemben, azaz ha az alapsík lejtése nagyobb a határértéknél (c&gt;h). Látszik, hogy ebben a képletben egyáltalán nem szerepel a mérő hibája (p).</p>
+<p>Csak érdekességként említem, hogy ebből jól látszik, hogy extrém pontatlanságú vízszintmérőt is tökéletesen be tudunk állítani, ha az alapsík lejtése a határértéken belül van. Pl. legyen c = 3 fok, és p = 60 fok. Ekkor c + p = 63 fok, és c &#8211; p = -57 fok. Normál és fordított állásban is koppanásig lesz a bubi, de különböző oldalakon. Azaz nulladrendű zavarunk van, viszont nincs első- ill. másodrendű problémánk. A bubik irányát a koppanásig kint lévő helyzetük miatt nem tudjuk pontosan leolvasni, de tudjuk, hogy melyik irányban pontatlan a mérőnk, azaz tudjuk, hogy hogyan csökkenthetjük &#8220;p&#8221; értékét. Egy-két állítgatás után, amikor &#8220;p&#8221; értéke 0.44 fok alá csökken, megszűnik a nulladrendű zavar, és innentől már pontosan beállíthatjuk a vízszintmérőt.</p>
+<p>Tehát, abban teljesen igazad van, hogy a megoldás elméletben tökéletesen alkalmazható. Abban is igazad van, hogy a gyakorlatban előfordulhatnak olyan esetek, amikor nem tudjuk pontosan beállítani a vízszintmérőnket. Viszont ha már gyakorlatról beszélünk, akkor legyünk tisztességesek, és nézzük meg, hogy mi kell ahhoz, hogy egy ilyen eset előálljon. Az kell hozzá, hogy a lakásban ne legyen egyetlen olyan sík felület sem, aminek a lejtése kisebb mint a határérték. Legyünk szigorúak, és vegyük a pontossági határértéket, azaz 3.44 fokot. Ez látszólag kis szám, valójában azért eléggé észrevehető egy ilyen lejtéssel megáldott felület. És bár az építőcégek Magyarországon legendásan szar munkát végeznek, azért egy 3.44 foknál kisebb lejtésű padlót még ők is össze tudnak hozni. 🙂</p>
+<p>A feladat megoldása tehát a gyakorlatban is jól működik, és nagyon extrém helyzetnek kell kialakulnia ahhoz, hogy ne működjön.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Egyéves Önkéntes		</title>
+		<link>/2009/10/vizszintmero/#comment-328</link>
+
+		<dc:creator><![CDATA[Egyéves Önkéntes]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2009 10:24:42 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-328</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7481855&quot; class=&quot;reply_nick_186498&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7481855 );&quot; rel=&quot;nofollow&quot;&gt;@cooldavee&lt;/a&gt;: értem.&lt;br /&gt;
+az irányt úgy értettem én is, ahogy írod, csak nem fogalmaztam ilyen szépen.&lt;br /&gt;
+&lt;br /&gt;
+amit írsz, az világos számomra, sőt már az elején is az volt.&lt;br /&gt;
+ott a félreértés, hogy nem egyértelmű, milyen ferde az alapsík, márpedig, ha ferdébb, mint a mérő hibája, akkor a bubi mindig A vagy I pozícióban lesz (koppanásig a cső végén).&lt;br /&gt;
+a megoldás tehát szerintem szigorúan matematikai értelemben jó, de a valóságban nem minden esetben.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7481855" class="reply_nick_186498" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7481855 );" rel="nofollow">@cooldavee</a>: értem.<br />
+az irányt úgy értettem én is, ahogy írod, csak nem fogalmaztam ilyen szépen.</p>
+<p>amit írsz, az világos számomra, sőt már az elején is az volt.<br />
+ott a félreértés, hogy nem egyértelmű, milyen ferde az alapsík, márpedig, ha ferdébb, mint a mérő hibája, akkor a bubi mindig A vagy I pozícióban lesz (koppanásig a cső végén).<br />
+a megoldás tehát szerintem szigorúan matematikai értelemben jó, de a valóságban nem minden esetben.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/10/vizszintmero/#comment-327</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 18:00:50 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-327</guid>
+
+					<description><![CDATA[Kis kiegészítés: a bubi, ha a földhöz viszonyítjuk, természetesen mindig ugyanabba az irányba, függőlegesen felfelé mutat.&lt;br /&gt;
+&lt;br /&gt;
+Amikor a bubi különböző irányairól írtam, akkor a bubi irányát a cső koordináta rendszerében értettem.]]></description>
+			<content:encoded><![CDATA[<p>Kis kiegészítés: a bubi, ha a földhöz viszonyítjuk, természetesen mindig ugyanabba az irányba, függőlegesen felfelé mutat.</p>
+<p>Amikor a bubi különböző irányairól írtam, akkor a bubi irányát a cső koordináta rendszerében értettem.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/10/vizszintmero/#comment-326</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 17:31:47 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-326</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7479922&quot; class=&quot;reply_nick_327552&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7479922 );&quot; rel=&quot;nofollow&quot;&gt;@EÖ&lt;/a&gt;: Én egy szót sem szóltam arról, hogy melyik oldalon lesz a bubi normál illetve megfordított esetben. Ez nem is lényeges. Az asztal lejtésétől ill. a vízszintmérő pontatlanságától függően előfordulhat az is, hogy mindkét esetben az egyik oldalon lesz a bubi, de akár az is előfordulhat, hogy különböző oldalakra kerül a bubi.&lt;br /&gt;
+&lt;br /&gt;
+Amit én mondtam az az, hogy pontatlan vízszintmérő esetén a bubi különböző irányokban fog mutatni normál ill. megfordított esetben. Irány alatt matematikai vektort értek, nem pedig azt, hogy a cső melyik oldalán van a bubi. A te példádon keresztül szemléltetve ez azt jelenti, hogy a normál esetben, amikor 15 fokos lejtést mutat a cső, a bubi sokkal jobban kitér, mint a megfordított esetben, amikor csak 5 fokos lejtést mutat. A bubik a különböző esetekben eltérő mértékű lejtést mutatnak, tehát más-más irányba mutatnak.&lt;br /&gt;
+&lt;br /&gt;
+Jól beállított vízszintmérő esetén a normál ill. megfordított esetben a bubik ugyanabba az irányba mutatnak, azaz ugyanannyira fognak kitérni.&lt;br /&gt;
+&lt;br /&gt;
+Szemléltetve, legyen a vízszintmérő ez a betűsor (az E betű jelöli a közepét):&lt;br /&gt;
+&lt;br /&gt;
+ABCDEFGHI&lt;br /&gt;
+&lt;br /&gt;
+Ha letesszük az asztalra, akkor a normál esetben 15 fokos eltérést mutat a cső (a bubi a H pontban van, jobb oldalon):&lt;br /&gt;
+&lt;br /&gt;
+ABCDEFG(H)I&lt;br /&gt;
+&lt;br /&gt;
+Megfordítva a vízszintmérőt még mindig ugyanazon az oldalon, a jobb oldalon lesz a bubi (az E betűtől jobbra), de már más irányba mutat, hiszen már csak 5 fokos eltérést mutat:&lt;br /&gt;
+&lt;br /&gt;
+IHGFE(D)CBA&lt;br /&gt;
+&lt;br /&gt;
+A normál &quot;H&quot; a megfordított &quot;B&quot;-nek felel meg. Innen tudjuk, hogy a megfordított vízszintmérőn nézve &quot;D&quot; és &quot;B&quot; felénél, azaz &quot;C&quot;-nél kéne lennie a bubinak, ha jól lenne beállítva a vízszintmérő.&lt;br /&gt;
+&lt;br /&gt;
+Ezt a pontatlan vízszintmérőt a csavarok segítségével beállíthatjuk úgy, hogy a helyes megfordított &quot;C&quot; felé mutasson:&lt;br /&gt;
+&lt;br /&gt;
+IHGFED(C)BA&lt;br /&gt;
+&lt;br /&gt;
+Vagy visszatérve a normál esetre, &quot;G&quot; felé kell mutatnia:&lt;br /&gt;
+&lt;br /&gt;
+ABCDEF(G)HI&lt;br /&gt;
+&lt;br /&gt;
+Egyébként a feladatot én találtam ki (pontosabban az &quot;élet&quot;), mert nekem volt ilyen szar Tesco gazdaságos vízszintmérőm :-), és nekem akkor és ott (azt hiszem, egy képet akartam feltenni a falra) tényleg be kellett állítanom a vízszintmérőmet, ami a leírt módszerrel sikerült is. Nem csak szemre lett jó, ezt utólag egy normális vízszintmérővel ellenőriztem is.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7479922" class="reply_nick_327552" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7479922 );" rel="nofollow">@EÖ</a>: Én egy szót sem szóltam arról, hogy melyik oldalon lesz a bubi normál illetve megfordított esetben. Ez nem is lényeges. Az asztal lejtésétől ill. a vízszintmérő pontatlanságától függően előfordulhat az is, hogy mindkét esetben az egyik oldalon lesz a bubi, de akár az is előfordulhat, hogy különböző oldalakra kerül a bubi.</p>
+<p>Amit én mondtam az az, hogy pontatlan vízszintmérő esetén a bubi különböző irányokban fog mutatni normál ill. megfordított esetben. Irány alatt matematikai vektort értek, nem pedig azt, hogy a cső melyik oldalán van a bubi. A te példádon keresztül szemléltetve ez azt jelenti, hogy a normál esetben, amikor 15 fokos lejtést mutat a cső, a bubi sokkal jobban kitér, mint a megfordított esetben, amikor csak 5 fokos lejtést mutat. A bubik a különböző esetekben eltérő mértékű lejtést mutatnak, tehát más-más irányba mutatnak.</p>
+<p>Jól beállított vízszintmérő esetén a normál ill. megfordított esetben a bubik ugyanabba az irányba mutatnak, azaz ugyanannyira fognak kitérni.</p>
+<p>Szemléltetve, legyen a vízszintmérő ez a betűsor (az E betű jelöli a közepét):</p>
+<p>ABCDEFGHI</p>
+<p>Ha letesszük az asztalra, akkor a normál esetben 15 fokos eltérést mutat a cső (a bubi a H pontban van, jobb oldalon):</p>
+<p>ABCDEFG(H)I</p>
+<p>Megfordítva a vízszintmérőt még mindig ugyanazon az oldalon, a jobb oldalon lesz a bubi (az E betűtől jobbra), de már más irányba mutat, hiszen már csak 5 fokos eltérést mutat:</p>
+<p>IHGFE(D)CBA</p>
+<p>A normál &#8220;H&#8221; a megfordított &#8220;B&#8221;-nek felel meg. Innen tudjuk, hogy a megfordított vízszintmérőn nézve &#8220;D&#8221; és &#8220;B&#8221; felénél, azaz &#8220;C&#8221;-nél kéne lennie a bubinak, ha jól lenne beállítva a vízszintmérő.</p>
+<p>Ezt a pontatlan vízszintmérőt a csavarok segítségével beállíthatjuk úgy, hogy a helyes megfordított &#8220;C&#8221; felé mutasson:</p>
+<p>IHGFED(C)BA</p>
+<p>Vagy visszatérve a normál esetre, &#8220;G&#8221; felé kell mutatnia:</p>
+<p>ABCDEF(G)HI</p>
+<p>Egyébként a feladatot én találtam ki (pontosabban az &#8220;élet&#8221;), mert nekem volt ilyen szar Tesco gazdaságos vízszintmérőm :-), és nekem akkor és ott (azt hiszem, egy képet akartam feltenni a falra) tényleg be kellett állítanom a vízszintmérőmet, ami a leírt módszerrel sikerült is. Nem csak szemre lett jó, ezt utólag egy normális vízszintmérővel ellenőriztem is.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Egyéves Önkéntes		</title>
+		<link>/2009/10/vizszintmero/#comment-325</link>
+
+		<dc:creator><![CDATA[Egyéves Önkéntes]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 14:41:03 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-325</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7479444&quot; class=&quot;reply_nick_186498&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7479444 );&quot; rel=&quot;nofollow&quot;&gt;@cooldavee&lt;/a&gt;: ha az asztal mondjuk 10 fokban lejt és ráteszel egy 5 fokkal elállított vízimértéket, akkor az egyik esetben (tegyük fel, hogy eltalálod a lejtés pontos irányát) 15 fokban áll a cső, a bubi felmegy a végébe&lt;br /&gt;
+a másik esetben csak 5 fokban áll ferdén. a bubi ugyanúgy felmegy a végébe.&lt;br /&gt;
+&lt;br /&gt;
+tehát jól beállított vízszintmérővel is mindig a jobb oldalon lesz a bubi és az asztal dőlésszögénél kisebb szögek esetén is.&lt;br /&gt;
+&lt;br /&gt;
+szóval továbbra sem &quot;hiszek&quot; neked.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7479444" class="reply_nick_186498" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7479444 );" rel="nofollow">@cooldavee</a>: ha az asztal mondjuk 10 fokban lejt és ráteszel egy 5 fokkal elállított vízimértéket, akkor az egyik esetben (tegyük fel, hogy eltalálod a lejtés pontos irányát) 15 fokban áll a cső, a bubi felmegy a végébe<br />
+a másik esetben csak 5 fokban áll ferdén. a bubi ugyanúgy felmegy a végébe.</p>
+<p>tehát jól beállított vízszintmérővel is mindig a jobb oldalon lesz a bubi és az asztal dőlésszögénél kisebb szögek esetén is.</p>
+<p>szóval továbbra sem &#8220;hiszek&#8221; neked.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/10/vizszintmero/#comment-324</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 14:08:04 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-324</guid>
+
+					<description><![CDATA[Encsé, szerintem mégiscsak érdemes volna leírni a legegyszerűbb, legjobb megoldást a post alatt, mert a megoldások között van jó, elfogadható és teljesen rossz is. Ráadásul van aki még a jó megoldást sem &quot;hiszi el&quot;. ;-)]]></description>
+			<content:encoded><![CDATA[<p>Encsé, szerintem mégiscsak érdemes volna leírni a legegyszerűbb, legjobb megoldást a post alatt, mert a megoldások között van jó, elfogadható és teljesen rossz is. Ráadásul van aki még a jó megoldást sem &#8220;hiszi el&#8221;. 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/10/vizszintmero/#comment-323</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 14:04:34 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/22/vizszintmero#comment-323</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7475976&quot; class=&quot;reply_nick_327552&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7475976 );&quot; rel=&quot;nofollow&quot;&gt;@EÖ&lt;/a&gt;: Nem. Így kapunk egy jól beállított vízszintmérőt.&lt;br /&gt;
+&lt;br /&gt;
+Ha egy jól beállított vízszintmérőt leteszünk egy tetszőleges ferdeségű felületre egy tetszőleges helyre, majd 180 fokkal elfordítva visszatesszük ugyanoda, akkor azt tapasztaljuk, hogy a buborék mindkét esetben ugyanabba az irányba mutat. Ennek speciális esete az, amikor a felület vízszintes, ekkor a vízszintmérő függőlegesen felfelé mutat.&lt;br /&gt;
+&lt;br /&gt;
+Egy rosszul kalibrált vízszintmérő nem így viselkedik. 180 fokkal elfordítva a buborék más irányba fog mutatni. A csavarok beállításával ezt a két irányt közelítjük egymáshoz egészen addig, amíg egybe nem esnek: ekkor sikeresen beállítottuk a vízszintmérőnket.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/10/22/vizszintmero?fullcommentlist=1#c7475976" class="reply_nick_327552" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7475976 );" rel="nofollow">@EÖ</a>: Nem. Így kapunk egy jól beállított vízszintmérőt.</p>
+<p>Ha egy jól beállított vízszintmérőt leteszünk egy tetszőleges ferdeségű felületre egy tetszőleges helyre, majd 180 fokkal elfordítva visszatesszük ugyanoda, akkor azt tapasztaljuk, hogy a buborék mindkét esetben ugyanabba az irányba mutat. Ennek speciális esete az, amikor a felület vízszintes, ekkor a vízszintmérő függőlegesen felfelé mutat.</p>
+<p>Egy rosszul kalibrált vízszintmérő nem így viselkedik. 180 fokkal elfordítva a buborék más irányba fog mutatni. A csavarok beállításával ezt a két irányt közelítjük egymáshoz egészen addig, amíg egybe nem esnek: ekkor sikeresen beállítottuk a vízszintmérőnket.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

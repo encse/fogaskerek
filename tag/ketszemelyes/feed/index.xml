@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kétszemélyes &#8211; Fogaskerék</title>
+	<atom:link href="/tag/ketszemelyes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Mon, 25 Jan 2010 06:00:00 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>3 kupac gyufa</title>
+		<link>/2010/01/3_kupac_gyufa/</link>
+					<comments>/2010/01/3_kupac_gyufa/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[algoritmus]]></category>
+		<category><![CDATA[gyufa]]></category>
+		<category><![CDATA[kétszemélyes]]></category>
+		<category><![CDATA[nehéz]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa</guid>
+
+					<description><![CDATA[Egyik este a kocsmában Beliánék a következő játékot játszották. Belián elővett egy doboz gyufát, majd három kupacba rendezte a szálakat úgy, hogy az egyikbe 3, a másikba 4 a harmadikba pedig 5 szál jutott. A játékot két személy játssza, és felváltva választanak egy kupacot, majd abból tetszés szerint néhány szál gyufát elvesznek maguknak. Ezután a másik játékos jön, ő is ... <a class="read-more" href="/2010/01/3_kupac_gyufa/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Egyik este a kocsmában Beliánék a következő játékot játszották. Belián elővett egy doboz gyufát, majd három kupacba rendezte a szálakat úgy, hogy az egyikbe 3, a másikba 4 a harmadikba pedig 5 szál jutott.</p>
+<p>A játékot két személy játssza, és felváltva választanak egy kupacot, majd abból tetszés szerint néhány szál gyufát elvesznek maguknak. Ezután a másik játékos jön, ő is választ, és elvesz annyit, amennyit akar. A lényeg, hogy egyszerre csak az egyik kupacból vehet el gyufát, és mindenképp legalább egyet el kell vennie.</p>
+<p>A játékot az nyeri, aki az utolsó szál gyufát elveszi.</p>
+<p>Beliánt néhány kör után ki kellett zárni, mert mindig ő nyert, így Arszlán és Cipórián közt folyt a verseny napkeltéig.</p>
+<p>Kérdésünk az, hogy milyen trükköt ismerhetett Belián. Adjunk nyerő stratégiát a kezdő játékos számára. Mi a helyzet abban az esetben, ha az veszít, akinek az utolsó gyufát el kell vennie?</p>
+<p> <span id="more-1698154"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>A kezdő játékosnak van nyerő stratégiája. Nincs más dolga, csak, hogy összexorolja a kupacban levő gyufák számát, és úgy vegyen el a kupacból, hogy lépései után a xor értéke mindig nulla legyen.</p>
+<p>&oplus;-szal jelölve a xor műveletet, kezdetben 3 &oplus; 4 &oplus; 5 =&nbsp;2. Így az első  lépésnek választhatjuk az első kupacból két gyufa elvételét, hiszen így 1  &oplus; 4 &oplus; 5 =&nbsp;0 marad.</p>
+<p>Ha nulla a xor értéke, akkor a rákövetkező játékos ezt mindenképp elrontja, és fordítva: ha nem nulla az érték, akkor van olyan lépés, amivel nullára állítható.</p>
+<p>A győztes lépés előtt már csak egy kupac van, és úgy állítjuk a (most már egytagú) xort nullára, hogy minden gyufát elveszünk az asztalról.</p>
+<p>A módszer működik több kupac esetén is, és akárhogy megválaszthatjuk a kezdetben a kupacokban levő gyufák számát. Ha a kezdeti xor értéke nem nulla, akkor az első, egyébként a második játékosnak lesz nyerő stratégiája.</p>
+<p>A fordított játékszabályok esetén pontosan ez a  stratégia játszható egészen addig, amíg csak 1 olyan kupac nem marad,  amiben legalább két gyufa van. Ekkor ebből a kupacból kell annyit  elvenni, hogy az asztalon páratlan számú kupac maradjon, utána felváltva vesznek el a játékosok egy-egy gyufát, az utolsó az ellenfélnek marad, így ő veszít.</p>
+<p>A részleteket a <a href="http://en.wikipedia.org/wiki/Nim">wikipedián</a> olvashatjátok, de egyedül sem nehéz belátni, hogy a módszer miért működik, ez egy jó gondolkodtató feladat lehet.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/01/3_kupac_gyufa/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

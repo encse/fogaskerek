@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>-Maya &#8211; Fogaskerék</title>
+	<atom:link href="/author/maya/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Wed, 11 May 2016 20:17:07 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Post Mortem: IPhone vs. PC</title>
+		<link>/2010/04/post_mortem_iphone_vs_pc/</link>
+					<comments>/2010/04/post_mortem_iphone_vs_pc/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 08 Apr 2010 08:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[gyakorlati]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/04/08/post_mortem_iphone_vs_pc</guid>
+
+					<description><![CDATA[Bár a blog sajnos úgy tűnik végképp teljes érdektelenségbe fulladt, a következő &#8211; élet által írt &#8211; problémát kár lenne kihagyni. Lehet ez az utolsó szög&#8230; Adva van Encsé, akinek IPhone-ján és a laptopján is be van állítva, hogy ugyanolyan időközönként, mondjuk 10 percenként csekkolja a leveleket ugyanazon a szerveren. Minden levelet kijelzi mindkét készülék, de persze hol az egyik, ... <a class="read-more" href="/2010/04/post_mortem_iphone_vs_pc/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Bár a blog sajnos úgy tűnik végképp teljes érdektelenségbe fulladt, a következő &#8211; élet által írt &#8211; problémát kár lenne kihagyni. Lehet ez az utolsó szög&#8230;</p>
+<p style="text-align: justify;">Adva van Encsé, akinek IPhone-ján és a laptopján is be van állítva, hogy ugyanolyan időközönként, mondjuk 10 percenként csekkolja a leveleket ugyanazon a szerveren. Minden levelet kijelzi mindkét készülék, de persze hol az egyik, hol a másik fog előbb csipogni. Illetve Encsé bevallása szerint szinte mindig a <strike>szifon</strike> IPhone csipog először. Vajon csak ugrat, vagy előfordulhat ez?</p>
+<blockquote>
+<p style="text-align: justify;">Arszlán, Belián és Cipórián mindeközben lassan ellovagoltak a lenyugvó nap felé. Sziluettjük belemosódott a felvert porfelhőbe. Feljött a Hold, és csodálkozva nézte a nyomukat, mely a látóhatárig és talán azon is túl vezetett a csillogó szürke homokban. Csendben elmosolyodott&#8230;</p>
+<p style="text-align: justify;">&nbsp;</p>
+</blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/04/post_mortem_iphone_vs_pc/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Nézd és mondd&#8221; sorozatok</title>
+		<link>/2010/03/nezd_es_mondd_sorozatok/</link>
+					<comments>/2010/03/nezd_es_mondd_sorozatok/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Tue, 16 Mar 2010 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[ismeretterjesztő]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/16/nezd_es_mondd_sorozatok</guid>
+
+					<description><![CDATA[Az előző posztban szereplő sorozat egy speciális esete az &#34;nézd és mondd&#34; (angolul &#34;look and say&#34;) szabállyal képezhető sorozatoknak, melyekkel John Horton Conway zseniális brit matematikus sokat foglalkozott. Nem véletlenül ismerős Conway neve, hiszen &#8211; sok más izgalmas dolog mellett &#8211; az Életjáték felfedezője is ő. Nézzünk egy példát, hogy is működik a dolog: induljunk ki a következő kezdeti értékből: ... <a class="read-more" href="/2010/03/nezd_es_mondd_sorozatok/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Az előző posztban szereplő sorozat egy speciális esete az &quot;nézd és mondd&quot; (angolul &quot;look and say&quot;) szabállyal képezhető sorozatoknak, melyekkel John Horton Conway zseniális brit matematikus sokat foglalkozott. Nem véletlenül ismerős Conway neve, hiszen &#8211; sok más izgalmas dolog  mellett &#8211; az <a href="http://hu.wikipedia.org/wiki/%C3%89letj%C3%A1t%C3%A9k">Életjáték</a>  felfedezője is ő.</p>
+<p>Nézzünk egy példát, hogy is működik a dolog:</p>
+<ul>
+<li>induljunk ki a következő kezdeti értékből: 11</li>
+<li>11 az &quot;két egyes&quot;, tehát a következő elem 21,</li>
+<li>21 az &quot;egy kettes, egy egyes&quot;, azaz 1211</li>
+<li>1211 pedig &quot;egy egyes, egy kettes, két egyes&quot;, tehát 111221</li>
+<li>stb.</li>
+</ul>
+<p style="text-align: justify;">Conway tett néhány érdekes megállapítást az ilyen típusú sorozatokról:</p>
+<ul>
+<li>A számjegyek között az 1,2,3-on kívül más nem fordul elő, hacsak a kezdőértékben nem volt 3-nál hosszabb ugyanabból a számjegyből egymás mellett, vagy eleve magasabb számjegy.</li>
+<li>A sorozat tagjainak hossza (kivéve a 22, 22, 22,&#8230; degenerált esetet), a kezdőértéktől függetlenül határ nélkül növekszik.</li>
+<li>A szomszédos tagok hosszának aránya ekkor közelítőleg 1,30357&#8230;-hez tart, melyet Conway-féle konstansnak hívnak.</li>
+</ul>
+<p>A Conway konstans egyébként meghatározható egy 71-ed fokú polinom egyetlen pozitív valós gyökeként. <a href="http://mathworld.wolfram.com/ConwaysConstant.html">Lásd itt</a>.</p>
+<h2>Az audioaktív bomlás csodálatos kémiája</h2>
+<p style="text-align: justify;">Ez mind szép és jó, de Conway nem állt meg itt, hanem egész saját univerzumot kreált ezeknek a sorozatoknak. Észrevette ugyanis, hogy a sorozat tagjai előbb-utóbb szétbomlanak olyan &#8211; általa &quot;eleminek&quot; nevezett &#8211; részekre, melyek utána már nem lépnek egymással &quot;kölcsönhatásba&quot;. Egészen pontosan 92 db ilyen &quot;elem&quot; létezik feltéve, hogy csak 1,2,3 számjegyek szerepelnek. Ezeket az elemeket a kémia elemek mintájára nevezte el hidrogéntől az uránig. Ha megengedünk 3-nál nagyobb számjegyeket is, akkor még néhány &quot;transzurán&quot; elemmel bővül a kínálat.</p>
+<p style="text-align: justify;">Minden fenti sorozatban a tagok egy idő után &quot;elemi&quot; részekből álló &quot;vegyületekké&quot; esnek szét. Ezen túlmenően, az elemek relatív gyakorisága fix, jól meghatározott számokhoz konvergál. Például minden tizenegyedik atom a leggyakoribb &quot;elem&quot;, a hidrogén, ha kellően hosszú (többmillió atomból álló) tagokat nézünk.</p>
+<p>További információ a <a href="http://mathworld.wolfram.com/LookandSaySequence.html">Mathworldön</a>.</p>
+<p>Ja és ha valakinek meglenne az eredeti Conway cikk, vagy valamelyik reinkarnációja, hálás lennék, ha megosztaná velem <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (lásd irodalomjegyzék az előző linken).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/03/nezd_es_mondd_sorozatok/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Megfejtésért ingyensör!</title>
+		<link>/2010/03/megfejtesert_ingyensor/</link>
+					<comments>/2010/03/megfejtesert_ingyensor/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 11 Mar 2010 09:30:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/11/megfejtesert_ingyensor</guid>
+
+					<description><![CDATA[A sok nehéz, számolgatós matematikai feladat után lássunk most néhány egyszerűbbet. Íme az első. Utazásai során Arszlán egyszer elvetődött egy félreeső városka kocsmájába. A söntés mellett egy táblán a következő feliratra lett figyelmes: 11 21 1211 111221 312211 13112221 A kocsmáros elárulta, hogy mindenki aki a sorozat következő elemét helyesen fel tudja írni a táblára, az a ház vendége egy ... <a class="read-more" href="/2010/03/megfejtesert_ingyensor/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><em>A sok nehéz, számolgatós matematikai feladat után lássunk most néhány egyszerűbbet. Íme az első.</em></p>
+<p style="text-align: justify;">Utazásai során Arszlán egyszer elvetődött egy félreeső városka kocsmájába. A söntés mellett egy táblán a következő feliratra lett figyelmes:</p>
+<blockquote>
+<p style="text-align: center;">11</p>
+<p style="text-align: center;">21</p>
+<p style="text-align: center;">1211</p>
+<p style="text-align: center;">111221</p>
+<p style="text-align: center;">312211</p>
+<p style="text-align: center;">13112221</p>
+</blockquote>
+<p style="text-align: justify;">A kocsmáros elárulta, hogy mindenki aki a sorozat következő elemét helyesen fel tudja írni a táblára, az a ház vendége egy italra. Arszlán bár fáradt volt az egész napos utazástól, nem volt rest és gyorsan kitalálta a megoldást.</p>
+<p style="text-align: justify;">Nos, mit írt hősünk a táblára? Mi a szabályszerűség ebben a sorozatban?</p>
+<p style="text-align: justify;"><em>Csak hardcore rajongóknak (ezek a kérdések már nem is olyan könnyűek):</em></p>
+<div class="spoiler">
+<ul>
+<li>Meddig nőhet az elemek hossza ahogy haladunk előre a sorozatban? Tudunk-e valamit mondani a növekedés üteméről?</li>
+<li>Mit tudunk mondani a számjegyek előfordulásáról a sorozat elemeiben?</li>
+<li>Meg tudjuk-e adni a sorozat következő elemét képlettel?</li>
+<li>Mi a helyzet a fentiekkel más kezdőérték esetén?</li>
+</ul>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/03/megfejtesert_ingyensor/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A titkos terv</title>
+		<link>/2010/03/a_titkos_terv/</link>
+					<comments>/2010/03/a_titkos_terv/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 04 Mar 2010 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[nehéz]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv</guid>
+
+					<description><![CDATA[Ez még abban az időben történt, amikor a számítógépeket nem volt olyan egyszerű rákötni projektorra és a prezentációkat irásvetítő fóliára kellett szerkeszteni. Cipóriánnak eszébe jutott egy zseniális terv a városi bank kirablására. Nagyon szerette volna cinkostársainak megmutatni tervét, mely oly zseniálisan egyszerű volt, hogy egy oldalra ráfért az egész. Cipórián viszont nagyon félt, hogy rivális csoportok vagy esetleg a rendőrség ... <a class="read-more" href="/2010/03/a_titkos_terv/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Ez még abban az időben történt, amikor a számítógépeket nem volt olyan egyszerű rákötni projektorra és a prezentációkat irásvetítő fóliára kellett szerkeszteni.</p>
+<p style="text-align: justify;">Cipóriánnak eszébe jutott egy zseniális terv a városi bank kirablására. Nagyon szerette volna cinkostársainak megmutatni tervét, mely oly zseniálisan egyszerű volt, hogy egy oldalra ráfért az egész. Cipórián viszont nagyon félt, hogy rivális csoportok vagy esetleg a rendőrség kezébe kerülhetnek a tervek. Így azt találta ki, hogy több fóliát fog használni, melyek egymásra téve (és átvilágítva) pont a kívánt ábrát adják ki. Úgy gondolta, hogy maximum két fóliát esetleg ellophatnak tőle, ezért úgy szerkesztette meg őket, hogy bármelyik kettőt kivéve a csomagból abból a két fóliából semmilyen információt ne lehessen megtudni a tervéről.</p>
+<p>Hogy csinálhatta?</p>
+<p><span id="more-1807203"></span></p>
+<h3>Megjegyzések</h3>
+<p style="text-align: justify;">Az egyszerűség kedvéért feltehető, hogy csak fekete-fehér, vagy esetleg szürkeskálás ábráról van szó. Az ábrát vehetjük diszkrét pontokból (pixelekből) állónak.&nbsp;</p>
+<p style="text-align: justify;">Az eredményül kapott ábrának (ha az összes fóliát egymásra rakjuk) nem kell feltétlenül nagyon kontrasztosnak vagy élesnek lennie, a lényeg, hogy felismerhető legyen.</p>
+<p style="text-align: justify;">Minden fóliát fel kell használni!</p>
+<p style="text-align: justify;">Mivel ez nem egy olyan egyszerű, magától értetődő feladat, tessék nyugodtan ötletelni a kommentekben!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/03/a_titkos_terv/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Túl sok a jóból</title>
+		<link>/2010/02/tul_sok_a_jobol_1/</link>
+					<comments>/2010/02/tul_sok_a_jobol_1/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2010 10:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[számolgatós]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/08/tul_sok_a_jobol_1</guid>
+
+					<description><![CDATA[Középiskolában azt tanultuk, hogy másodfokú egyenletnek legfeljebb 2 db valós gyöke lehet. Így volt ezzel Arszlán is, ám egy nap a következő különös egyenlet jött vele szembe: Észrevette, hogy mivel az egyenlet szimmetrikus a három paraméterre, az általánosság megsértése nélkül feltehető, hogy a&#60;b&#60;c. Ezenkívül szembeötlő, hogy x=a, x=b, és x=c is mind megoldásai az egyenletnek. Pedig ez egy másodfokú egyenlet! ... <a class="read-more" href="/2010/02/tul_sok_a_jobol_1/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Középiskolában azt tanultuk, hogy másodfokú egyenletnek legfeljebb 2 db valós gyöke lehet. Így volt ezzel Arszlán is, ám egy nap a következő különös egyenlet jött vele szembe:</p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-2389641" src="/wp-content/uploads/2010/02/egyenlet1.png" alt="egyenlet1" width="300" height="32" /></p>
+<p style="text-align: justify;">Észrevette, hogy mivel az egyenlet szimmetrikus a három paraméterre, az általánosság megsértése nélkül feltehető, hogy a&lt;b&lt;c. Ezenkívül szembeötlő, hogy x=a, x=b, és x=c is mind megoldásai az egyenletnek. Pedig ez egy másodfokú egyenlet! Hogy lehet ez?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/tul_sok_a_jobol_1/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Légymászóka</title>
+		<link>/2010/02/legymaszoka/</link>
+					<comments>/2010/02/legymaszoka/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2010 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<category><![CDATA[olvasói]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/01/legymaszoka</guid>
+
+					<description><![CDATA[A postafiókunk áttúrása után találtam a következő feladatot, melyet EÖ küldött. Köszönjük! Van egy hengeres alakú üvegpohár (Beliánnak :D), a külsején, a palást tetszőleges A pontjában egy légy, észrevesz a pohár belső palástjának felületén a B pontban egy kis szörpmaradványt. Hogyan jut el a legrövidebb úton A pontból B pontba? Milyen alakú a megtett pálya, ha nem repül, hanem mászik? ... <a class="read-more" href="/2010/02/legymaszoka/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">A postafiókunk áttúrása után találtam a következő feladatot, melyet EÖ küldött. Köszönjük!</p>
+<blockquote>
+<p style="text-align: justify;">Van egy hengeres alakú üvegpohár (Beliánnak :D), a külsején, a palást tetszőleges A pontjában egy légy, észrevesz a pohár belső palástjának felületén a B pontban egy kis szörpmaradványt. Hogyan jut el a legrövidebb úton A pontból B pontba? Milyen alakú a megtett pálya, ha nem repül, hanem mászik?</p>
+</blockquote>
+<p>Bónusz feladat: ugyanez pohár helyett Menger-szivaccsal <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>(Bónusz 2: légy helyett Menger-szivaccsal&#8230;)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/legymaszoka/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2 fiú, 2 lány, 2 gumi</title>
+		<link>/2010/01/2fiu2lany2gumi/</link>
+					<comments>/2010/01/2fiu2lany2gumi/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 21 Jan 2010 05:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[18_éven_felülieknek]]></category>
+		<category><![CDATA[gyakorlati]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<category><![CDATA[szex]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/21/2fiu2lany2gumi</guid>
+
+					<description><![CDATA[Egy újabb klasszikus &#8211; pina még úgysem volt 🙂 Arszlán és Belián igen komoly dilemmával szembesül ezúttal. Egy átmulatott éjszaka végén négyesben találják magukat Enciána és Fabiána, a két ismert kurtizán társaságában. Az este megkoronázásaként mindketten szeretnék mindkét lányt magukévá tenni. Persze csak biztonságos szex jöhet szóba, hiszen senki sem szeretne a másiktól elkapni valami nyavalyát. És itt a probléma, ... <a class="read-more" href="/2010/01/2fiu2lany2gumi/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Egy újabb klasszikus &#8211; pina még úgysem volt <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Arszlán és Belián igen komoly dilemmával szembesül ezúttal. Egy átmulatott éjszaka végén négyesben találják magukat Enciána és Fabiána, a két ismert kurtizán társaságában. Az este megkoronázásaként mindketten szeretnék mindkét lányt magukévá tenni. Persze csak biztonságos szex jöhet szóba, hiszen senki sem szeretne a másiktól elkapni valami nyavalyát.</p>
+<p style="text-align: justify;">És itt a probléma, tudniillik sajnos csak 2 gumijuk van, és már minden zárva. Hogy tudják mégis abszolválni a feladatot?</p>
+<p>&#8212;</p>
+<p style="text-align: justify;">Szolg. közl: Küldjetek érdekes, izgalmas feladatokat, mert Encsé már hegyezi a Bellini-Cellini posztokat&#8230; <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/01/2fiu2lany2gumi/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kirándulás</title>
+		<link>/2010/01/kirandulas_2073/</link>
+					<comments>/2010/01/kirandulas_2073/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2010 07:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<category><![CDATA[logikai]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/18/kirandulas_2073</guid>
+
+					<description><![CDATA[Arszlán, Belián és Cipórán ezúttal kirándulni mentek a hegyekbe. Sikerült elrángatni magukkal rendszergazda haverjukat, Debiánt is. Már hazafelé tartottak mikor rájuk esteledett és a hazavezető ösvényen utolsó akadályként egy függőhíd előtt találták magukat. Sötétben életveszélyes lett volna megkísérelni az átkelést. Ráadásul egyszerre legfeljebb ketten mehettek át a hídon. Szerencsére volt náluk egy zseblámpa, de aggódtak, hogy esetleg kifogy az elem, ... <a class="read-more" href="/2010/01/kirandulas_2073/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Arszlán, Belián és Cipórán ezúttal kirándulni mentek a hegyekbe. Sikerült elrángatni magukkal rendszergazda haverjukat, Debiánt is. Már hazafelé tartottak mikor rájuk esteledett és a hazavezető ösvényen utolsó akadályként egy függőhíd előtt találták magukat. Sötétben életveszélyes lett volna megkísérelni az átkelést. Ráadásul egyszerre legfeljebb ketten mehettek át a hídon. Szerencsére volt náluk egy zseblámpa, de aggódtak, hogy esetleg kifogy az elem, mire mind átérnek. További nehézséget jelentett, hogy nem egyforma sebességgel tudtak haladni, Arszlán 1, Belián 2, Cipórián 5 és Debián, a rendszergazda 10 perc alatt képes átkelni a hídon. Ha ketten mennek természetesen csak a lassabb tempójában tudnak haladni.</p>
+<p style="text-align: justify;">Milyen sorrendben keljenek át, ha a lehető legrövidebb idő alatt szeretnének átérni?</p>
+<p> <span id="more-1680283"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>Figyelemre méltó, hogy erre a feladatra nagyon sokan kapásból a cooldavee által is részletesen kifejtett, nagyon meggyőző, de sajnos teljesen hibás megoldást adják.</p>
+<p>A hoppá érzés igazán akkor fog el, amikor rájövünk, hogy az is visszajöhet aki még előzőleg ment át a hídon. A feladatban szereplő adatokkal így 17 percre jön ki a leggyorsabb stratégia, mely lehet pl. a következő: AB(A), CD(B), AB. Zárójelben a visszatérő embert jelöltem.</p>
+<p>Ezúttal csakazertse-nek gratulálunk az első jó megoldáshoz.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/01/kirandulas_2073/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vadászkaland</title>
+		<link>/2010/01/vadaszkaland/</link>
+					<comments>/2010/01/vadaszkaland/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2010 14:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/07/vadaszkaland</guid>
+
+					<description><![CDATA[BUÉK mindenkinek! Lássuk az idei első feladatot. Ezúttal Belián mesél vadászélményeiről: &#8230; És akkor megláttam azt a hatalmas medvét tőlem pont északra! Kb. 100 méterre lehetett, de a széljárás nem volt kedvező, így óvatosan kelet felé mentem úgy 100 métert. A medve közben nem mozdult. Északnak fordulva céloztam és egy lövéssel leterítettem a medvét. &#8230; Nos, hogy lehetséges ez? Milyen ... <a class="read-more" href="/2010/01/vadaszkaland/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>BUÉK mindenkinek! Lássuk az idei első feladatot. Ezúttal Belián mesél vadászélményeiről:</p>
+<blockquote>
+<p>&#8230;</p>
+<p style="text-align: justify;">És akkor megláttam azt a hatalmas medvét tőlem pont északra! Kb. 100 méterre lehetett, de a széljárás nem volt kedvező, így óvatosan kelet felé mentem úgy 100 métert. A medve közben nem mozdult. Északnak fordulva céloztam és egy lövéssel leterítettem a medvét.</p>
+<p>&#8230;</p>
+</blockquote>
+<p>Nos, hogy lehetséges ez? Milyen színű volt a medve?</p>
+<p><span id="more-1654104"></span></p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>A fent leírt szituáció a következő módokon fordulhat elő (az egyszerűség kedvéért a Földet most gömbfelületként képzeljük el).</p>
+<ol>
+<li>A medve pont az Északi-sarkon áll, a vadász 100m-re tőle bármilyen irányban.</li>
+<li>A medve az Északi-sarktól kicsit délre áll, úgy, hogy az Északi-sark a vadász és a medve között van. A vadász pont a 100m kerületű szélességi körön áll, így a végére visszaérkezik a kiindulási helyére.</li>
+<li>Mint 2. de a szélességi kör kerülete osztója a 100 méternek, így a vadász egynél több teljes kört megy mielőtt visszakerül kiindulási helyére.</li>
+<li>Mint 2., de a vadász a medve hátába kerül egy félkör megtétele után.</li>
+<li>Mint 4. de a 3-as megoldáshoz hasonlóan valahány-plusz-egy-fél kör megtétele vár a vadászra.</li>
+<li>A vadász a Déli-sark környékén egy olyan szélességi körön áll, melynek kerülete egész osztója a 100 méternek.</li>
+</ol>
+<p>A 4-es és 5-ös megoldás a feladat kiírásában szereplő adatokkal sajnos nem működik, de pl. 200 méteres sétával a 100 helyett már igen (vagy kisebb kezdeti távolsággal).</p>
+<p>A Déli-sarkon nem élnek medvék, így ez kiesik. (Hacsak nem számítjuk a <a href="http://astro.uchicago.edu/cara/vtour/pole/poles/bear.jpg">plüssmackót</a>.) </p>
+<p>A kanonikus válasz ezek után persze az, hogy a medvének jegesmedvének kellett lenni, tehát <strong>a medve fehér volt</strong>. </p>
+<p>Sajnos <a href="http://www.polarbearsinternational.org/arctic-map/">úgy tűnik</a> az Északi-sark közvetlen környezében &#8211; Beliánon kívül &#8211; senki nem látott még jegesmedvét&#8230; mondjuk ami késik nem múlik, sajnos ahogy fogyogat a sarki jégsapka a macik előbb-utóbb ott is meg fognak jelenni (aztán ha elolvadt az egész akkor nagy bajban lesznek persze &#8211; meg mi is).</p>
+<p>Ha kihagytam valamit, szóljatok! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Hálás köszönet <a href="http://fogaskerek.blog.hu/2010/01/07/vadaszkaland/fullcommentlist/1#c8233386">csakazértse linkjeiért</a>, és <a href="http://fogaskerek.blog.hu/2010/01/07/vadaszkaland/fullcommentlist/1#c8237274">Tresher szakmai segítségéért</a>.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/01/vadaszkaland/feed/</wfw:commentRss>
+			<slash:comments>30</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hány évesek?</title>
+		<link>/2009/12/hany_evesek/</link>
+					<comments>/2009/12/hany_evesek/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2009 08:30:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<category><![CDATA[olvasói]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/10/hany_evesek</guid>
+
+					<description><![CDATA[Egy könnyű levezető feladat így hétvége előtt, rendszeres olvasónktól, EÖ-től. Két matematikus zsivány találkozik (nyilván az egyik Arszlán, a másik Cipórián), együtt jártak általános iskolába, de már sok éve nem látták egymást. -Szia! Mi újság? Család? Gyerekek? &#8211; Vannak! &#8211; Na és hány évesek a gyerekek? &#8211; Azt nem árulom el, találd ki. &#8211; Nem bánom. Kezdjük. &#8211; Hárman vannak, ... <a class="read-more" href="/2009/12/hany_evesek/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Egy könnyű levezető feladat így hétvége előtt, rendszeres olvasónktól, EÖ-től.</p>
+<blockquote><p>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><br />
+<meta content="Word.Document" name="ProgId"><br />
+<meta content="Microsoft Word 12" name="Generator"><br />
+<meta content="Microsoft Word 12" name="Originator">
+<link href="file:///C:UsersMayaAppDataLocalTempmsohtmlclip1 1clip_filelist.xml" rel="File-List" />
+<link href="file:///C:UsersMayaAppDataLocalTempmsohtmlclip1 1clip_themedata.thmx" rel="themeData" />
+<link href="file:///C:UsersMayaAppDataLocalTempmsohtmlclip1 1clip_colorschememapping.xml" rel="colorSchemeMapping" /><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves />
+  <w:TrackFormatting />
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning />
+  <w:ValidateAgainstSchemas />
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF />
+  <w:LidThemeOther>HU</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables />
+   <w:SnapToGridInCell />
+   <w:WrapTextWithPunct />
+   <w:UseAsianBreakRules />
+   <w:DontGrowAutofit />
+   <w:SplitPgBreakAndParaMark />
+   <w:DontVertAlignCellWithSp />
+   <w:DontBreakConstrainedForcedTables />
+   <w:DontVertAlignInTxbx />
+   <w:Word11KerningPairs />
+   <w:CachedColBalance />
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math" />
+   <m:brkBin m:val="before" />
+   <m:brkBinSub m:val="&#45;-" />
+   <m:smallFrac m:val="off" />
+   <m:dispDef />
+   <m:lMargin m:val="0" />
+   <m:rMargin m:val="0" />
+   <m:defJc m:val="centerGroup" />
+   <m:wrapIndent m:val="1440" />
+   <m:intLim m:val="subSup" />
+   <m:naryLim m:val="undOvr" />
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 1" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 2" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 3" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 4" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 5" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 6" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 7" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 8" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 9" />
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title" />
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid" />
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+ </w:LatentStyles>
+</xml><![endif]--></p>
+<style type="text/css">
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1107304683 0 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<p><!--[if gte mso 10]>
+
+
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+
+
+<![endif]--><span style="font-size: 10pt; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Két <strike>matematikus</strike> zsivány találkozik (nyilván az egyik Arszlán, a másik Cipórián), együtt jártak általános iskolába, de már sok éve nem látták egymást.<br />
+-Szia! Mi újság? Család? Gyerekek?<br />
+&#8211; Vannak!<br />
+&#8211; Na és hány évesek a gyerekek?<br />
+&#8211; Azt nem árulom el, találd ki.<br />
+&#8211; Nem bánom. Kezdjük.<br />
+&#8211; Hárman vannak, az életkoruk szorzata 36.<br />
+&#8211; Ennyi nem elég komám!<br />
+&#8211; Tudom, az életkoraik összege pont annyi, mint ahány ablak azon a sárga épületen van.<br />
+&#8211; Hát ez még mindig kevés komám.<br />
+&#8211; Na jó, a legkisebb szemüveges.<br />
+&#8211; Ja vagy úgy, akkor már tudom!<br />
+Tényleg tudja? Hány éves a három kölyök?<br />
+(Ez az általános iskolai feladatgyűjteményben volt, és a matektanár szerint megoldhatatlan butaság. Tényleg az?)<br style="" /><br />
+<!--[if !supportLineBreakNewLine]--><br style="" /><br />
+<!--[endif]--></span>        </meta><br />
+</meta><br />
+</meta><br />
+</meta>
+</p></blockquote>
+<p>Köszönjük a feladatot, küldjetek még sok ilyet!</p>
+<p><span id="more-1587649"></span></p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p><a href="http://fogaskerek.blog.hu/2009/12/10/hany_evesek/fullcommentlist/1#c7946530">cooldave</a> megint elvégezte helyettünk a piszkos munkát, megoldása teljes egészében fedi a mi okoskodásunkat. A szemüveg valóban lényegtelen információ, a lényeg, hogy van legkisebb gyerek.</p>
+<p>&nbsp;</p>
+<p>Ezúton kívánok mindenkinek békés, boldog ünnepeket! Az idei utolsó feladat egy kicsit más lesz mint az eddigiek, jó gondolkodást hozzá és jövőre találkozunk!</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/12/hany_evesek/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

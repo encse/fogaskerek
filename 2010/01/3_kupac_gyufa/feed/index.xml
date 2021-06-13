@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: 3 kupac gyufa	</title>
+	<atom:link href="/2010/01/3_kupac_gyufa/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/01/3_kupac_gyufa/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Tue, 26 Jan 2010 21:54:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: Terry Wrist		</title>
+		<link>/2010/01/3_kupac_gyufa/#comment-64</link>
+
+		<dc:creator><![CDATA[Terry Wrist]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2010 21:54:06 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa#comment-64</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa?fullcommentlist=1#c8463624&quot; class=&quot;reply_nick_34183&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 8463624 );&quot; rel=&quot;nofollow&quot;&gt;@rusty&lt;/a&gt;: a példában ha a kezdő játékos elvesz egy kupacot, akármelyiket, akkor a másik játékos fog nyerni, egyszerűen úgy, hogy egyenlővé teszi és úgy tartja a meglevő két kupacban levő gyufák számát, ez tehát nem nyerő stratégia a kezdőnek. ez egyben általános nyerő stratégia abban az esetben, ha már csak két kupac maradt. három kupacon még gondolkodok :)]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa?fullcommentlist=1#c8463624" class="reply_nick_34183" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 8463624 );" rel="nofollow">@rusty</a>: a példában ha a kezdő játékos elvesz egy kupacot, akármelyiket, akkor a másik játékos fog nyerni, egyszerűen úgy, hogy egyenlővé teszi és úgy tartja a meglevő két kupacban levő gyufák számát, ez tehát nem nyerő stratégia a kezdőnek. ez egyben általános nyerő stratégia abban az esetben, ha már csak két kupac maradt. három kupacon még gondolkodok 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: rusty		</title>
+		<link>/2010/01/3_kupac_gyufa/#comment-63</link>
+
+		<dc:creator><![CDATA[rusty]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2010 14:12:33 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa#comment-63</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa?fullcommentlist=1#c8463582&quot; class=&quot;reply_nick_34183&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 8463582 );&quot; rel=&quot;nofollow&quot;&gt;@rusty&lt;/a&gt;: &lt;br /&gt;
+&lt;br /&gt;
+Ha az veszít akinek az utolsót kell levennie a 3. lépésben páratlan számú gyufát hagyunk az asztalon.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa?fullcommentlist=1#c8463582" class="reply_nick_34183" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 8463582 );" rel="nofollow">@rusty</a>: </p>
+<p>Ha az veszít akinek az utolsót kell levennie a 3. lépésben páratlan számú gyufát hagyunk az asztalon.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: rusty		</title>
+		<link>/2010/01/3_kupac_gyufa/#comment-62</link>
+
+		<dc:creator><![CDATA[rusty]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2010 14:10:39 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa#comment-62</guid>
+
+					<description><![CDATA[1. Levesz egy kupacot.&lt;br /&gt;
+2. A játékos társ nem fog teljes kupacot elvenni, mert akkor egyből nyernék.&lt;br /&gt;
+3. A két meglévő kupacból, a nagyobb számosságúból elveszem a lehető legtöbbet, úgy, hogy a megmaradó gyufák összes száma páros legyen.&lt;br /&gt;
+&lt;br /&gt;
+4. 2.-t és 3.-at iteráljuk.&lt;br /&gt;
+&lt;br /&gt;
+A végén 1-1-es állásnál az ellenfélnek kell választania =&#062; nyertünk.]]></description>
+			<content:encoded><![CDATA[<p>1. Levesz egy kupacot.<br />
+2. A játékos társ nem fog teljes kupacot elvenni, mert akkor egyből nyernék.<br />
+3. A két meglévő kupacból, a nagyobb számosságúból elveszem a lehető legtöbbet, úgy, hogy a megmaradó gyufák összes száma páros legyen.</p>
+<p>4. 2.-t és 3.-at iteráljuk.</p>
+<p>A végén 1-1-es állásnál az ellenfélnek kell választania =&gt; nyertünk.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: graymonkey		</title>
+		<link>/2010/01/3_kupac_gyufa/#comment-61</link>
+
+		<dc:creator><![CDATA[graymonkey]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2010 09:57:20 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa#comment-61</guid>
+
+					<description><![CDATA[Van az itt ismertetettnek egy sokkal egyszerűbb megfogalmazása is, ami aztán általánosítható nagyobb/több kupacra. &lt;br /&gt;
+Milyen invariánsra figyeljen a kezdő játékos?]]></description>
+			<content:encoded><![CDATA[<p>Van az itt ismertetettnek egy sokkal egyszerűbb megfogalmazása is, ami aztán általánosítható nagyobb/több kupacra. <br />
+Milyen invariánsra figyeljen a kezdő játékos?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Terry Wrist		</title>
+		<link>/2010/01/3_kupac_gyufa/#comment-60</link>
+
+		<dc:creator><![CDATA[Terry Wrist]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 16:20:35 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa#comment-60</guid>
+
+					<description><![CDATA[ha előttem egy kupac gyufa marad összesen, akkor nyertem.&lt;br /&gt;
+természetesen ez csak akkor alakulhat ki, ha előtte még két kupac gyufa volt az asztalon - hiszen egyébként a másik vette volna el mindet -, valamint pontosan ilyen okok miatt biztos, hogy mindkét kupacban 1-1 gyufa volt összesen, hiszen egyébként a másik nem vette volna el az egyik kupac összes gyufáját. magyarán, aki 1/1/0 állásnál lépni következik, az bukott.&lt;br /&gt;
+pont emiatt bukott az, aki x/x/0-s állásnál kénytelen lépni (tehát, hogy összesen két kupac van az asztalon ugyanannyi gyufával), hiszen ilyenkor a másiknak nem kell mást tennie, csak &quot;tükrözni&quot; a lépést, azaz annyi gyufát elvenni a másik kupacból, hogy ismét egyenlő számú gyufa legyen.&lt;br /&gt;
+így nyerő pozíció az x/x/y állás (a lépni következő játékos részére: a harmadik kupac elvételével x/x/0-ás, vesztett helyzetbe hozhatja ellenfelét; ugyanígy természetesen nyerő az x/y/0 pozíció (itt egyenlő kupacméretet kell ismét kialakítani).&lt;br /&gt;
+ezek alapján vesztes az 1/2/3 felállás (vagy teljesen eltakarít egy kupacot -&#062; x/y/0 nyertem, vagy lesz két egyforma kupac -&#062; x/x/y, nyertem).&lt;br /&gt;
+a nyerő stratégia: a kezdő játékos a 3 gyufás kupacból elvesz 2-t, marad 1/4/5.&lt;br /&gt;
+a lehetséges következő állások&lt;br /&gt;
+0/4/5, 0/1/4, 0/1/5 nyerő állás a soron következő játékosnak (0/x/y)&lt;br /&gt;
+1/4/4, 1/1/4, 1/1/5 szintén (x/x/y)&lt;br /&gt;
+1/2/4, 1/2/5, 1/3/4, 1/3/5 esetén a soron következő játékos 1/2/3-at alakít ki és nyer.&lt;br /&gt;
+&lt;br /&gt;
+a fordítottra stratégiát meg az általánosítást egyelőre meghagyom másnak :)]]></description>
+			<content:encoded><![CDATA[<p>ha előttem egy kupac gyufa marad összesen, akkor nyertem.<br />
+természetesen ez csak akkor alakulhat ki, ha előtte még két kupac gyufa volt az asztalon &#8211; hiszen egyébként a másik vette volna el mindet -, valamint pontosan ilyen okok miatt biztos, hogy mindkét kupacban 1-1 gyufa volt összesen, hiszen egyébként a másik nem vette volna el az egyik kupac összes gyufáját. magyarán, aki 1/1/0 állásnál lépni következik, az bukott.<br />
+pont emiatt bukott az, aki x/x/0-s állásnál kénytelen lépni (tehát, hogy összesen két kupac van az asztalon ugyanannyi gyufával), hiszen ilyenkor a másiknak nem kell mást tennie, csak &#8220;tükrözni&#8221; a lépést, azaz annyi gyufát elvenni a másik kupacból, hogy ismét egyenlő számú gyufa legyen.<br />
+így nyerő pozíció az x/x/y állás (a lépni következő játékos részére: a harmadik kupac elvételével x/x/0-ás, vesztett helyzetbe hozhatja ellenfelét; ugyanígy természetesen nyerő az x/y/0 pozíció (itt egyenlő kupacméretet kell ismét kialakítani).<br />
+ezek alapján vesztes az 1/2/3 felállás (vagy teljesen eltakarít egy kupacot -&gt; x/y/0 nyertem, vagy lesz két egyforma kupac -&gt; x/x/y, nyertem).<br />
+a nyerő stratégia: a kezdő játékos a 3 gyufás kupacból elvesz 2-t, marad 1/4/5.<br />
+a lehetséges következő állások<br />
+0/4/5, 0/1/4, 0/1/5 nyerő állás a soron következő játékosnak (0/x/y)<br />
+1/4/4, 1/1/4, 1/1/5 szintén (x/x/y)<br />
+1/2/4, 1/2/5, 1/3/4, 1/3/5 esetén a soron következő játékos 1/2/3-at alakít ki és nyer.</p>
+<p>a fordítottra stratégiát meg az általánosítást egyelőre meghagyom másnak 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

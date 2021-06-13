@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Hajózás	</title>
+	<atom:link href="/2009/12/hajozas/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/12/hajozas/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Thu, 17 Dec 2009 15:02:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: Szajmong		</title>
+		<link>/2009/12/hajozas/#comment-131</link>
+
+		<dc:creator><![CDATA[Szajmong]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2009 15:02:51 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas#comment-131</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/12/15/hajozas?fullcommentlist=1#c8007803&quot; class=&quot;reply_nick_186498&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 8007803 );&quot; rel=&quot;nofollow&quot;&gt;@cooldavee&lt;/a&gt;: &lt;br /&gt;
+&quot;elegáns megoldásra (amit majd Encsé prezentálni fog)&quot;&lt;br /&gt;
+&lt;br /&gt;
+Kíváncsian várjuk. Legalábbis én igen.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/12/15/hajozas?fullcommentlist=1#c8007803" class="reply_nick_186498" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 8007803 );" rel="nofollow">@cooldavee</a>: <br />
+&#8220;elegáns megoldásra (amit majd Encsé prezentálni fog)&#8221;</p>
+<p>Kíváncsian várjuk. Legalábbis én igen.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/12/hajozas/#comment-130</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 15:04:58 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas#comment-130</guid>
+
+					<description><![CDATA[Ha nincs Wolfram Alpha, és nem jövünk rá az elegáns megoldásra (amit majd Encsé prezentálni fog), akkor próbálkozhatunk azzal, hogy az egyenletet egyismeretlenes (L) másodfokú egyenletként fogjuk fel, és a megoldóképletet hívjuk segítségül. Ez azért jó, mert ehhez nem kell sokat gondolkodni. Viszont cserébe nem is olyan elegáns, mint az Encsé-féle megoldás. :-)&lt;br /&gt;
+&lt;br /&gt;
+Tehát a fenti egyenlet így írható fel:&lt;br /&gt;
+&lt;br /&gt;
+L^2 -(K+1)L +2K-15 = 0&lt;br /&gt;
+&lt;br /&gt;
+Ennek megoldása L-re:&lt;br /&gt;
+&lt;br /&gt;
+L_1,2 = (K+1 ± sqrt(K^2-6K+61)) / 2&lt;br /&gt;
+&lt;br /&gt;
+A diszkriminánst teljes négyzetté próbáljuk valamennyire alakítani, ez lesz belőle:&lt;br /&gt;
+&lt;br /&gt;
+K^2 - 6K + 61 = (K-3)^2 + 52&lt;br /&gt;
+&lt;br /&gt;
+A diszkriminánsnak négyzetszámnak kell lennie ahhoz, hogy L megoldása egész legyen. Mivel (K-3)^2 szintén négyzetszám, ezért olyan négyzetszám-párokat kell keresnünk, amelyeknek a különbsége 52.&lt;br /&gt;
+&lt;br /&gt;
+Írjuk fel a diszkrimináns lehetséges értékeit. Ezek a négyzetszámok lesznek 64-től 729-ig (20 darab szám). 64-nél nem lehet kisebb, mert a legközelebbi négyzetszám a 49, amiből 52-t levonva már negatív számot kapunk. 729-nél sem lehet nagyobb, mert innentől felfelé a szomszédos négyzetszámok különbsége már nagyobb lesz, mint 52 (valójában már a 729 se jó).&lt;br /&gt;
+&lt;br /&gt;
+Egyetlen négyzetszám van a listánkban, amiből 52-t levonva szintén négyzetszámot kapunk: 196-52=144.&lt;br /&gt;
+&lt;br /&gt;
+Tehát:&lt;br /&gt;
+(K-3)^2+52 = 196&lt;br /&gt;
+&lt;br /&gt;
+Azaz:&lt;br /&gt;
+K=15 (mivel K pozitív kell, hogy legyen)&lt;br /&gt;
+&lt;br /&gt;
+Ebből egyébként az jön ki, hogy:&lt;br /&gt;
+L_1 = 15&lt;br /&gt;
+L_2 = 1&lt;br /&gt;
+&lt;br /&gt;
+Bár ez senkit nem érdekel. :-) A lényeg, hogy a kapitány 15 éves, a neve pedig Dick Sand.&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://hu.wikipedia.org/wiki/A_tizen%C3%B6t_%C3%A9ves_kapit%C3%A1ny&quot; rel=&quot;nofollow&quot;&gt;hu.wikipedia.org/wiki/A_tizen%C3%B6t_%C3%A9ves_kapit%C3%A1ny&lt;/a&gt;]]></description>
+			<content:encoded><![CDATA[<p>Ha nincs Wolfram Alpha, és nem jövünk rá az elegáns megoldásra (amit majd Encsé prezentálni fog), akkor próbálkozhatunk azzal, hogy az egyenletet egyismeretlenes (L) másodfokú egyenletként fogjuk fel, és a megoldóképletet hívjuk segítségül. Ez azért jó, mert ehhez nem kell sokat gondolkodni. Viszont cserébe nem is olyan elegáns, mint az Encsé-féle megoldás. 🙂</p>
+<p>Tehát a fenti egyenlet így írható fel:</p>
+<p>L^2 -(K+1)L +2K-15 = 0</p>
+<p>Ennek megoldása L-re:</p>
+<p>L_1,2 = (K+1 ± sqrt(K^2-6K+61)) / 2</p>
+<p>A diszkriminánst teljes négyzetté próbáljuk valamennyire alakítani, ez lesz belőle:</p>
+<p>K^2 &#8211; 6K + 61 = (K-3)^2 + 52</p>
+<p>A diszkriminánsnak négyzetszámnak kell lennie ahhoz, hogy L megoldása egész legyen. Mivel (K-3)^2 szintén négyzetszám, ezért olyan négyzetszám-párokat kell keresnünk, amelyeknek a különbsége 52.</p>
+<p>Írjuk fel a diszkrimináns lehetséges értékeit. Ezek a négyzetszámok lesznek 64-től 729-ig (20 darab szám). 64-nél nem lehet kisebb, mert a legközelebbi négyzetszám a 49, amiből 52-t levonva már negatív számot kapunk. 729-nél sem lehet nagyobb, mert innentől felfelé a szomszédos négyzetszámok különbsége már nagyobb lesz, mint 52 (valójában már a 729 se jó).</p>
+<p>Egyetlen négyzetszám van a listánkban, amiből 52-t levonva szintén négyzetszámot kapunk: 196-52=144.</p>
+<p>Tehát:<br />
+(K-3)^2+52 = 196</p>
+<p>Azaz:<br />
+K=15 (mivel K pozitív kell, hogy legyen)</p>
+<p>Ebből egyébként az jön ki, hogy:<br />
+L_1 = 15<br />
+L_2 = 1</p>
+<p>Bár ez senkit nem érdekel. 🙂 A lényeg, hogy a kapitány 15 éves, a neve pedig Dick Sand.</p>
+<p><a href="http://hu.wikipedia.org/wiki/A_tizen%C3%B6t_%C3%A9ves_kapit%C3%A1ny" rel="nofollow">hu.wikipedia.org/wiki/A_tizen%C3%B6t_%C3%A9ves_kapit%C3%A1ny</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Szajmong		</title>
+		<link>/2009/12/hajozas/#comment-129</link>
+
+		<dc:creator><![CDATA[Szajmong]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 10:32:14 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas#comment-129</guid>
+
+					<description><![CDATA[Ez tetszik, wolframalpha már be is költözött a könyvjelzők közé.&lt;br /&gt;
+Én excelben vettem fel az egész L (legénység) értékeket 0-tól 150 ig, a képletet K-ra (kapitány életkor) kifejezve, és ha már ez meg volt, ábrázoltattam is. Kicsit körülményesebb volt, és még hátra volt papíron igazolni, hogy a függvény minden L&#062;2-re sz.m.n, és feltételezve, hogy a kapitány nem idősebb 150 évnél biztosan nem kaphatok más egész értéket, mint ami kijött.]]></description>
+			<content:encoded><![CDATA[<p>Ez tetszik, wolframalpha már be is költözött a könyvjelzők közé.<br />
+Én excelben vettem fel az egész L (legénység) értékeket 0-tól 150 ig, a képletet K-ra (kapitány életkor) kifejezve, és ha már ez meg volt, ábrázoltattam is. Kicsit körülményesebb volt, és még hátra volt papíron igazolni, hogy a függvény minden L&gt;2-re sz.m.n, és feltételezve, hogy a kapitány nem idősebb 150 évnél biztosan nem kaphatok más egész értéket, mint ami kijött.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Lőry		</title>
+		<link>/2009/12/hajozas/#comment-128</link>
+
+		<dc:creator><![CDATA[Lőry]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 09:52:01 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas#comment-128</guid>
+
+					<description><![CDATA[Végre egy feladat, ahol jól jön a Wolfram Alpha!  A kapitány életkora három, a matrózok száma mínusz kilenc.&lt;br /&gt;
+&lt;br /&gt;
+http://www.wolframalpha.com/input/?i=x%28x–1%29+%3D+y%28x–2%29%2B15]]></description>
+			<content:encoded><![CDATA[<p>Végre egy feladat, ahol jól jön a Wolfram Alpha!  A kapitány életkora három, a matrózok száma mínusz kilenc.</p>
+<p><a href="http://www.wolframalpha.com/input/?i=x%28x–1%29+%3D+y%28x–2%29%2B15" rel="nofollow ugc">http://www.wolframalpha.com/input/?i=x%28x–1%29+%3D+y%28x–2%29%2B15</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: terasz9		</title>
+		<link>/2009/12/hajozas/#comment-127</link>
+
+		<dc:creator><![CDATA[terasz9]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 09:06:48 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas#comment-127</guid>
+
+					<description><![CDATA[Ebből szokott kijönni valami olyan összefüggés, hogy a kapitány mindenképpen halott? Tehát a kapitány neve: hulla.&lt;br /&gt;
+&lt;br /&gt;
+na jó, ez csak tipp, mindjárt nekiállok matekozni vele.]]></description>
+			<content:encoded><![CDATA[<p>Ebből szokott kijönni valami olyan összefüggés, hogy a kapitány mindenképpen halott? Tehát a kapitány neve: hulla.</p>
+<p>na jó, ez csak tipp, mindjárt nekiállok matekozni vele.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: graymonkey		</title>
+		<link>/2009/12/hajozas/#comment-126</link>
+
+		<dc:creator><![CDATA[graymonkey]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 09:06:40 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas#comment-126</guid>
+
+					<description><![CDATA[Aha :)]]></description>
+			<content:encoded><![CDATA[<p>Aha 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Szajmong		</title>
+		<link>/2009/12/hajozas/#comment-125</link>
+
+		<dc:creator><![CDATA[Szajmong]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 09:02:42 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas#comment-125</guid>
+
+					<description><![CDATA[Ez esetben valószínűleg jól okoskodtam.&lt;br /&gt;
+&lt;a href=&quot;http://legeza.oszk.hu/sendpage.php?rec=li2317&quot; rel=&quot;nofollow&quot;&gt;legeza.oszk.hu/sendpage.php?rec=li2317&lt;/a&gt;&lt;br /&gt;
+A linkből egyértelmű a megoldás, aki még gondolkozik, ne kattintson.]]></description>
+			<content:encoded><![CDATA[<p>Ez esetben valószínűleg jól okoskodtam.<br />
+<a href="http://legeza.oszk.hu/sendpage.php?rec=li2317" rel="nofollow">legeza.oszk.hu/sendpage.php?rec=li2317</a><br />
+A linkből egyértelmű a megoldás, aki még gondolkozik, ne kattintson.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: graymonkey		</title>
+		<link>/2009/12/hajozas/#comment-124</link>
+
+		<dc:creator><![CDATA[graymonkey]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 08:25:06 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas#comment-124</guid>
+
+					<description><![CDATA[Jogos a kérdés. Mindkettő pozitív egész.]]></description>
+			<content:encoded><![CDATA[<p>Jogos a kérdés. Mindkettő pozitív egész.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Szajmong		</title>
+		<link>/2009/12/hajozas/#comment-123</link>
+
+		<dc:creator><![CDATA[Szajmong]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 08:11:03 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas#comment-123</guid>
+
+					<description><![CDATA[Lehet-e a kapitány életkora tört szám, vagy mindenképpen pozitív egész?]]></description>
+			<content:encoded><![CDATA[<p>Lehet-e a kapitány életkora tört szám, vagy mindenképpen pozitív egész?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

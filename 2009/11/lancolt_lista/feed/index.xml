@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Láncolt lista	</title>
+	<atom:link href="/2009/11/lancolt_lista/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/11/lancolt_lista/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Thu, 12 Nov 2009 13:05:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2009/11/lancolt_lista/#comment-266</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2009 13:05:12 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-266</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7645983&quot; class=&quot;reply_nick_251055&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7645983 );&quot; rel=&quot;nofollow&quot;&gt;@Szajmong&lt;/a&gt;: Jogos a kritika, bár azért születtek itt megoldások is :)]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7645983" class="reply_nick_251055" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7645983 );" rel="nofollow">@Szajmong</a>: Jogos a kritika, bár azért születtek itt megoldások is 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Szajmong		</title>
+		<link>/2009/11/lancolt_lista/#comment-265</link>
+
+		<dc:creator><![CDATA[Szajmong]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2009 09:14:49 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-265</guid>
+
+					<description><![CDATA[Én ebbe a feladatba most nem vágtam bele (időhiány), de elég erőltetettnek tűnik nekem már csak annak alapján is, hogy 20 komment csak az értelmezésével foglalkozik.&lt;br /&gt;
+&lt;br /&gt;
+Tudom, adjak jobb feladatot, ha tudok :)&lt;br /&gt;
+Majd talán egyszer ha ihletem és időm lesz.]]></description>
+			<content:encoded><![CDATA[<p>Én ebbe a feladatba most nem vágtam bele (időhiány), de elég erőltetettnek tűnik nekem már csak annak alapján is, hogy 20 komment csak az értelmezésével foglalkozik.</p>
+<p>Tudom, adjak jobb feladatot, ha tudok 🙂<br />
+Majd talán egyszer ha ihletem és időm lesz.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2009/11/lancolt_lista/#comment-264</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 11:09:16 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-264</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7635196&quot; class=&quot;reply_nick_353130&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7635196 );&quot; rel=&quot;nofollow&quot;&gt;@csakazertse&lt;/a&gt;: Végpontból persze nem vezet ki él, de egyébként stimmel szerintem.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7635196" class="reply_nick_353130" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7635196 );" rel="nofollow">@csakazertse</a>: Végpontból persze nem vezet ki él, de egyébként stimmel szerintem.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: csakazertse		</title>
+		<link>/2009/11/lancolt_lista/#comment-263</link>
+
+		<dc:creator><![CDATA[csakazertse]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 10:41:58 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-263</guid>
+
+					<description><![CDATA[Csak hogy jól értem -e a feladatot:&lt;br /&gt;
+Egy irányított gráfról is lehetne szó, ahol minden csúcsból pontosan egy él vezet &#039;kifelé&#039;. (elágazásnál &#039;visszamenő&#039; éleket csak cipőfűző segítségével tudunk megkülönböztetni) Ebben kellene egy kezdőpontból indulva végpontot találni vagy kört detektálni két jelölővel úgy, hogy a méretét sem ismerjük.&lt;br /&gt;
+Esetleg kihagytam valamit?]]></description>
+			<content:encoded><![CDATA[<p>Csak hogy jól értem -e a feladatot:<br />
+Egy irányított gráfról is lehetne szó, ahol minden csúcsból pontosan egy él vezet &#8216;kifelé&#8217;. (elágazásnál &#8216;visszamenő&#8217; éleket csak cipőfűző segítségével tudunk megkülönböztetni) Ebben kellene egy kezdőpontból indulva végpontot találni vagy kört detektálni két jelölővel úgy, hogy a méretét sem ismerjük.<br />
+Esetleg kihagytam valamit?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Egyéves Önkéntes		</title>
+		<link>/2009/11/lancolt_lista/#comment-262</link>
+
+		<dc:creator><![CDATA[Egyéves Önkéntes]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 08:50:35 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-262</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7633573&quot; class=&quot;reply_nick_128308&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7633573 );&quot; rel=&quot;nofollow&quot;&gt;@Shadowrunner&lt;/a&gt;: úgyvan. a P-elágazásnál nem fordul meg az irány. nálad a pont.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7633573" class="reply_nick_128308" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7633573 );" rel="nofollow">@Shadowrunner</a>: úgyvan. a P-elágazásnál nem fordul meg az irány. nálad a pont.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Shadowrunner		</title>
+		<link>/2009/11/lancolt_lista/#comment-261</link>
+
+		<dc:creator><![CDATA[Shadowrunner]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 08:47:21 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-261</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7632661&quot; class=&quot;reply_nick_327552&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7632661 );&quot; rel=&quot;nofollow&quot;&gt;@EÖ&lt;/a&gt;: a hurok a fővonalon van, de az nincs kikötve, hogy a hurok az elejére köt vissza. Azaz pl lehet a fővonal P alakú, ahol a P lábától indulsz el. Ha a lábához teszed a jelölőt, akkor oda nem fogsz tudni visszaérni, mert a huroknál a P &quot;hasán&quot; fogsz körbe körbe járni.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7632661" class="reply_nick_327552" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7632661 );" rel="nofollow">@EÖ</a>: a hurok a fővonalon van, de az nincs kikötve, hogy a hurok az elejére köt vissza. Azaz pl lehet a fővonal P alakú, ahol a P lábától indulsz el. Ha a lábához teszed a jelölőt, akkor oda nem fogsz tudni visszaérni, mert a huroknál a P &#8220;hasán&#8221; fogsz körbe körbe járni.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2009/11/lancolt_lista/#comment-260</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 08:11:55 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-260</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7632661&quot; class=&quot;reply_nick_327552&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7632661 );&quot; rel=&quot;nofollow&quot;&gt;@EÖ&lt;/a&gt;: Bocs, ez lehet, hogy félreérthető volt, csak az elágazásoknál van megjelölve, hogy merre vezet tovább az út. &lt;br /&gt;
+&lt;br /&gt;
+Ránézve a láncra egy véletlenszerű ponton nem dönthető el, hogy az része-e a fővonalnak. Ez utóbbit úgy definiáljuk, hogy a láncnak az a része, melyet a megadott kiindulási pontból a kereszteződésekben a kijelölt haladási irányt követve elérhetünk. Pl. egy másik kiindulási pontot véve egész más lehet a fővonal.&lt;br /&gt;
+&lt;br /&gt;
+Ha sok időm lesz, egyszer megírom ezt a feladatot labirintussal is. Mondjuk olyan [blue]House[/blue] of Leaves stílusban. ;)]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7632661" class="reply_nick_327552" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7632661 );" rel="nofollow">@EÖ</a>: Bocs, ez lehet, hogy félreérthető volt, csak az elágazásoknál van megjelölve, hogy merre vezet tovább az út. </p>
+<p>Ránézve a láncra egy véletlenszerű ponton nem dönthető el, hogy az része-e a fővonalnak. Ez utóbbit úgy definiáljuk, hogy a láncnak az a része, melyet a megadott kiindulási pontból a kereszteződésekben a kijelölt haladási irányt követve elérhetünk. Pl. egy másik kiindulási pontot véve egész más lehet a fővonal.</p>
+<p>Ha sok időm lesz, egyszer megírom ezt a feladatot labirintussal is. Mondjuk olyan [blue]House[/blue] of Leaves stílusban. 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Egyéves Önkéntes		</title>
+		<link>/2009/11/lancolt_lista/#comment-259</link>
+
+		<dc:creator><![CDATA[Egyéves Önkéntes]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 07:18:49 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-259</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7632637&quot; class=&quot;reply_nick_128308&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7632637 );&quot; rel=&quot;nofollow&quot;&gt;@Shadowrunner&lt;/a&gt;: na de ha a hurok csakis a fővonalon lehet és te csakis a fővonalon haladsz (mert tudod melyik az, a feladat kiírása szerint) akkor is visszakerülsz az elejére, tökmindegy milyen hosszú bevezető szakasz van a hurok előtt.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7632637" class="reply_nick_128308" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7632637 );" rel="nofollow">@Shadowrunner</a>: na de ha a hurok csakis a fővonalon lehet és te csakis a fővonalon haladsz (mert tudod melyik az, a feladat kiírása szerint) akkor is visszakerülsz az elejére, tökmindegy milyen hosszú bevezető szakasz van a hurok előtt.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Shadowrunner		</title>
+		<link>/2009/11/lancolt_lista/#comment-258</link>
+
+		<dc:creator><![CDATA[Shadowrunner]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 07:14:59 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-258</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7632579&quot; class=&quot;reply_nick_327552&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7632579 );&quot; rel=&quot;nofollow&quot;&gt;@EÖ&lt;/a&gt;: Az elágazás azért kell, hogy lehessen látni, hogy hol köthet be esetlegesen a visszatérő hurok. &lt;br /&gt;
+Ha csak a végén lenne egy jelölő, akkor abba nem biztos, hogy belefutunk, még ha kör is van a láncon. Ugyanis a láncban lehet egy hosszú, bevezető szakasz, ami még nem a kör része.&lt;br /&gt;
+&lt;br /&gt;
+Így az alábbi módszer kell:&lt;br /&gt;
+Egy lépésnek azt tekintem, hogy a következő elágazásig megyek.&lt;br /&gt;
+&lt;br /&gt;
+Az első jelölővel mindig 1-et a másodikkal mindig 2-t lépünk előre, felváltva. Ha a második mozgatása során keresztezem az elsőt, akkor kör van. Ha a lánc végére érek, akkor meg nincs kör.&lt;br /&gt;
+&lt;br /&gt;
+Ez azért jó, mert az első jelökő is folyamatosan mozog előre, így előbb utóbb rajta lesz a körön. A két jelölő közötti növekvő távolság meg azt garantálja, hogy ha rajta van mind a kettő a körön, akkor előbb utóbb keresztezem a 1. jelölőt.&lt;br /&gt;
+&lt;br /&gt;
+Azaz, ha a jelölők közötti távolság nagyobb mint a kör hossza és az első jelölő rajta van a körön, akkor a 2.tól elindulva a távolságot legyalogolva elérem az 1.-t.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7632579" class="reply_nick_327552" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7632579 );" rel="nofollow">@EÖ</a>: Az elágazás azért kell, hogy lehessen látni, hogy hol köthet be esetlegesen a visszatérő hurok. <br />
+Ha csak a végén lenne egy jelölő, akkor abba nem biztos, hogy belefutunk, még ha kör is van a láncon. Ugyanis a láncban lehet egy hosszú, bevezető szakasz, ami még nem a kör része.</p>
+<p>Így az alábbi módszer kell:<br />
+Egy lépésnek azt tekintem, hogy a következő elágazásig megyek.</p>
+<p>Az első jelölővel mindig 1-et a másodikkal mindig 2-t lépünk előre, felváltva. Ha a második mozgatása során keresztezem az elsőt, akkor kör van. Ha a lánc végére érek, akkor meg nincs kör.</p>
+<p>Ez azért jó, mert az első jelökő is folyamatosan mozog előre, így előbb utóbb rajta lesz a körön. A két jelölő közötti növekvő távolság meg azt garantálja, hogy ha rajta van mind a kettő a körön, akkor előbb utóbb keresztezem a 1. jelölőt.</p>
+<p>Azaz, ha a jelölők közötti távolság nagyobb mint a kör hossza és az első jelölő rajta van a körön, akkor a 2.tól elindulva a távolságot legyalogolva elérem az 1.-t.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Egyéves Önkéntes		</title>
+		<link>/2009/11/lancolt_lista/#comment-257</link>
+
+		<dc:creator><![CDATA[Egyéves Önkéntes]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 07:03:10 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/09/lancolt_lista#comment-257</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7630516&quot; class=&quot;reply_nick_337102&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7630516 );&quot; rel=&quot;nofollow&quot;&gt;@-Maya&lt;/a&gt;: na de akkor miért van elágazás, ha úgyse mész rá, mert jelölve van&lt;br /&gt;
+&lt;br /&gt;
+Ugyanis:&lt;br /&gt;
+&lt;br /&gt;
+Az egyik vége ismert, onnan indulunk. rákötjük a madzagunkat aztán megyünk, és az elágazásoknál, mivel meg van jelölve a haladási irány így mindig a főágon megyünk tovább, hiszen a többi nem érdekes. Két eset lehetséges:&lt;br /&gt;
+&lt;br /&gt;
+Visszajutunk a madzagunkhoz, azaz a láncon a főágban hurok van.&lt;br /&gt;
+&lt;br /&gt;
+Egyszer csak vége szakad a láncnak, mert megvan a másik vége, azaz a láncon a főágban nincs hurok.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/09/lancolt_lista?fullcommentlist=1#c7630516" class="reply_nick_337102" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7630516 );" rel="nofollow">@-Maya</a>: na de akkor miért van elágazás, ha úgyse mész rá, mert jelölve van</p>
+<p>Ugyanis:</p>
+<p>Az egyik vége ismert, onnan indulunk. rákötjük a madzagunkat aztán megyünk, és az elágazásoknál, mivel meg van jelölve a haladási irány így mindig a főágon megyünk tovább, hiszen a többi nem érdekes. Két eset lehetséges:</p>
+<p>Visszajutunk a madzagunkhoz, azaz a láncon a főágban hurok van.</p>
+<p>Egyszer csak vége szakad a láncnak, mert megvan a másik vége, azaz a láncon a főágban nincs hurok.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

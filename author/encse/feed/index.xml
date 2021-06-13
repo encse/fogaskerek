@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>encse &#8211; Fogaskerék</title>
+	<atom:link href="/author/encse/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Wed, 11 May 2016 20:18:31 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Dugó az üvegben</title>
+		<link>/2010/10/dugo_az_uvegben/</link>
+					<comments>/2010/10/dugo_az_uvegben/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2010 19:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[logikai]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/10/21/dugo_az_uvegben</guid>
+
+					<description><![CDATA[Egy este Arszlán, Belián és Cipórián kedvenc csapszékükben beszélgettek. A borosüveg lassan kiürült, és Arszlán egy jópofa feladattal állt elő. Előbb az üveg dugóját kis kézimunkával és ütögetéssel teljesen az üveg belsejébe nyomta, úgy hogy a dugó leesett az üveg aljára, majd valahonnan előhúzott egy szemeteszsákot, és megkérdezte társait, hogy ki tudják-e szedni a dugót a zsák segítségével. Hosszan próbálkoztak, ... <a class="read-more" href="/2010/10/dugo_az_uvegben/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Egy este Arszlán, Belián és Cipórián kedvenc csapszékükben beszélgettek. A borosüveg lassan kiürült, és Arszlán egy jópofa feladattal állt elő. Előbb az üveg dugóját kis kézimunkával és ütögetéssel teljesen az üveg belsejébe nyomta, úgy hogy a dugó leesett az üveg aljára, majd valahonnan előhúzott egy szemeteszsákot, és megkérdezte társait, hogy ki tudják-e szedni a dugót a zsák segítségével.</p>
+<p>Hosszan próbálkoztak, aztán valamelyikük előállt a megoldással.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/10/dugo_az_uvegben/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arszlán és a háremhölgyek</title>
+		<link>/2010/02/arszlan_es_a_haremholgyek/</link>
+					<comments>/2010/02/arszlan_es_a_haremholgyek/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2010 11:50:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[16_éven_felülieknek]]></category>
+		<category><![CDATA[algoritmus]]></category>
+		<category><![CDATA[nehéz]]></category>
+		<category><![CDATA[valószínűségszámítás]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/18/arszlan_es_a_haremholgyek</guid>
+
+					<description><![CDATA[Jóval a királylányos kaland előtt Arszlán a török szultán segítségére volt valamely gaztett elkövetésében, amelynek részleteit mára már homály fedi. Fizetségül és hálája jeléül a szultán egy hölgyet ajánlott Arszlánnak saját háreméből. A hölgyek egymás után jöttek be a palotába, Arszlán pedig egyesével eldönthette, hogy megelégszik-e az adott hölggyel, vagy inkább megnézi a következőt. Mivel utólag vissza már nem hívhatott ... <a class="read-more" href="/2010/02/arszlan_es_a_haremholgyek/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Jóval a királylányos kaland előtt Arszlán a török szultán segítségére volt valamely gaztett elkövetésében, amelynek részleteit mára már homály fedi. Fizetségül és hálája jeléül a szultán egy hölgyet ajánlott Arszlánnak saját háreméből.</p>
+<p>A hölgyek egymás után jöttek be a palotába, Arszlán pedig egyesével eldönthette, hogy megelégszik-e az adott hölggyel, vagy inkább megnézi a következőt. Mivel utólag vissza már nem hívhatott hölgyeket, mindössze annyit tehetett, hogy előbb felmérte a háremet az első néhány lány megtekintésével, és ezután kiválasztotta az első olyat, aki szebb volt az addigiaknál.</p>
+<p>Természetesen, ha túl sok lányt nézett volna meg az elején, akkor a végén talán egy csinosabb sem lett volna náluk, így nagyon is fontos ennek az előzetes felmérési szakasznak a hossza.</p>
+<p>Ha tudjuk, hogy a háremben 300 lány volt, és teljesen véletlenszerű sorrendben vonultak fel, hány lányból álljon a felmérés ahhoz, hogy a legnagyobb legyen az esély a legszebb kiválasztására?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/arszlan_es_a_haremholgyek/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arszlán halálos ajtói</title>
+		<link>/2010/02/arszlan_halalos_ajtoi/</link>
+					<comments>/2010/02/arszlan_halalos_ajtoi/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2010 17:41:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[16_éven_felülieknek]]></category>
+		<category><![CDATA[valószínűségszámítás]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/15/arszlan_halalos_ajtoi</guid>
+
+					<description><![CDATA[Történt egyszer, hogy Arszlán egy televíziós vetélkedőn eljutott a döntőig. A műsorvezető felkínált neki három ajtót, amelyikből bármelyiket választhatta, azonban jó előre felhívták a figyelmét arra, hogy a három ajtóból csak egy rejti a játék fődíját (a király világszép lányát), a másik kettő mögött oroszlánok és mindenféle válogatott kínzások várják. Jó, hát ez egy amolyan középkori vetélkedő volt, de ha ... <a class="read-more" href="/2010/02/arszlan_halalos_ajtoi/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Történt egyszer, hogy Arszlán egy televíziós vetélkedőn eljutott a döntőig. A műsorvezető felkínált neki három ajtót, amelyikből bármelyiket választhatta, azonban jó előre felhívták a figyelmét arra, hogy a három ajtóból csak egy rejti a játék fődíját (a király világszép lányát), a másik kettő mögött oroszlánok és mindenféle válogatott kínzások várják. Jó, hát ez egy amolyan középkori vetélkedő volt, de ha én mondom, akkor elhihetitek, hogy tényleg szórul szóra ez történt&#8230;</p>
+<p>Arszlán rábökött az egyik ajtóra, aztán a porondmester kinyitott egy másikat, amiről viszont előre megmondta, hogy nem a királylány lesz mögötte.</p>
+<p>Ezután Arszlán még egyszer meggondolhatta, hogy kitart-e az eredeti ajtó mellett, vagy mégis inkább áttér a harmadikra.</p>
+<p>Attól teljesen függetlenül, hogy mit választott végül, hiszen tudjuk, hogy azóta is él és virul, arra vagyunk kíváncsiak, hogy mi lett volna a helyes döntés&#8230; Hogyan okoskodhatott?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/arszlan_halalos_ajtoi/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>3 kupac gyufa</title>
+		<link>/2010/01/3_kupac_gyufa/</link>
+					<comments>/2010/01/3_kupac_gyufa/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[algoritmus]]></category>
+		<category><![CDATA[gyufa]]></category>
+		<category><![CDATA[kétszemélyes]]></category>
+		<category><![CDATA[nehéz]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa</guid>
+
+					<description><![CDATA[Egyik este a kocsmában Beliánék a következő játékot játszották. Belián elővett egy doboz gyufát, majd három kupacba rendezte a szálakat úgy, hogy az egyikbe 3, a másikba 4 a harmadikba pedig 5 szál jutott. A játékot két személy játssza, és felváltva választanak egy kupacot, majd abból tetszés szerint néhány szál gyufát elvesznek maguknak. Ezután a másik játékos jön, ő is ... <a class="read-more" href="/2010/01/3_kupac_gyufa/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Egyik este a kocsmában Beliánék a következő játékot játszották. Belián elővett egy doboz gyufát, majd három kupacba rendezte a szálakat úgy, hogy az egyikbe 3, a másikba 4 a harmadikba pedig 5 szál jutott.</p>
+<p>A játékot két személy játssza, és felváltva választanak egy kupacot, majd abból tetszés szerint néhány szál gyufát elvesznek maguknak. Ezután a másik játékos jön, ő is választ, és elvesz annyit, amennyit akar. A lényeg, hogy egyszerre csak az egyik kupacból vehet el gyufát, és mindenképp legalább egyet el kell vennie.</p>
+<p>A játékot az nyeri, aki az utolsó szál gyufát elveszi.</p>
+<p>Beliánt néhány kör után ki kellett zárni, mert mindig ő nyert, így Arszlán és Cipórián közt folyt a verseny napkeltéig.</p>
+<p>Kérdésünk az, hogy milyen trükköt ismerhetett Belián. Adjunk nyerő stratégiát a kezdő játékos számára. Mi a helyzet abban az esetben, ha az veszít, akinek az utolsó gyufát el kell vennie?</p>
+<p> <span id="more-1698154"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>A kezdő játékosnak van nyerő stratégiája. Nincs más dolga, csak, hogy összexorolja a kupacban levő gyufák számát, és úgy vegyen el a kupacból, hogy lépései után a xor értéke mindig nulla legyen.</p>
+<p>&oplus;-szal jelölve a xor műveletet, kezdetben 3 &oplus; 4 &oplus; 5 =&nbsp;2. Így az első  lépésnek választhatjuk az első kupacból két gyufa elvételét, hiszen így 1  &oplus; 4 &oplus; 5 =&nbsp;0 marad.</p>
+<p>Ha nulla a xor értéke, akkor a rákövetkező játékos ezt mindenképp elrontja, és fordítva: ha nem nulla az érték, akkor van olyan lépés, amivel nullára állítható.</p>
+<p>A győztes lépés előtt már csak egy kupac van, és úgy állítjuk a (most már egytagú) xort nullára, hogy minden gyufát elveszünk az asztalról.</p>
+<p>A módszer működik több kupac esetén is, és akárhogy megválaszthatjuk a kezdetben a kupacokban levő gyufák számát. Ha a kezdeti xor értéke nem nulla, akkor az első, egyébként a második játékosnak lesz nyerő stratégiája.</p>
+<p>A fordított játékszabályok esetén pontosan ez a  stratégia játszható egészen addig, amíg csak 1 olyan kupac nem marad,  amiben legalább két gyufa van. Ekkor ebből a kupacból kell annyit  elvenni, hogy az asztalon páratlan számú kupac maradjon, utána felváltva vesznek el a játékosok egy-egy gyufát, az utolsó az ellenfélnek marad, így ő veszít.</p>
+<p>A részleteket a <a href="http://en.wikipedia.org/wiki/Nim">wikipedián</a> olvashatjátok, de egyedül sem nehéz belátni, hogy a módszer miért működik, ez egy jó gondolkodtató feladat lehet.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/01/3_kupac_gyufa/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hajótörés</title>
+		<link>/2009/12/hajotores/</link>
+					<comments>/2009/12/hajotores/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2009 07:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[gyakorlati]]></category>
+		<category><![CDATA[olvasói]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/18/hajotores</guid>
+
+					<description><![CDATA[A következő egy team building feladat adaptációja. Enikőnek köszönjük, hogy megosztotta velünk. Arszlán, Belián és Cipórián egyszer hajótörést szenvedett a Csendes Óceán közepén. Az alábbi tárgyakat sikerült kimenteniük a süllyedő hajóból: egy 4 személyes gumicsónakot, egy borotválkozó tükröt, moszkító hálót, 20 liter ivóvizet egy kannában, néhány konzervet, az óceán részletes térképét, 7,5 liter olaj-benzin keveréket, egy kis tranzisztoros rádiót, egy ... <a class="read-more" href="/2009/12/hajotores/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>A következő egy team building feladat adaptációja. Enikőnek köszönjük, hogy megosztotta velünk.</p>
+<p>Arszlán, Belián és Cipórián egyszer hajótörést szenvedett a Csendes Óceán közepén. Az alábbi tárgyakat sikerült kimenteniük a süllyedő hajóból:</p>
+<ol>
+<li>egy 4 személyes gumicsónakot,</li>
+<li>egy borotválkozó tükröt,</li>
+<li>moszkító hálót,</li>
+<li>20 liter ivóvizet egy kannában,</li>
+<li>néhány konzervet,</li>
+<li>az óceán részletes térképét,</li>
+<li>7,5 liter olaj-benzin keveréket,</li>
+<li>egy kis tranzisztoros rádiót,</li>
+<li>egy szextánst,</li>
+<li>2 négyzetméter átlátszó műanyag fóliát,</li>
+<li>cápariasztót,</li>
+<li>1,1 liter erős rumot,</li>
+<li>4,5 méter nylon kötelet,</li>
+<li>2 doboz csokoládét,</li>
+<li>1 horgász felszerelést,</li>
+<li>1 doboz cigarettát,</li>
+<li>3 doboz gyufát,</li>
+<li>és összesen 60 dollárt amerikai bankjegyekben.</li>
+</ol>
+<p>Legjobb tudomásuk szerint 1000km-re délnyugatra voltak egy szigettől.</p>
+<p>Milyen menekülési stratégia mellett dönthettek? Melyik tárgyat mire használhatták fel? Mi a legfontosabb tárgy? Állítsunk fel egy fontossági sorrendet!</p>
+<p>Lévén ez egy team building feladat, a megoldást most együtt találjuk ki a kommentekben!</p>
+<p>Ezzel a bejegyzéssel a blog két hétre szabadságra megy. Jövőre érkezünk új feladatokkal, amiket egyébként továbbra is várunk a fogaskerek@csokavar.hu címre.</p>
+<p>Kellemes ünnepeket mindenkinek!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/12/hajotores/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hajózás</title>
+		<link>/2009/12/hajozas/</link>
+					<comments>/2009/12/hajozas/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 07:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[számolgatós]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas</guid>
+
+					<description><![CDATA[A következő feladatot gimnazista koromban hallottam. Egy hajó kapitányának életkora K, legénységének létszáma L. Mindkettő pozitív egész. A kettő között az alábbi összefüggés áll fenn: L(L&#8211;1) = K(L&#8211;2)+15 Hogy hívják a kapitányt? Megoldás Vonjunk ki 2-t az egyenlet mindkét oldalából, mégpediglen azért, mert a baloldalból is szeretnénk L-2-t kiemelni: L*L &#8211; L &#8211; 2 =&#160;K(L-2) + 13 Ekkor (L-2)(L+1) =&#160;K(L-2) ... <a class="read-more" href="/2009/12/hajozas/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>A következő feladatot gimnazista koromban hallottam.</p>
+<p>Egy hajó kapitányának életkora K, legénységének létszáma L. Mindkettő pozitív egész. A kettő között az alábbi összefüggés áll fenn:</p>
+<p><em>L</em>(<em>L</em>&ndash;1) = K(L&ndash;2)+15</p>
+<p>Hogy <em>hívják </em>a kapitányt?</p>
+<p> <span id="more-1597944"></span> </p>
+<h2>Megoldás</h2>
+<div class="spoiler">
+<p>Vonjunk ki 2-t az egyenlet mindkét oldalából, mégpediglen azért, mert a baloldalból is szeretnénk L-2-t kiemelni:</p>
+<p>L*L &#8211; L &#8211; 2 =&nbsp;K(L-2) + 13</p>
+<p>Ekkor</p>
+<p>(L-2)(L+1) =&nbsp;K(L-2) +&nbsp;13.</p>
+<p>Rendezzük az ismeretleneket a baloldalra:</p>
+<p>(L-2)(L+1) &#8211; K(L-2) =&nbsp;13</p>
+<p>Újabb kiemelés után:</p>
+<p>(L-2)(L+1-K) =&nbsp;13</p>
+<p>Felhasználva, hogy K és L is egész számok a 13-at csak négyféleképpen lehet két szám szorzatára bontani:</p>
+<table width="200" cellspacing="1" cellpadding="1" border="1">
+<thead>     </thead>
+<tbody>
+<tr>
+<td>L-2</td>
+<td>L+1-K</td>
+<td>L</td>
+<td>K</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td>1</td>
+<td>13</td>
+<td>3</td>
+<td>-9</td>
+</tr>
+<tr>
+<td>-1</td>
+<td>-13</td>
+<td>1</td>
+<td>15</td>
+</tr>
+<tr>
+<td>13</td>
+<td>1</td>
+<td>15</td>
+<td>15</td>
+</tr>
+<tr>
+<td>-13</td>
+<td>-1</td>
+<td>-11</td>
+<td>-9</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Mivel L és K is pozitív, csak az L=1, K=15 illetve L&nbsp;=&nbsp;15, K=15 lehet megoldás.</p>
+<p>A kapitány tehát mindenképpen 15 éves, a legénység pedig vagy 1 vagy 15 fős. Innen már csak egy kis kulturális háttérismeret kell ahhoz, hogy kiderüljön: a tizenöt éves kapitány minden bizonnyal a hasonló című Verne regényben szereplő Dick Sand lesz.</p>
+<p>Elegáns?</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/12/hajozas/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hídépítés</title>
+		<link>/2009/12/hidepites_1/</link>
+					<comments>/2009/12/hidepites_1/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2009 07:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[gyakorlati]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/07/hidepites_1</guid>
+
+					<description><![CDATA[A következő feladatot, a híres űrcsavargónak, Charles Simonyinak köszönjük. Arszlán, Belián és Cipórián kedvenc csapszékükben mulattak. Belián kezdett kifogyni a pénzből, ezért egy fogadást ajánlott barátainak. – Itt ez a három pohár és ez a három kés. Fogadjunk, hogy nem tudtok a három késből olyan támasztékot, hidat építeni, ami képes ezt a negyedik (pontosan ugyanilyen) poharat a három pohár között ... <a class="read-more" href="/2009/12/hidepites_1/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>A következő feladatot, a híres űrcsavargónak, Charles Simonyinak köszönjük.</p>
+<p>Arszlán, Belián és Cipórián kedvenc csapszékükben mulattak. Belián kezdett kifogyni a pénzből, ezért egy fogadást ajánlott barátainak.</p>
+<div class="parbeszed">
+<p>– Itt ez a három pohár és ez a három kés. Fogadjunk, hogy nem tudtok a három késből olyan támasztékot, hidat építeni, ami képes ezt a negyedik (pontosan ugyanilyen) poharat a három pohár között középen a poharak tetejével közel egyvonalban stabilan megtartani!</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-2389645" src="/wp-content/uploads/2010/02/kesek.jpg" alt="kesek" width="194" height="259" /></p>
+<p>Arszlán és Cipórián egymásra nézett, majd Cipórián a homlokára csapott.</p>
+<p>– Hiszen ez egyszerű! – és már neki is látott az építésnek&#8230;</p>
+</div>
+<p><span id="more-1578440"></span></p>
+<h2>Megfejtés</h2>
+<div class="spoiler">
+<p>Gratulálunk mindkét megfejtőnknek.</p>
+<p>A második feladványra pedig asszem <a href="http://www.youtube.com/watch?v=FjliE4c5L-U">ez</a> a megoldás.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/12/hidepites_1/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lámpák és kapcsolók III</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/</link>
+					<comments>/2009/11/lampak_es_kapcsolok_iii/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2009 08:36:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[algoritmus]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[olvasói]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii</guid>
+
+					<description><![CDATA[Az alábbi feliratot Cooldavee-nek köszönhetjük. Barátaink sajnos valahol elszámolták magukat, így nem menekültek meg a börtönből. Egy harmadik alkalommal azonban az állami ünnepségek alkalmával új lehetőséghez jutottak. Az őrök az elnök úr parancsára, ezúttal egy nagy lámpafalat szereltek fel a börtön egyik épületének oldalára. A lámpák négyzet alakban, egymás fölött és mellett helyezkedtek el, hasonlóan egy mátrix elemeihez. A mátrix ... <a class="read-more" href="/2009/11/lampak_es_kapcsolok_iii/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Az alábbi feliratot Cooldavee-nek köszönhetjük.</p>
+<p>Barátaink sajnos valahol elszámolták magukat, így <a href="http://fogaskerek.blog.hu/2009/11/20/lampak_es_kapcsolok_ii">nem menekültek meg</a> a börtönből. Egy harmadik alkalommal azonban az állami ünnepségek alkalmával új lehetőséghez jutottak.</p>
+<p>Az őrök az elnök úr parancsára, ezúttal egy nagy lámpafalat szereltek fel a börtön egyik épületének oldalára. A lámpák négyzet alakban, egymás fölött és mellett helyezkedtek el, hasonlóan egy mátrix elemeihez.</p>
+<p>A mátrix minden sorához és oszlopához tartozott egy-egy kapcsoló, amivel az egész sor, illetve oszlop összes lámpáját egyszerre lehetett átállítani: ha a lámpa eddig ki volt kapcsolva, akkor bekapcsolni, és fordíva.</p>
+<p>A játék ezúttal az volt, hogy minden rab, aki le tudja kapcsolni az összes lámpát, egy nap kimenőt kap az ünnepségekre. Minden próbálkozás előtt egy őr állította be a lámpákat, de természetesen úgy, hogy a kapcsolgatás sorrendjét a próbálkozó nem látta.</p>
+<p>Barátaink ezt a lehetőséget használták ki arra, hogy végre megszökjenek a Lámpák és kapcsolók országából. Milyen algoritmust használhattak?</p>
+<p> <span id="more-1562556"></span> </p>
+<h2>Megoldás</h2>
+<div class="spoiler">
+<p>A kijelző bármely két sorára igaz az alábbi két állítás valamelyike:<br />a) az egymás fölötti lámpák ugyanabban az állásban vannak bennük;<br />b) az egymás fölötti lámpák ellentétes állásban vannak bennük.</p>
+<p>Kezdetben ez nyilván teljesült, hiszen akkor minden lámpa le volt kapcsolva. A sorok és oszlopok kapcsolgatása pedig nem rontja el ezt a tulajdonságot.</p>
+<p>Ezután egy jó megoldás pl. a következő: kapcsoljuk le az első sor minden lámpáját az oszlop kapcsolók segítségével, majd az esetleg fennmaradó, most már teljesen világító, sorokat kapcsoljuk le a sor kapcsolókkal.</p>
+<p>Gumi fogaskerék díjat ezúttal nem tudok adni, mert szerintem nem sikerült elég jól megfogalmaznotok a fentieket. Különdíjat érdemel csakazértse <a href="http://csakazertse.freeweb.hu/lampak.php">szemléltetése</a>, amivel az algoritmus egyszerűen kidolgozható.</p>
+</div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/11/lampak_es_kapcsolok_iii/feed/</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lámpák és kapcsolók II</title>
+		<link>/2009/11/lampak_es_kapcsolok_ii/</link>
+					<comments>/2009/11/lampak_es_kapcsolok_ii/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2009 09:58:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[algoritmus]]></category>
+		<category><![CDATA[közepes]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/20/lampak_es_kapcsolok_ii</guid>
+
+					<description><![CDATA[Arszlán, Belián és Cipórián 97 másik &#34;barátjával&#34; együtt volt bezárva valahol. Egy napon az őrök mindenkit felsorakoztattak az udvaron. &#8211; Emberek! Az elnök úr a születésnapjára való tekintettel mindenkinek kegyelmet igért, feltéve, hogy kiálljátok a következő próbát. Én ugyan egy cseppet sem bízom bennetek, de vezetőnk itt élet-halál ura, tehát tolmácsolom, amit nekem mondott. &#8211; Van egy szoba a hatos ... <a class="read-more" href="/2009/11/lampak_es_kapcsolok_ii/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Arszlán, Belián és Cipórián 97 másik &quot;barátjával&quot; együtt volt bezárva valahol. Egy napon az őrök mindenkit felsorakoztattak az udvaron.</p>
+<blockquote>
+<div class="parbeszed">
+<p>&ndash; Emberek! Az elnök úr a születésnapjára való tekintettel mindenkinek kegyelmet igért, feltéve, hogy kiálljátok a következő próbát. Én ugyan egy cseppet sem bízom bennetek, de vezetőnk itt élet-halál ura, tehát tolmácsolom, amit nekem mondott.</p>
+<p>&ndash; Van egy szoba a hatos szárnyon, amiben van két lámpa, és mindegyikhez egy-egy kapcsoló. Mostantól fogva időről-időre kiválasztok közületek valakit. Tetszőlegesen. Lehet, hogy valakit egymás után ötször is elviszek, lehet, hogy valakire jó ideig nem kerül sor. Előbb-utóbb azonban mindenkit kiválasztok majd. Ezt az embert beviszem a szobába, és engedem, hogy a kapcsolókon állítson, a lámpák világításáról meggyőződjön.</p>
+<p>&ndash; Ha, és ez egy nagyon nagy HA, emberek&#8230; Ha ezután a rab azt mondja, hogy biztos benne, hogy már mind a százan megfordultatok a szobában, és tényleg eltalálja a dolgot, akkor másnap reggel mindenki amnesztiával hazamehet. Ha viszont téved, akkor, jómadarak, nincs több lehetőségetek.</p>
+<p>&ndash; A továbbiakban teljesen elszeparálunk titeket egymástól, most azonban még kaptok egy kis időt arra, hogy tanácskozzatok.</p>
+</div>
+</blockquote>
+<p>Ezután az őrök elvonultak, a rabok pedig összedugták a fejüket. Végül három barátunk állt elő a győztes javaslattal. Mi lehetett az?</p>
+<p> <span id="more-1539014"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>Nagyjából összeraktátok, de álljon itt egy összefoglaló is.</p>
+<h4>1. megoldás</h4>
+<p>Arszlán a főnök, ő mindkét lámpát kapcsolgatni fogja, a többiek csak a &quot;kettes&quot; lámpát</p>
+<p>Egy rab akkor kapcsolja fel a kettes lámpát, ha 1) még eddig nem kapcsolta fel, illetve ha 2) már korábban felkapcsolta, de azóta megváltozott az &quot;egyes&quot; lámpa állapota.</p>
+<p>Arszlán a kettes lámpát mindig lekapcsolja, ebből tudja ugyanis meg, hogy legutóbbi látogatása óta jártak-e a szobában más rabok. Első látogatásakor átállítja az egyes lámpát is, hogy azok a rabok, akik esetleg előtte már jártak a szobában, újra kapcsolják fel a lámpájukat.</p>
+<p>Az egész játék addig megy, amíg Arszlán össze nem számol 99 rabot.</p>
+<p>Ez 100.000-es minta alapján kb. 10.520 látogatást vesz igénybe.</p>
+<h4>2. megoldás</h4>
+<p>A rabok a lámpák állásához hozzárendelnek egy kettes számrendszerbeli számot (felkapcsolt lámpa:1, lekapcsolt lámpa: 0).</p>
+<p>Ha az éppen bekísért rab nem tudja növelni az értéket túlcsordulás nélkül, akkor nem csinál semmit, egyébként megnöveli az értéket eggyel, ezt viszont legfeljebb 4 alkalommal csinálja meg.</p>
+<p>Arszlán a többiektől etérően viselkedik. Ő mindig 00-ra állítja a lámpákat és összeadja az eddig látott értékeket.</p>
+<p>Namost. Attól függetlenül, hogy Arszlán első belépése előtt jártak-e már rabok a szobában vagy sem, Arszlán számlálója előbb utóbb el fogja érni a 4*98+1 =&nbsp;393-at. Ekkor azonban a skatulya elv alapján biztos lehet benne, hogy minden rab megfordult már a szobában legalább egy alkalommal.</p>
+<p>A négyszeri kapcsolgatás azért szükséges, mert Arszlán nem ismeri a lámpák kezdőállapotát, így az első néhány (legfeljebb 3) kapcsolást nem tudja beszámítani az összegbe.</p>
+<p>Az algoritmus futásideje, 100.000-es mintán vizsgálva kb. 13.909 látogatás&#8230;</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/11/lampak_es_kapcsolok_ii/feed/</wfw:commentRss>
+			<slash:comments>34</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lámpák és kapcsolók</title>
+		<link>/2009/11/lampak_es_kapcsolok/</link>
+					<comments>/2009/11/lampak_es_kapcsolok/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2009 04:30:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<category><![CDATA[logikai]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/13/lampak_es_kapcsolok</guid>
+
+					<description><![CDATA[Egy másik alkalommal Beliánt a fegyőr egy szobához kísérte, amiben három kapcsoló volt. &#8211; Na, jómadár. Ez a három kapcsoló odakint három izzóhoz kapcsolódik. &#8211; kezdte. &#8211; Mindegyik egyet kapcsol fel, külön-külön. Játszhatsz a kapcsolókkal, majd kisétálunk és ha eltalálod, hogy melyik kapcsoló melyik izzóhoz tartozik, akkor egye fene, este megnézhetitek a meccset. &#8211; Hosszan gondolkoztam, &#8211; meséli Belián &#8211; ... <a class="read-more" href="/2009/11/lampak_es_kapcsolok/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Egy másik alkalommal Beliánt a fegyőr egy szobához kísérte, amiben három kapcsoló volt.</p>
+<div class="parbeszed">
+<blockquote>
+<p>&ndash; Na, jómadár. Ez a három kapcsoló odakint három izzóhoz kapcsolódik. &ndash; kezdte. &ndash; Mindegyik egyet kapcsol fel, külön-külön. Játszhatsz a kapcsolókkal, majd kisétálunk és ha eltalálod, hogy melyik kapcsoló melyik izzóhoz tartozik, akkor egye fene, este megnézhetitek a meccset.</p>
+<p>&ndash; Hosszan gondolkoztam, &ndash; meséli Belián &ndash; aztán előálltam egy ügyes módszerrel.</p>
+</blockquote>
+</div>
+<p>Mi lehetett az?</p>
+<p> <span id="more-1521694"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>Belián egy időre bekapcsolt egy lámpát, hogy felmelegedjen az izzó, ezt kis idő múlva kikapcsolta, és felkapcsolt egy másikat. Így kilépéskor tudta, hogy a világító, a hideg és a meleg izzó melyik kapcsolóhoz tartozik.</p>
+<p>Sajnos ezzel nem ért véget a kapcsolókkal és lámpákkal kapcsolatos feladatok sora, de ez már egy másik lapra tartozik&#8230;</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/11/lampak_es_kapcsolok/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: A mindig nyerő csodakocka	</title>
+	<atom:link href="/2009/10/mindig_nyero_csodakocka/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/10/mindig_nyero_csodakocka/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Mon, 14 Dec 2009 03:57:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: stremix		</title>
+		<link>/2009/10/mindig_nyero_csodakocka/#comment-344</link>
+
+		<dc:creator><![CDATA[stremix]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2009 03:57:43 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka#comment-344</guid>
+
+					<description><![CDATA[[OFF]&lt;br /&gt;
+És mi van akkor ha mindhárom kockával játszunk? Akkor kb kiegyenlítve halad a játék?]]></description>
+			<content:encoded><![CDATA[<p>[OFF]<br />
+És mi van akkor ha mindhárom kockával játszunk? Akkor kb kiegyenlítve halad a játék?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/10/mindig_nyero_csodakocka/#comment-343</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2009 14:25:17 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka#comment-343</guid>
+
+					<description><![CDATA[Megint csak egy nagyszerű feladatot kaptunk! :-)&lt;br /&gt;
+&lt;br /&gt;
+Természetesen Arszlánnak csak valószínűségi nyerésre van lehetősége.&lt;br /&gt;
+&lt;br /&gt;
+Nyilván nem lehet egyetlen abszolút nyerő kocka sem, hiszen akkor Belián választhatná azt, és így Arszlánnak esélye sem lenne. Ezzel szemben tudjuk, hogy Arszlán, miután Belián választott, a maradék kettő közül ki tudja választani azt a kockát, ami veri a Belián által választottat. Tehát olyan kockákat kell csinálnunk, amik körbeverik egymást, mint a kő-papír-olló játékban.&lt;br /&gt;
+&lt;br /&gt;
+Egy ilyen lehetséges kocka-hármas pl. a következő:&lt;br /&gt;
+1. kocka számai: 3, 3, 3, 3, 6, 6&lt;br /&gt;
+2. kocka számai: 2, 2, 5, 5, 5, 5&lt;br /&gt;
+3. kocka számai: 4, 4, 4, 4, 4, 4&lt;br /&gt;
+&lt;br /&gt;
+Az 1. és 2. kocka versenyéből (egy dobást tekintve) az 1. kocka nyerési esélye: 1/3 + 2/3 * 1/3 = 5/9&lt;br /&gt;
+Tehát az 1. kocka jobb, mint a 2.&lt;br /&gt;
+&lt;br /&gt;
+A 3. és 1. kocka versenyéből a 3. kocka nyerési esélye: 2/3&lt;br /&gt;
+Tehát a 3. kocka jobb, mint az 1.&lt;br /&gt;
+&lt;br /&gt;
+A 2. és 3. kocka versenyéből a 2. kocka nyerési esélye: 2/3&lt;br /&gt;
+Tehát a 2. kocka jobb, mint a 3.&lt;br /&gt;
+&lt;br /&gt;
+Tehát a körbeverés létrejött.&lt;br /&gt;
+&lt;br /&gt;
+Az 1. és 2. kocka esetén az 1. kocka nyerési esélye 5/9, ami kb. 55.56%, és ez sajnos nem sokkal több 50%-nál. Ha azt nézzük, hogy 12 menetből mennyi a nyerés valószínűsége, akkor pedig még egy picit romlik is a helyzet (ami számomra meglepő volt):&lt;br /&gt;
+sum(binomial(12, i)*(5/9)^i*(4/9)^(12-i), i = 7 .. 12)&lt;br /&gt;
+Ez 51086796875/94143178827, ami kb. 54.27%.&lt;br /&gt;
+&lt;br /&gt;
+Csak a teljesség kedvéért, ha azt nézzük, hogy az 1. és 2. kocka esetén az 1. kocka mikor nem veszít 12 menetből, akkor már sokkal jobb a helyzet:&lt;br /&gt;
+sum(binomial(12, i)*(5/9)^i*(4/9)^(12-i), i = 6 .. 12)&lt;br /&gt;
+Ez 70798796875/94143178827, ami kb. 75.2%.&lt;br /&gt;
+&lt;br /&gt;
+A másik két kocka-pár esetén természetesen jobbak Arszlán esélyei.&lt;br /&gt;
+&lt;br /&gt;
+Még egy lehetséges kocka-hármast találtam, és gondolom még rengeteg van belőlük:&lt;br /&gt;
+Egy ilyen lehetséges kocka hármas pl. a következő:&lt;br /&gt;
+1. kocka számai: 3, 3, 3, 3, 3, 6&lt;br /&gt;
+2. kocka számai: 2, 2, 2, 5, 5, 5&lt;br /&gt;
+3. kocka számai: 1, 4, 4, 4, 4, 4&lt;br /&gt;
+&lt;br /&gt;
+Itt a körbeverés ugyanúgy valósul meg, mint az első változat esetén, csak itt mások a valószínűségek.]]></description>
+			<content:encoded><![CDATA[<p>Megint csak egy nagyszerű feladatot kaptunk! 🙂</p>
+<p>Természetesen Arszlánnak csak valószínűségi nyerésre van lehetősége.</p>
+<p>Nyilván nem lehet egyetlen abszolút nyerő kocka sem, hiszen akkor Belián választhatná azt, és így Arszlánnak esélye sem lenne. Ezzel szemben tudjuk, hogy Arszlán, miután Belián választott, a maradék kettő közül ki tudja választani azt a kockát, ami veri a Belián által választottat. Tehát olyan kockákat kell csinálnunk, amik körbeverik egymást, mint a kő-papír-olló játékban.</p>
+<p>Egy ilyen lehetséges kocka-hármas pl. a következő:<br />
+1. kocka számai: 3, 3, 3, 3, 6, 6<br />
+2. kocka számai: 2, 2, 5, 5, 5, 5<br />
+3. kocka számai: 4, 4, 4, 4, 4, 4</p>
+<p>Az 1. és 2. kocka versenyéből (egy dobást tekintve) az 1. kocka nyerési esélye: 1/3 + 2/3 * 1/3 = 5/9<br />
+Tehát az 1. kocka jobb, mint a 2.</p>
+<p>A 3. és 1. kocka versenyéből a 3. kocka nyerési esélye: 2/3<br />
+Tehát a 3. kocka jobb, mint az 1.</p>
+<p>A 2. és 3. kocka versenyéből a 2. kocka nyerési esélye: 2/3<br />
+Tehát a 2. kocka jobb, mint a 3.</p>
+<p>Tehát a körbeverés létrejött.</p>
+<p>Az 1. és 2. kocka esetén az 1. kocka nyerési esélye 5/9, ami kb. 55.56%, és ez sajnos nem sokkal több 50%-nál. Ha azt nézzük, hogy 12 menetből mennyi a nyerés valószínűsége, akkor pedig még egy picit romlik is a helyzet (ami számomra meglepő volt):<br />
+sum(binomial(12, i)*(5/9)^i*(4/9)^(12-i), i = 7 .. 12)<br />
+Ez 51086796875/94143178827, ami kb. 54.27%.</p>
+<p>Csak a teljesség kedvéért, ha azt nézzük, hogy az 1. és 2. kocka esetén az 1. kocka mikor nem veszít 12 menetből, akkor már sokkal jobb a helyzet:<br />
+sum(binomial(12, i)*(5/9)^i*(4/9)^(12-i), i = 6 .. 12)<br />
+Ez 70798796875/94143178827, ami kb. 75.2%.</p>
+<p>A másik két kocka-pár esetén természetesen jobbak Arszlán esélyei.</p>
+<p>Még egy lehetséges kocka-hármast találtam, és gondolom még rengeteg van belőlük:<br />
+Egy ilyen lehetséges kocka hármas pl. a következő:<br />
+1. kocka számai: 3, 3, 3, 3, 3, 6<br />
+2. kocka számai: 2, 2, 2, 5, 5, 5<br />
+3. kocka számai: 1, 4, 4, 4, 4, 4</p>
+<p>Itt a körbeverés ugyanúgy valósul meg, mint az első változat esetén, csak itt mások a valószínűségek.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: CoolBrady		</title>
+		<link>/2009/10/mindig_nyero_csodakocka/#comment-342</link>
+
+		<dc:creator><![CDATA[CoolBrady]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2009 12:17:09 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka#comment-342</guid>
+
+					<description><![CDATA[Gondolom ez olyan kő-papír-ollós megoldás, hogy mindegyik kockától van erősebb és gyengébb is.]]></description>
+			<content:encoded><![CDATA[<p>Gondolom ez olyan kő-papír-ollós megoldás, hogy mindegyik kockától van erősebb és gyengébb is.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2009/10/mindig_nyero_csodakocka/#comment-341</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2009 04:38:31 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka#comment-341</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka?fullcommentlist=1#c7409214&quot; class=&quot;reply_nick_131746&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7409214 );&quot; rel=&quot;nofollow&quot;&gt;@Thresher&lt;/a&gt;: Természetesen Belián alaposan megvizsgálhatja a kockákat választás előtt.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka?fullcommentlist=1#c7409214" class="reply_nick_131746" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7409214 );" rel="nofollow">@Thresher</a>: Természetesen Belián alaposan megvizsgálhatja a kockákat választás előtt.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Thresher		</title>
+		<link>/2009/10/mindig_nyero_csodakocka/#comment-340</link>
+
+		<dc:creator><![CDATA[Thresher]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2009 19:34:19 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka#comment-340</guid>
+
+					<description><![CDATA[Kérdés: Belián minden kockát alaposan megnézhet mielőtt választ?]]></description>
+			<content:encoded><![CDATA[<p>Kérdés: Belián minden kockát alaposan megnézhet mielőtt választ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Fernando Torrent		</title>
+		<link>/2009/10/mindig_nyero_csodakocka/#comment-339</link>
+
+		<dc:creator><![CDATA[Fernando Torrent]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2009 17:56:48 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka#comment-339</guid>
+
+					<description><![CDATA[mint a kő-papír-ollóban, ott sincs általános nyerő választás, de ha ismered az ellenfél lépését, már tudsz nyerőt választani, ugyanígy kell itt is a dobókockákkal. egy lehetséges kiosztás&lt;br /&gt;
+&lt;br /&gt;
+1) 244444&lt;br /&gt;
+2) 222466&lt;br /&gt;
+3) 124455&lt;br /&gt;
+&lt;br /&gt;
+esetén 1) veri 2)-t (a lehetséges 36 esetből 15-ben nyer 1), 13-ban 2), a többi döntetlen), 2) veri 3)-t (17-14), 3) veri 1)-t (14-11); a megoldás sajnos csak próbálgatással jött ki, nem tudok általánosítani, minden bizonnyal nem ez a legjobb megoldás és &quot;tönkreverni&quot; sem fogja egyik sem a másikat, mindenesetre minden kockánál létezik nála erősebb és gyengébb is, úgyhogy az alapkövetelménynek megfelel.]]></description>
+			<content:encoded><![CDATA[<p>mint a kő-papír-ollóban, ott sincs általános nyerő választás, de ha ismered az ellenfél lépését, már tudsz nyerőt választani, ugyanígy kell itt is a dobókockákkal. egy lehetséges kiosztás</p>
+<p>1) 244444<br />
+2) 222466<br />
+3) 124455</p>
+<p>esetén 1) veri 2)-t (a lehetséges 36 esetből 15-ben nyer 1), 13-ban 2), a többi döntetlen), 2) veri 3)-t (17-14), 3) veri 1)-t (14-11); a megoldás sajnos csak próbálgatással jött ki, nem tudok általánosítani, minden bizonnyal nem ez a legjobb megoldás és &#8220;tönkreverni&#8221; sem fogja egyik sem a másikat, mindenesetre minden kockánál létezik nála erősebb és gyengébb is, úgyhogy az alapkövetelménynek megfelel.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: hvuk		</title>
+		<link>/2009/10/mindig_nyero_csodakocka/#comment-338</link>
+
+		<dc:creator><![CDATA[hvuk]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2009 17:40:15 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka#comment-338</guid>
+
+					<description><![CDATA[Ez egy kő-papír-olló játék. :) Tehát egymást körkörösen verő kockákat kell konstruálni.&lt;br /&gt;
+&lt;br /&gt;
+Legyen a 3 kockának az alábbiak az oldalai:&lt;br /&gt;
+&lt;br /&gt;
+A: 664222&lt;br /&gt;
+B: 444444&lt;br /&gt;
+C: 555411&lt;br /&gt;
+&lt;br /&gt;
+Triviális, hogy A-t megveri B kocka (mivel A nyer az esetek 1/3 részében, egált dob 1/6-od részében és kikap a felében), B-t veri C (mivel az esetek felében C nyer, 1/6-od részében egál van, 1/3-ad részében meg B nyer). Kérdés, hogy vajon C-t veri-e A. A nyer ha 6-ot dob (1/3), ha 2-t dob és C 1-et (1/2 * 1/3) és végül ha 4-et dob és C ennél kisebbet dob (1/6 * 2/5 - mivel 4-nél újat dob). Ez pedig összességében valamivel nagyobb esély mint 1/2-ed. &lt;br /&gt;
+&lt;br /&gt;
+Tehát körbeverik egymást, azaz bárhogy is választ Belián vagy Cipórián, Arszlán mindig tud úgy választani, hogy ő legyen az esélyes.]]></description>
+			<content:encoded><![CDATA[<p>Ez egy kő-papír-olló játék. 🙂 Tehát egymást körkörösen verő kockákat kell konstruálni.</p>
+<p>Legyen a 3 kockának az alábbiak az oldalai:</p>
+<p>A: 664222<br />
+B: 444444<br />
+C: 555411</p>
+<p>Triviális, hogy A-t megveri B kocka (mivel A nyer az esetek 1/3 részében, egált dob 1/6-od részében és kikap a felében), B-t veri C (mivel az esetek felében C nyer, 1/6-od részében egál van, 1/3-ad részében meg B nyer). Kérdés, hogy vajon C-t veri-e A. A nyer ha 6-ot dob (1/3), ha 2-t dob és C 1-et (1/2 * 1/3) és végül ha 4-et dob és C ennél kisebbet dob (1/6 * 2/5 &#8211; mivel 4-nél újat dob). Ez pedig összességében valamivel nagyobb esély mint 1/2-ed. </p>
+<p>Tehát körbeverik egymást, azaz bárhogy is választ Belián vagy Cipórián, Arszlán mindig tud úgy választani, hogy ő legyen az esélyes.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Szajmong		</title>
+		<link>/2009/10/mindig_nyero_csodakocka/#comment-337</link>
+
+		<dc:creator><![CDATA[Szajmong]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2009 07:36:58 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka#comment-337</guid>
+
+					<description><![CDATA[A megoldást ismertem régebbről, de már nem emlékeztem, így segítségül hívtam a Google-t:&lt;br /&gt;
+&lt;a href=&quot;http://matek.fazekas.hu/portal/tanitasianyagok/Orosz_Gyula/Val/v6.html&quot; rel=&quot;nofollow&quot;&gt;matek.fazekas.hu/portal/tanitasianyagok/Orosz_Gyula/Val/v6.html&lt;/a&gt; :&lt;br /&gt;
+&#060;&#060;&lt;br /&gt;
+6.4. feladat:&lt;br /&gt;
+&lt;br /&gt;
+Készítsünk nem-tranzitív három dobókockát, pl. a hagyományos 1, 2, 3, 4, 5, 6 számokból! (Nem kell mindegyik számot felhasználni.) &lt;br /&gt;
+Megoldás:&lt;br /&gt;
+&lt;br /&gt;
+A kérdés tulajdonképpen az, hogy lehet-e három kockát úgy megszámozni, hogy azok „körbeverjék” egymást? Egy lehetséges megoldás pl. az alábbi: &lt;br /&gt;
+I: 2, 2, 2, 2, 5, 5; II: 4, 4, 4, 4, 1, 1; III: 3, 3, 3, 3, 3, 3. &lt;br /&gt;
+&lt;br /&gt;
+(Nem olyan nehéz rájönni a megoldásra. Ha pl. a III-as kocka 3, 3, 3, 3, 3, 3 számait fixáljuk, a másik két kockát pedig I: a, a, a, a, b, b, ill. II: c, c, c, c, d, d alakban keressük, akkor a &#060; 3, b &#062; 3, valamint c &#062; 3, d &#060; 3 feltételek mellett (ekkor I-esnél jobb a III-as és a III-asnál jobb a II-es) elég, ha b &#062; c és a &#062; d teljesül.) &lt;br /&gt;
+&#062;&#062;&lt;br /&gt;
+Szájmon]]></description>
+			<content:encoded><![CDATA[<p>A megoldást ismertem régebbről, de már nem emlékeztem, így segítségül hívtam a Google-t:<br />
+<a href="http://matek.fazekas.hu/portal/tanitasianyagok/Orosz_Gyula/Val/v6.html" rel="nofollow">matek.fazekas.hu/portal/tanitasianyagok/Orosz_Gyula/Val/v6.html</a> :<br />
+&lt;&lt;<br />
+6.4. feladat:</p>
+<p>Készítsünk nem-tranzitív három dobókockát, pl. a hagyományos 1, 2, 3, 4, 5, 6 számokból! (Nem kell mindegyik számot felhasználni.) <br />
+Megoldás:</p>
+<p>A kérdés tulajdonképpen az, hogy lehet-e három kockát úgy megszámozni, hogy azok „körbeverjék” egymást? Egy lehetséges megoldás pl. az alábbi: <br />
+I: 2, 2, 2, 2, 5, 5; II: 4, 4, 4, 4, 1, 1; III: 3, 3, 3, 3, 3, 3. </p>
+<p>(Nem olyan nehéz rájönni a megoldásra. Ha pl. a III-as kocka 3, 3, 3, 3, 3, 3 számait fixáljuk, a másik két kockát pedig I: a, a, a, a, b, b, ill. II: c, c, c, c, d, d alakban keressük, akkor a &lt; 3, b &gt; 3, valamint c &gt; 3, d &lt; 3 feltételek mellett (ekkor I-esnél jobb a III-as és a III-asnál jobb a II-es) elég, ha b &gt; c és a &gt; d teljesül.) <br />
+&gt;&gt;<br />
+Szájmon</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

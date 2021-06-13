@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: A titkos terv	</title>
+	<atom:link href="/2010/03/a_titkos_terv/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/03/a_titkos_terv/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Fri, 05 Mar 2010 11:47:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: _Cactus_		</title>
+		<link>/2010/03/a_titkos_terv/#comment-32</link>
+
+		<dc:creator><![CDATA[_Cactus_]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2010 11:47:34 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-32</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv?fullcommentlist=1#c8949337&quot; class=&quot;reply_nick_337102&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 8949337 );&quot; rel=&quot;nofollow&quot;&gt;@-Maya&lt;/a&gt;: A Lagrange-interpoláció működik komplex polinomokra, nem azzal van itt a baj (sőt, talán az az egyetlen, amivel nincs baj:))]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv?fullcommentlist=1#c8949337" class="reply_nick_337102" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 8949337 );" rel="nofollow">@-Maya</a>: A Lagrange-interpoláció működik komplex polinomokra, nem azzal van itt a baj (sőt, talán az az egyetlen, amivel nincs baj:))</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: _Cactus_		</title>
+		<link>/2010/03/a_titkos_terv/#comment-31</link>
+
+		<dc:creator><![CDATA[_Cactus_]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2010 11:36:43 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-31</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv?fullcommentlist=1#c8949359&quot; class=&quot;reply_nick_337102&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 8949359 );&quot; rel=&quot;nofollow&quot;&gt;@-Maya&lt;/a&gt;: Nem is arra gondoltam, hanem hogy pontonként csak abszolútértékeket tudunk szummálni, nem pedig komplex értékeket.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv?fullcommentlist=1#c8949359" class="reply_nick_337102" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 8949359 );" rel="nofollow">@-Maya</a>: Nem is arra gondoltam, hanem hogy pontonként csak abszolútértékeket tudunk szummálni, nem pedig komplex értékeket.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: csakazertse		</title>
+		<link>/2010/03/a_titkos_terv/#comment-30</link>
+
+		<dc:creator><![CDATA[csakazertse]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2010 09:08:38 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-30</guid>
+
+					<description><![CDATA[közben megláttam az előző választ is ..]]></description>
+			<content:encoded><![CDATA[<p>közben megláttam az előző választ is ..</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: csakazertse		</title>
+		<link>/2010/03/a_titkos_terv/#comment-29</link>
+
+		<dc:creator><![CDATA[csakazertse]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2010 09:05:52 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-29</guid>
+
+					<description><![CDATA[A kontrasztosság, élesség arra enged következtetni, hogy fóliák helyett nem működne ff bmp fájlokra és OR műveletre sem.]]></description>
+			<content:encoded><![CDATA[<p>A kontrasztosság, élesség arra enged következtetni, hogy fóliák helyett nem működne ff bmp fájlokra és OR műveletre sem.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2010/03/a_titkos_terv/#comment-28</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2010 09:04:59 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-28</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv?fullcommentlist=1#c8940065&quot; class=&quot;reply_nick_14938&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 8940065 );&quot; rel=&quot;nofollow&quot;&gt;@_Cactus_&lt;/a&gt;: Ne aggódj a kvantálás miatt, legfeljebb majd valami ügyes nyomdai eljárással megoldjuk, hogy folytonosak legyenek az átmenetek. :) (Bár persze tudjuk, hogy igazából valós számok nem léteznek :P)]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv?fullcommentlist=1#c8940065" class="reply_nick_14938" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 8940065 );" rel="nofollow">@_Cactus_</a>: Ne aggódj a kvantálás miatt, legfeljebb majd valami ügyes nyomdai eljárással megoldjuk, hogy folytonosak legyenek az átmenetek. 🙂 (Bár persze tudjuk, hogy igazából valós számok nem léteznek :P)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2010/03/a_titkos_terv/#comment-27</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2010 09:03:26 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-27</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv?fullcommentlist=1#c8949054&quot; class=&quot;reply_nick_353130&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 8949054 );&quot; rel=&quot;nofollow&quot;&gt;@csakazertse&lt;/a&gt;: Természetesen mint minden rendes titkosításnál, itt is abból kell kiindulni, hogy az ellenség ismeri az algoritmusunkat.&lt;br /&gt;
+&lt;br /&gt;
+Egy pixeles képre pl. lehet a következőt csinálni: N fólia közül m darabra szürke pontot teszünk, a többit átlátszóra hagyjuk, m &#062; N/2 fekete eredeti pixel esetén, fehér esetén fordítva. Az eredményben így az 50%-os szürkénél kicsit sötétebb pixelt kapunk ha fekete pixelből indultunk ki, fehér esetén egy picit világosabbat. &lt;br /&gt;
+&lt;br /&gt;
+Ezt persze könnyen általánosíthatjuk többpixeles képre is.&lt;br /&gt;
+&lt;br /&gt;
+A gond az, hogy két fóliát megkaparintva 50%-nál átlagosan nagyobb eséllyel lehet eltalálni, hogy az adott pixel fekete vagy fehér volt. Így nem teljesül, hogy nem kap információt a támadó.&lt;br /&gt;
+&lt;br /&gt;
+Cactus megoldása tökéletes lenne, csak ki kéne rendesen dolgozni. Tisztázni kéne először is, hogy működik-e a Lagrange komplexváltozós függvényekre. Aztán érdekes lenne látni, hogy az alappontok száma és a képvisszaadás minősége milyen összefügésben van; hány fólia kell tisztességes minőségű kép előállításához, stb. &lt;br /&gt;
+&lt;br /&gt;
+Az is érdekes lenne, hogy lehet-e gyengíteni a dolgon, hogy csak az eredetileg elvárt két fóliás megfejthetetlenséget hozza.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv?fullcommentlist=1#c8949054" class="reply_nick_353130" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 8949054 );" rel="nofollow">@csakazertse</a>: Természetesen mint minden rendes titkosításnál, itt is abból kell kiindulni, hogy az ellenség ismeri az algoritmusunkat.</p>
+<p>Egy pixeles képre pl. lehet a következőt csinálni: N fólia közül m darabra szürke pontot teszünk, a többit átlátszóra hagyjuk, m &gt; N/2 fekete eredeti pixel esetén, fehér esetén fordítva. Az eredményben így az 50%-os szürkénél kicsit sötétebb pixelt kapunk ha fekete pixelből indultunk ki, fehér esetén egy picit világosabbat. </p>
+<p>Ezt persze könnyen általánosíthatjuk többpixeles képre is.</p>
+<p>A gond az, hogy két fóliát megkaparintva 50%-nál átlagosan nagyobb eséllyel lehet eltalálni, hogy az adott pixel fekete vagy fehér volt. Így nem teljesül, hogy nem kap információt a támadó.</p>
+<p>Cactus megoldása tökéletes lenne, csak ki kéne rendesen dolgozni. Tisztázni kéne először is, hogy működik-e a Lagrange komplexváltozós függvényekre. Aztán érdekes lenne látni, hogy az alappontok száma és a képvisszaadás minősége milyen összefügésben van; hány fólia kell tisztességes minőségű kép előállításához, stb. </p>
+<p>Az is érdekes lenne, hogy lehet-e gyengíteni a dolgon, hogy csak az eredetileg elvárt két fóliás megfejthetetlenséget hozza.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: csakazertse		</title>
+		<link>/2010/03/a_titkos_terv/#comment-26</link>
+
+		<dc:creator><![CDATA[csakazertse]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2010 08:42:56 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-26</guid>
+
+					<description><![CDATA[Gondolom olyan a módszer amit a rendőrség is ismerhet.&lt;br /&gt;
+Extrém esetként meg akartam kérdezni, hogy 1 pixeles képre is működik -e, de úgy látom, valószínűleg nem.&lt;br /&gt;
+Remélem nem egy &#039;xor vetítő&#039;, hanem az általánosban megismert :)]]></description>
+			<content:encoded><![CDATA[<p>Gondolom olyan a módszer amit a rendőrség is ismerhet.<br />
+Extrém esetként meg akartam kérdezni, hogy 1 pixeles képre is működik -e, de úgy látom, valószínűleg nem.<br />
+Remélem nem egy &#8216;xor vetítő&#8217;, hanem az általánosban megismert 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: _Cactus_		</title>
+		<link>/2010/03/a_titkos_terv/#comment-25</link>
+
+		<dc:creator><![CDATA[_Cactus_]]></dc:creator>
+		<pubDate>Thu, 04 Mar 2010 17:58:27 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-25</guid>
+
+					<description><![CDATA[Ha N-et nem ismeri, akkor kontinuum számosságúnál is több olyan polinom van, amelynek fólia-sorában szerepelne ugyanaz a két fólia. Ha N-t ismeri, akkor csak kontinuum számosságú :)]]></description>
+			<content:encoded><![CDATA[<p>Ha N-et nem ismeri, akkor kontinuum számosságúnál is több olyan polinom van, amelynek fólia-sorában szerepelne ugyanaz a két fólia. Ha N-t ismeri, akkor csak kontinuum számosságú 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: graymonkey		</title>
+		<link>/2010/03/a_titkos_terv/#comment-24</link>
+
+		<dc:creator><![CDATA[graymonkey]]></dc:creator>
+		<pubDate>Thu, 04 Mar 2010 16:03:56 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-24</guid>
+
+					<description><![CDATA[Ez szerintem kurva jó, csak abban nem vagyok teljesen biztos, hogy semmi információhoz nem jut a csávó, ha két diát ellop, mer azér valami közelítést már az a két dia is kell, hogy adjon. Vagy nem?]]></description>
+			<content:encoded><![CDATA[<p>Ez szerintem kurva jó, csak abban nem vagyok teljesen biztos, hogy semmi információhoz nem jut a csávó, ha két diát ellop, mer azér valami közelítést már az a két dia is kell, hogy adjon. Vagy nem?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: _Cactus_		</title>
+		<link>/2010/03/a_titkos_terv/#comment-23</link>
+
+		<dc:creator><![CDATA[_Cactus_]]></dc:creator>
+		<pubDate>Thu, 04 Mar 2010 15:55:36 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv#comment-23</guid>
+
+					<description><![CDATA[Nekem van egy kiinduló ötletem, de még rengeteget kell rajta dolgozni...&lt;br /&gt;
+&lt;br /&gt;
+Az egész abból a feltevésből indul ki, hogy ha egymásra rakok az&lt;br /&gt;
+írásvetítőn fóliákat, akkor a kivetített kép a fóliákon lévő&lt;br /&gt;
+szürkeárnyalatos képek pontonkénti összegét fogja mutatni.&lt;br /&gt;
+&lt;br /&gt;
+A másik kiindulópont az a hagyományos kulcsszétosztási módszer, amikor&lt;br /&gt;
+N emberre akarok rábízni egy kulcsot, amihez egyszerre legalább 1 ≤ K&lt;br /&gt;
+≤ N embernek kell közülük együttműködni (a klasszikus &quot;egyszerre&lt;br /&gt;
+ketten kell elfordítani két kulcsot a páncélterem kinyitásához&quot;&lt;br /&gt;
+matematikai modellje). Ennek egy nagyon egyszerű megoldása, hogy&lt;br /&gt;
+veszünk egy K fokú polinomot, és kiértékeljük N db adott&lt;br /&gt;
+alappontban. Mindenki egy (x_i, y_i := p(x_i)) párt kap, és ha&lt;br /&gt;
+összejönnek K-an, akkor Lagrange-interpolációval pontosan&lt;br /&gt;
+rekonstruálni tudják p-t.&lt;br /&gt;
+&lt;br /&gt;
+Csináljuk tehát a következőt: legyen N &#062; 2 a felhasználható fóliák&lt;br /&gt;
+száma, és keressünk a képnek, mint ℂ → ℝ függvénynek egy (N-1)-edfokú&lt;br /&gt;
+polinom-approximációját, legyen a továbbiakban ez p. Ezek után&lt;br /&gt;
+készítsük el az N db fóliát olymódon, hogy egy adott (x_0, …, x_N)&lt;br /&gt;
+alappontrendszerhez minden i. fólia az x_i középpontú&lt;br /&gt;
+Lagrange-alappolinom p(x_i) érték szerint skálázott változata: vagyis&lt;br /&gt;
+a fólián kb. azt látjuk, mintha &quot;felülről&quot; ránéznénk az&lt;br /&gt;
+i. Lagrange-alappolinomra, és térképként besatíroznánk, hogy hol&lt;br /&gt;
+milyen nagy a függvényérték.&lt;br /&gt;
+&lt;br /&gt;
+Ekkor az így kapott fóliákat egymásra téve és kivetítve éppen a&lt;br /&gt;
+Lagrange-polinomok egy lineáris kombinációját kapjuk, és a súlyozás&lt;br /&gt;
+pont p-nek az alappontokban vett értéke. Mivel N fóliánk van, és p&lt;br /&gt;
+(N-1)-edfokú, nyilván visszakaptuk az eredeti polinomunkat, vagyis az&lt;br /&gt;
+eredeti kép approximációját. Ha viszont csak két fólia van a&lt;br /&gt;
+kezünkben (vagy bármennyi, de nem mind az N), akkor gyakorlatilag&lt;br /&gt;
+semmit nem tudunk mondani a polinomról.&lt;br /&gt;
+&lt;br /&gt;
+A dologban csak az a bibi, hogy ez így egydimenzióban biztosan&lt;br /&gt;
+működne, de kicsit fishy, hogy egyáltalán hogyan approximáljuk a&lt;br /&gt;
+valósértékű, komplex számsíkon értelmezett képünket polinommal, meg&lt;br /&gt;
+hogy működik-e ez az egész, ha a polinom értékeinek csak a nagyságát&lt;br /&gt;
+(abszolútértékét) tároljuk (hiszen a fólia pontjaiba csak egy-egy&lt;br /&gt;
+szürkeárnyalatot tudunk rakni).]]></description>
+			<content:encoded><![CDATA[<p>Nekem van egy kiinduló ötletem, de még rengeteget kell rajta dolgozni&#8230;</p>
+<p>Az egész abból a feltevésből indul ki, hogy ha egymásra rakok az<br />
+írásvetítőn fóliákat, akkor a kivetített kép a fóliákon lévő<br />
+szürkeárnyalatos képek pontonkénti összegét fogja mutatni.</p>
+<p>A másik kiindulópont az a hagyományos kulcsszétosztási módszer, amikor<br />
+N emberre akarok rábízni egy kulcsot, amihez egyszerre legalább 1 ≤ K<br />
+≤ N embernek kell közülük együttműködni (a klasszikus &#8220;egyszerre<br />
+ketten kell elfordítani két kulcsot a páncélterem kinyitásához&#8221;<br />
+matematikai modellje). Ennek egy nagyon egyszerű megoldása, hogy<br />
+veszünk egy K fokú polinomot, és kiértékeljük N db adott<br />
+alappontban. Mindenki egy (x_i, y_i := p(x_i)) párt kap, és ha<br />
+összejönnek K-an, akkor Lagrange-interpolációval pontosan<br />
+rekonstruálni tudják p-t.</p>
+<p>Csináljuk tehát a következőt: legyen N &gt; 2 a felhasználható fóliák<br />
+száma, és keressünk a képnek, mint ℂ → ℝ függvénynek egy (N-1)-edfokú<br />
+polinom-approximációját, legyen a továbbiakban ez p. Ezek után<br />
+készítsük el az N db fóliát olymódon, hogy egy adott (x_0, …, x_N)<br />
+alappontrendszerhez minden i. fólia az x_i középpontú<br />
+Lagrange-alappolinom p(x_i) érték szerint skálázott változata: vagyis<br />
+a fólián kb. azt látjuk, mintha &#8220;felülről&#8221; ránéznénk az<br />
+i. Lagrange-alappolinomra, és térképként besatíroznánk, hogy hol<br />
+milyen nagy a függvényérték.</p>
+<p>Ekkor az így kapott fóliákat egymásra téve és kivetítve éppen a<br />
+Lagrange-polinomok egy lineáris kombinációját kapjuk, és a súlyozás<br />
+pont p-nek az alappontokban vett értéke. Mivel N fóliánk van, és p<br />
+(N-1)-edfokú, nyilván visszakaptuk az eredeti polinomunkat, vagyis az<br />
+eredeti kép approximációját. Ha viszont csak két fólia van a<br />
+kezünkben (vagy bármennyi, de nem mind az N), akkor gyakorlatilag<br />
+semmit nem tudunk mondani a polinomról.</p>
+<p>A dologban csak az a bibi, hogy ez így egydimenzióban biztosan<br />
+működne, de kicsit fishy, hogy egyáltalán hogyan approximáljuk a<br />
+valósértékű, komplex számsíkon értelmezett képünket polinommal, meg<br />
+hogy működik-e ez az egész, ha a polinom értékeinek csak a nagyságát<br />
+(abszolútértékét) tároljuk (hiszen a fólia pontjaiba csak egy-egy<br />
+szürkeárnyalatot tudunk rakni).</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

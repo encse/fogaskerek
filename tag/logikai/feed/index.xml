@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>logikai &#8211; Fogaskerék</title>
+	<atom:link href="/tag/logikai/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Wed, 11 May 2016 20:24:13 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Dugó az üvegben</title>
+		<link>/2010/10/dugo_az_uvegben/</link>
+					<comments>/2010/10/dugo_az_uvegben/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2010 19:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[logikai]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/10/21/dugo_az_uvegben</guid>
+
+					<description><![CDATA[Egy este Arszlán, Belián és Cipórián kedvenc csapszékükben beszélgettek. A borosüveg lassan kiürült, és Arszlán egy jópofa feladattal állt elő. Előbb az üveg dugóját kis kézimunkával és ütögetéssel teljesen az üveg belsejébe nyomta, úgy hogy a dugó leesett az üveg aljára, majd valahonnan előhúzott egy szemeteszsákot, és megkérdezte társait, hogy ki tudják-e szedni a dugót a zsák segítségével. Hosszan próbálkoztak, ... <a class="read-more" href="/2010/10/dugo_az_uvegben/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Egy este Arszlán, Belián és Cipórián kedvenc csapszékükben beszélgettek. A borosüveg lassan kiürült, és Arszlán egy jópofa feladattal állt elő. Előbb az üveg dugóját kis kézimunkával és ütögetéssel teljesen az üveg belsejébe nyomta, úgy hogy a dugó leesett az üveg aljára, majd valahonnan előhúzott egy szemeteszsákot, és megkérdezte társait, hogy ki tudják-e szedni a dugót a zsák segítségével.</p>
+<p>Hosszan próbálkoztak, aztán valamelyikük előállt a megoldással.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/10/dugo_az_uvegben/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kirándulás</title>
+		<link>/2010/01/kirandulas_2073/</link>
+					<comments>/2010/01/kirandulas_2073/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2010 07:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<category><![CDATA[logikai]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/18/kirandulas_2073</guid>
+
+					<description><![CDATA[Arszlán, Belián és Cipórán ezúttal kirándulni mentek a hegyekbe. Sikerült elrángatni magukkal rendszergazda haverjukat, Debiánt is. Már hazafelé tartottak mikor rájuk esteledett és a hazavezető ösvényen utolsó akadályként egy függőhíd előtt találták magukat. Sötétben életveszélyes lett volna megkísérelni az átkelést. Ráadásul egyszerre legfeljebb ketten mehettek át a hídon. Szerencsére volt náluk egy zseblámpa, de aggódtak, hogy esetleg kifogy az elem, ... <a class="read-more" href="/2010/01/kirandulas_2073/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Arszlán, Belián és Cipórán ezúttal kirándulni mentek a hegyekbe. Sikerült elrángatni magukkal rendszergazda haverjukat, Debiánt is. Már hazafelé tartottak mikor rájuk esteledett és a hazavezető ösvényen utolsó akadályként egy függőhíd előtt találták magukat. Sötétben életveszélyes lett volna megkísérelni az átkelést. Ráadásul egyszerre legfeljebb ketten mehettek át a hídon. Szerencsére volt náluk egy zseblámpa, de aggódtak, hogy esetleg kifogy az elem, mire mind átérnek. További nehézséget jelentett, hogy nem egyforma sebességgel tudtak haladni, Arszlán 1, Belián 2, Cipórián 5 és Debián, a rendszergazda 10 perc alatt képes átkelni a hídon. Ha ketten mennek természetesen csak a lassabb tempójában tudnak haladni.</p>
+<p style="text-align: justify;">Milyen sorrendben keljenek át, ha a lehető legrövidebb idő alatt szeretnének átérni?</p>
+<p> <span id="more-1680283"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>Figyelemre méltó, hogy erre a feladatra nagyon sokan kapásból a cooldavee által is részletesen kifejtett, nagyon meggyőző, de sajnos teljesen hibás megoldást adják.</p>
+<p>A hoppá érzés igazán akkor fog el, amikor rájövünk, hogy az is visszajöhet aki még előzőleg ment át a hídon. A feladatban szereplő adatokkal így 17 percre jön ki a leggyorsabb stratégia, mely lehet pl. a következő: AB(A), CD(B), AB. Zárójelben a visszatérő embert jelöltem.</p>
+<p>Ezúttal csakazertse-nek gratulálunk az első jó megoldáshoz.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/01/kirandulas_2073/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Szlovák turista, magyar turista</title>
+		<link>/2009/11/szlovak_turista_magyar_turista/</link>
+					<comments>/2009/11/szlovak_turista_magyar_turista/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2009 07:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[logikai]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/16/szlovak_turista_magyar_turista</guid>
+
+					<description><![CDATA[Most hagyjuk kicsit pihenni hőseinket, és lássunk egy érdekes történelmi feladatot. Előttem van a Holnapi Újság 2010 március 3-i száma. Ismeretes, hogy ez volt az a nap, mikor feloldották az újinflueza miatt elrendelt részleges &#8222;zsilipes&#8221; határzárat Szlovákia és Magyarország között. A határzár épp Újév napján, 2010. január 1-én lépett életbe. Az újság részletesen kifejti, hogy mit is jelentett ez: egyszerre ... <a class="read-more" href="/2009/11/szlovak_turista_magyar_turista/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Most hagyjuk kicsit pihenni hőseinket, és lássunk egy érdekes történelmi feladatot. Előttem van a Holnapi Újság 2010 március 3-i száma. Ismeretes, hogy ez volt az a nap, mikor feloldották az újinflueza miatt elrendelt részleges &bdquo;zsilipes&rdquo; határzárat Szlovákia és Magyarország között.</p>
+<p style="text-align: justify;">A határzár épp Újév napján, 2010. január 1-én lépett életbe. Az újság részletesen kifejti, hogy mit is jelentett ez: egyszerre mindig csak az egyik irányba volt nyitva a határ, azaz vagy csak Magyarországból lehetett Szlovákia felé menni, vagy fordítva. A forgalom és az ellenkező irányban várakozók számától függően egy idő múlva az irány megfordult. Ekkor azonban mindaddig az új irány maradt érvényben, amíg pontosan ugyanannyian nem lépték át a határt, mint előzőleg a másik irányba. Ha ez megvolt, akkor irányt váltottak és kezdődött az egész elölről.</p>
+<p style="text-align: justify;">Érdekes, hogy igazából ez enyhítésnek számított, hisz ekkora már mindkét ország az összes másik határos országgal teljes határzárat léptetett életbe megakadályozandó, hogy az azokban elharapódzó járvány átterjedjen rájuk is.</p>
+<p style="text-align: justify;">A kérdés a következő: a határzár feloldása előtti pillanatban, a kiindulási helyzethez képest kik voltak többen: magyar turisták Szlovákiában, vagy szlovák turisták Magyarországon?<br />
+&nbsp;</p>
+<p style="text-align: justify;"><strong>Pontosítás 1: </strong>Csak a két ország polgárai léphetik át a határt (a többiek már úgyis rég hazamentek <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" />&nbsp;)<strong><br />
+Pontosítás 2:</strong> A határzárat egy teljes oda-vissza kör végén oldják fel.</p>
+<p><span id="more-1527736"></span></p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p style="text-align: justify;">A végén mindkét országban ugyannannyian lesznek, mint eredetileg. Ebből következik, hogy amennyivel több szlovák turista lett Magyarországon, szükségképpen ugyanannyi magyar turistával több kell legyen odaát.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/11/szlovak_turista_magyar_turista/feed/</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lámpák és kapcsolók</title>
+		<link>/2009/11/lampak_es_kapcsolok/</link>
+					<comments>/2009/11/lampak_es_kapcsolok/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2009 04:30:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<category><![CDATA[logikai]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/13/lampak_es_kapcsolok</guid>
+
+					<description><![CDATA[Egy másik alkalommal Beliánt a fegyőr egy szobához kísérte, amiben három kapcsoló volt. &#8211; Na, jómadár. Ez a három kapcsoló odakint három izzóhoz kapcsolódik. &#8211; kezdte. &#8211; Mindegyik egyet kapcsol fel, külön-külön. Játszhatsz a kapcsolókkal, majd kisétálunk és ha eltalálod, hogy melyik kapcsoló melyik izzóhoz tartozik, akkor egye fene, este megnézhetitek a meccset. &#8211; Hosszan gondolkoztam, &#8211; meséli Belián &#8211; ... <a class="read-more" href="/2009/11/lampak_es_kapcsolok/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Egy másik alkalommal Beliánt a fegyőr egy szobához kísérte, amiben három kapcsoló volt.</p>
+<div class="parbeszed">
+<blockquote>
+<p>&ndash; Na, jómadár. Ez a három kapcsoló odakint három izzóhoz kapcsolódik. &ndash; kezdte. &ndash; Mindegyik egyet kapcsol fel, külön-külön. Játszhatsz a kapcsolókkal, majd kisétálunk és ha eltalálod, hogy melyik kapcsoló melyik izzóhoz tartozik, akkor egye fene, este megnézhetitek a meccset.</p>
+<p>&ndash; Hosszan gondolkoztam, &ndash; meséli Belián &ndash; aztán előálltam egy ügyes módszerrel.</p>
+</blockquote>
+</div>
+<p>Mi lehetett az?</p>
+<p> <span id="more-1521694"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>Belián egy időre bekapcsolt egy lámpát, hogy felmelegedjen az izzó, ezt kis idő múlva kikapcsolta, és felkapcsolt egy másikat. Így kilépéskor tudta, hogy a világító, a hideg és a meleg izzó melyik kapcsolóhoz tartozik.</p>
+<p>Sajnos ezzel nem ért véget a kapcsolókkal és lámpákkal kapcsolatos feladatok sora, de ez már egy másik lapra tartozik&#8230;</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/11/lampak_es_kapcsolok/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Futás!</title>
+		<link>/2009/10/futas_44/</link>
+					<comments>/2009/10/futas_44/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2009 07:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<category><![CDATA[logikai]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/26/futas_44</guid>
+
+					<description><![CDATA[Három kedvenc gazfickónk ezúttal futóversenyt rendez. Kijelölnek egy nagyjából 100 méteres távot, aztán egyszerre indulnak. Arszlán ér be először a célba 5 méterrel lehagyva Beliánt és 10 méterrel Cipóriánt. Ez mondjuk nem okoz meglepetést, tudják, hogy Arszlán a legjobb futó és Cipórián a leggyengébb. Hogy a verseny fair legyen, mégegyszer rajthoz állnak, de most Arszlán 10 méterrel, Belián pedig 5 ... <a class="read-more" href="/2009/10/futas_44/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Három kedvenc gazfickónk ezúttal futóversenyt rendez. Kijelölnek egy nagyjából 100 méteres távot, aztán egyszerre indulnak. Arszlán ér be először a célba 5 méterrel lehagyva Beliánt és 10 méterrel Cipóriánt. Ez mondjuk nem okoz meglepetést, tudják, hogy Arszlán a legjobb futó és Cipórián a leggyengébb. Hogy a verseny fair legyen, mégegyszer rajthoz állnak, de most Arszlán 10 méterrel, Belián pedig 5 méterrel a rajtvonal mögül indul. Feltéve, hogy másodszor is mindenki hozza pontosan ugyanazt a formáját amit először, mi a várható eredmény?</p>
+<p> <span id="more-1467185"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p style="text-align: justify;">Számolgatás nélkül is belátható, hogy a sorrend változatlan, vagyis még így is Arszlán győz és Cipórián fut be utolsónak. Képzeljük el, hogy az első menetet ügyes utómunkával megváltoztatjuk úgy, hogy Arszlánt 10 méterrel, Beliánt pedig 5 méterrel hátrébb húzzuk. Ez azt jelenti, hogy Arszlán befutásának pillanatában pont egyvonalban lesznek. Igenám, de a második körben ekkor még van előttük 10 méter. Ezt nyilván a gyorsabban futó Arszlán teszi meg hamarabb, Belián pedig a második lesz és Cipórián ismét a bronzéremmel vigasztalódhat.</p>
+<p style="text-align: justify;">Ha tényleg fair versenyt szerettek volna, akkor Beliánnak és Cipóriánnak kellett volna 5, illetve 10 méterrel előrébbről indulnia.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/10/futas_44/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>6 gyufa, 4 háromszög</title>
+		<link>/2009/10/6gyufa4haromszog/</link>
+					<comments>/2009/10/6gyufa4haromszog/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2009 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[gyufa]]></category>
+		<category><![CDATA[könnyű]]></category>
+		<category><![CDATA[logikai]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/12/6gyufa4haromszog</guid>
+
+					<description><![CDATA[A következő feladat egy klasszikus, valószínűleg sokaknak ismerős. Számomra különösen kedves, mert elsős gimnazista koromban ehhez kapcsolódott első igazán komoly hoppá élményem. Sajna nem ugrott be rögtön a megoldás (mert ilyen is van), úgyhogy a rögösebb utat kellett választanom. Hosszas levezetéssel, gondolkodással jutottam el abba az állapotba, amikoris az egyetlen lehetséges válasz egyszer csak hoppá!, beugrott. Adott a képen látható ... <a class="read-more" href="/2009/10/6gyufa4haromszog/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">A következő feladat egy klasszikus, valószínűleg sokaknak ismerős. Számomra különösen kedves, mert elsős gimnazista koromban ehhez kapcsolódott első igazán komoly hoppá élményem. Sajna nem ugrott be rögtön a megoldás (mert ilyen is van), úgyhogy a rögösebb utat kellett választanom. Hosszas levezetéssel, gondolkodással jutottam el abba az állapotba, amikoris az egyetlen lehetséges válasz egyszer csak hoppá!, beugrott.</p>
+<p style="text-align: justify;">Adott a képen látható elrendezésben 6 szál gyufa. Helyezzünk át 3 szál gyufát úgy, hogy 4 db egybevágó szabályos háromszöget kapjunk. A gyufák nem keresztezhetik egymást.</p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-2389644" src="/wp-content/uploads/2010/02/gyufa.jpg" alt="gyufa" width="281" height="180" /></p>
+<p><span id="more-1440131"></span></p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p style="text-align: justify;">Természetesen tetraédert kell építeni. Ez elég könnyű volt, úgyhogy most díjat nem osztunk. Következő poszt csütörtökön. Ez már komolyabb feladat lesz, tessék készülni.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/10/6gyufa4haromszog/feed/</wfw:commentRss>
+			<slash:comments>36</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

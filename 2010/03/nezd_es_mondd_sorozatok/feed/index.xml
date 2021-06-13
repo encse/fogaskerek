@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: &#8220;Nézd és mondd&#8221; sorozatok	</title>
+	<atom:link href="/2010/03/nezd_es_mondd_sorozatok/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/03/nezd_es_mondd_sorozatok/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Tue, 16 Mar 2010 08:05:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2010/03/nezd_es_mondd_sorozatok/#comment-20</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Tue, 16 Mar 2010 08:05:35 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/16/nezd_es_mondd_sorozatok#comment-20</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2010/03/16/nezd_es_mondd_sorozatok?fullcommentlist=1#c9085711&quot; class=&quot;reply_nick_89284&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 9085711 );&quot; rel=&quot;nofollow&quot;&gt;@encse&lt;/a&gt;: Most már nekem is :) Köszönöm!]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2010/03/16/nezd_es_mondd_sorozatok?fullcommentlist=1#c9085711" class="reply_nick_89284" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 9085711 );" rel="nofollow">@encse</a>: Most már nekem is 🙂 Köszönöm!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: graymonkey		</title>
+		<link>/2010/03/nezd_es_mondd_sorozatok/#comment-19</link>
+
+		<dc:creator><![CDATA[graymonkey]]></dc:creator>
+		<pubDate>Tue, 16 Mar 2010 07:02:08 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/16/nezd_es_mondd_sorozatok#comment-19</guid>
+
+					<description><![CDATA[Nekem megvan a cikk.]]></description>
+			<content:encoded><![CDATA[<p>Nekem megvan a cikk.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

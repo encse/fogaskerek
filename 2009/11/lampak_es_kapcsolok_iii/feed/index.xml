@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Lámpák és kapcsolók III	</title>
+	<atom:link href="/2009/11/lampak_es_kapcsolok_iii/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/11/lampak_es_kapcsolok_iii/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Tue, 08 Dec 2009 14:37:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: rusty		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-169</link>
+
+		<dc:creator><![CDATA[rusty]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2009 14:37:13 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-169</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii?fullcommentlist=1#c7923981&quot; class=&quot;reply_nick_34183&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7923981 );&quot; rel=&quot;nofollow&quot;&gt;@rusty&lt;/a&gt;: &lt;br /&gt;
+Természetesen az első sorban lekapcsolt lámpákat a világító lámpához tartozó oszlop kapcsolójának állításával érjük el.&lt;br /&gt;
+&lt;br /&gt;
+Ui.: nem kell ragaszkodni az &#039;első sor-első oszlop&#039;-variációhoz. igazából tetszőleges sor és oszlop kiválasztható.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii?fullcommentlist=1#c7923981" class="reply_nick_34183" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7923981 );" rel="nofollow">@rusty</a>: <br />
+Természetesen az első sorban lekapcsolt lámpákat a világító lámpához tartozó oszlop kapcsolójának állításával érjük el.</p>
+<p>Ui.: nem kell ragaszkodni az &#8216;első sor-első oszlop&#8217;-variációhoz. igazából tetszőleges sor és oszlop kiválasztható.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: rusty		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-168</link>
+
+		<dc:creator><![CDATA[rusty]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2009 14:34:38 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-168</guid>
+
+					<description><![CDATA[A kapcsolók a eljes oszlopot (sort) kapcsolják, emiatt ha úgy kapcsolgarunk, hogy az első sorban minden lámpa le legyen kapcsolva szükségszerű, hogy a többi sorban is azonos állapotban (0 vagy 1) legyenek a lámpák.&lt;br /&gt;
+&lt;br /&gt;
+Ha nem így lenne, a feladat nem lenne megoldható, valamint a kezdeti állapot csupán a kapcsolók állítgatásával nem lenne elérhető.&lt;br /&gt;
+&lt;br /&gt;
+Másosik lépésben a viálító sorokhoz tartozó kapcsolókat állítjuk át.]]></description>
+			<content:encoded><![CDATA[<p>A kapcsolók a eljes oszlopot (sort) kapcsolják, emiatt ha úgy kapcsolgarunk, hogy az első sorban minden lámpa le legyen kapcsolva szükségszerű, hogy a többi sorban is azonos állapotban (0 vagy 1) legyenek a lámpák.</p>
+<p>Ha nem így lenne, a feladat nem lenne megoldható, valamint a kezdeti állapot csupán a kapcsolók állítgatásával nem lenne elérhető.</p>
+<p>Másosik lépésben a viálító sorokhoz tartozó kapcsolókat állítjuk át.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-167</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2009 16:33:26 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-167</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii?fullcommentlist=1#c7839690&quot; class=&quot;reply_nick_131746&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7839690 );&quot; rel=&quot;nofollow&quot;&gt;@Thresher&lt;/a&gt;: Azért ez bizonyításnak még kevés. Honnan tudjuk pl. hogy bármilyen előállítható lámpamátrixot vissza tudunk így kapcsolni. Kicsit konkrétabban: honnan tudjuk, hogy a 3x3-as sarok esetén biztosan nem fog kelleni az &quot;A&quot;, &quot;B&quot; vagy az &quot;1&quot;, &quot;2&quot; kapcsoló, és pusztán a &quot;C&quot; és &quot;3&quot; kapcsolókkal ki tudjuk kapcsolni a 3x3-as sarok 5 lámpáját? És ha esetleg úgy adódik, hogy ez mégis sikerül, mi a biztosíték arra, hogy nem jutunk-e így el olyan állapotba, ahonnan nem tudunk eljutni a végállapotba?]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii?fullcommentlist=1#c7839690" class="reply_nick_131746" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7839690 );" rel="nofollow">@Thresher</a>: Azért ez bizonyításnak még kevés. Honnan tudjuk pl. hogy bármilyen előállítható lámpamátrixot vissza tudunk így kapcsolni. Kicsit konkrétabban: honnan tudjuk, hogy a 3&#215;3-as sarok esetén biztosan nem fog kelleni az &#8220;A&#8221;, &#8220;B&#8221; vagy az &#8220;1&#8221;, &#8220;2&#8221; kapcsoló, és pusztán a &#8220;C&#8221; és &#8220;3&#8221; kapcsolókkal ki tudjuk kapcsolni a 3&#215;3-as sarok 5 lámpáját? És ha esetleg úgy adódik, hogy ez mégis sikerül, mi a biztosíték arra, hogy nem jutunk-e így el olyan állapotba, ahonnan nem tudunk eljutni a végállapotba?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Thresher		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-166</link>
+
+		<dc:creator><![CDATA[Thresher]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2009 19:56:58 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-166</guid>
+
+					<description><![CDATA[Ja vágom, szóval van egy felkapcsolt alakzat...&lt;br /&gt;
+&lt;br /&gt;
+Tehát: Kell választani egy sarkot, és azt fokozatosan békén kell hagyni. Rusty példáján kiindulva, választok egy sarkot legyen az A1, az A oszloppal ás az 1-es sorral beállítom az A1-et. Megyek tovább le/jobba, így se az A, se az 1-es nem lesz többé kapcsolgatva, ergo az A1-es lámpa már végig úgy marad.&lt;br /&gt;
+&lt;br /&gt;
+Jön a következő &quot;sarok&quot;, de az ugyanez mint ahol az A1 van, csak ez négy egységnyi négyzet lesz. Tehát a B meg a 2-sel beállítom az A2-t, a B1-et meg a B2-t. Megint lejebb és megint jobbra. Mivel a korábbi sorokra/oszlopokhoz nem nyúlok, így azok maradnak végig az adott állásban. Tehát utána a 9-es négyzet 5 lámpáját kell átkapcsolni, majd a 16-os négyzetből 7-et etc. &lt;br /&gt;
+&lt;br /&gt;
+De rusty-é az érdem ő előbb írta le.]]></description>
+			<content:encoded><![CDATA[<p>Ja vágom, szóval van egy felkapcsolt alakzat&#8230;</p>
+<p>Tehát: Kell választani egy sarkot, és azt fokozatosan békén kell hagyni. Rusty példáján kiindulva, választok egy sarkot legyen az A1, az A oszloppal ás az 1-es sorral beállítom az A1-et. Megyek tovább le/jobba, így se az A, se az 1-es nem lesz többé kapcsolgatva, ergo az A1-es lámpa már végig úgy marad.</p>
+<p>Jön a következő &#8220;sarok&#8221;, de az ugyanez mint ahol az A1 van, csak ez négy egységnyi négyzet lesz. Tehát a B meg a 2-sel beállítom az A2-t, a B1-et meg a B2-t. Megint lejebb és megint jobbra. Mivel a korábbi sorokra/oszlopokhoz nem nyúlok, így azok maradnak végig az adott állásban. Tehát utána a 9-es négyzet 5 lámpáját kell átkapcsolni, majd a 16-os négyzetből 7-et etc. </p>
+<p>De rusty-é az érdem ő előbb írta le.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-165</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2009 19:46:12 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-165</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii?fullcommentlist=1#c7838699&quot; class=&quot;reply_nick_34183&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7838699 );&quot; rel=&quot;nofollow&quot;&gt;@rusty&lt;/a&gt;: Az első gondolatod remekre sikeredett. Most már csak bizonyítani kéne (nem nehéz, de azért kell), hogy ez tényleg minden, bárhogyan összekutyult lámpamátrixra megoldást ad. ;-)]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii?fullcommentlist=1#c7838699" class="reply_nick_34183" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7838699 );" rel="nofollow">@rusty</a>: Az első gondolatod remekre sikeredett. Most már csak bizonyítani kéne (nem nehéz, de azért kell), hogy ez tényleg minden, bárhogyan összekutyult lámpamátrixra megoldást ad. 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: graymonkey		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-164</link>
+
+		<dc:creator><![CDATA[graymonkey]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2009 19:19:10 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-164</guid>
+
+					<description><![CDATA[és be is kéne látni, hogy miért működik...]]></description>
+			<content:encoded><![CDATA[<p>és be is kéne látni, hogy miért működik&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-163</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2009 19:10:19 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-163</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii?fullcommentlist=1#c7833522&quot; class=&quot;reply_nick_131746&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7833522 );&quot; rel=&quot;nofollow&quot;&gt;@Thresher&lt;/a&gt;: Lehet, hogy jóra gondolsz, de amit írsz az nem jó, vagy legalábbis erősen pongyola a megfogalmazás.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii?fullcommentlist=1#c7833522" class="reply_nick_131746" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7833522 );" rel="nofollow">@Thresher</a>: Lehet, hogy jóra gondolsz, de amit írsz az nem jó, vagy legalábbis erősen pongyola a megfogalmazás.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: rusty		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-162</link>
+
+		<dc:creator><![CDATA[rusty]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2009 18:38:53 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-162</guid>
+
+					<description><![CDATA[Első gondolat:&lt;br /&gt;
+&lt;br /&gt;
+Elindulok az első soron. Amelyik lámpa világít, annak az oszolpát lekapcsolom, majd az első oszlopon csinálom ugyanezt.]]></description>
+			<content:encoded><![CDATA[<p>Első gondolat:</p>
+<p>Elindulok az első soron. Amelyik lámpa világít, annak az oszolpát lekapcsolom, majd az első oszlopon csinálom ugyanezt.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: graymonkey		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-161</link>
+
+		<dc:creator><![CDATA[graymonkey]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2009 15:42:18 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-161</guid>
+
+					<description><![CDATA[hümmm, ezt direkt nekünk csináltad,]]></description>
+			<content:encoded><![CDATA[<p>hümmm, ezt direkt nekünk csináltad,</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: csakazertse		</title>
+		<link>/2009/11/lampak_es_kapcsolok_iii/#comment-160</link>
+
+		<dc:creator><![CDATA[csakazertse]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2009 15:24:57 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/30/lampak_es_kapcsolok_iii#comment-160</guid>
+
+					<description><![CDATA[ha arról van szó, ami itt &lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://csakazertse.freeweb.hu/lampak.php&quot; rel=&quot;nofollow&quot;&gt;csakazertse.freeweb.hu/lampak.php&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+kipróbálható, akkor nem sokan maradnak a börtönben.]]></description>
+			<content:encoded><![CDATA[<p>ha arról van szó, ami itt </p>
+<p><a href="http://csakazertse.freeweb.hu/lampak.php" rel="nofollow">csakazertse.freeweb.hu/lampak.php</a></p>
+<p>kipróbálható, akkor nem sokan maradnak a börtönben.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

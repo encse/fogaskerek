@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nehéz &#8211; Fogaskerék</title>
+	<atom:link href="/tag/nehez/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Thu, 04 Mar 2010 06:00:00 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>A titkos terv</title>
+		<link>/2010/03/a_titkos_terv/</link>
+					<comments>/2010/03/a_titkos_terv/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 04 Mar 2010 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[nehéz]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/03/04/a_titkos_terv</guid>
+
+					<description><![CDATA[Ez még abban az időben történt, amikor a számítógépeket nem volt olyan egyszerű rákötni projektorra és a prezentációkat irásvetítő fóliára kellett szerkeszteni. Cipóriánnak eszébe jutott egy zseniális terv a városi bank kirablására. Nagyon szerette volna cinkostársainak megmutatni tervét, mely oly zseniálisan egyszerű volt, hogy egy oldalra ráfért az egész. Cipórián viszont nagyon félt, hogy rivális csoportok vagy esetleg a rendőrség ... <a class="read-more" href="/2010/03/a_titkos_terv/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Ez még abban az időben történt, amikor a számítógépeket nem volt olyan egyszerű rákötni projektorra és a prezentációkat irásvetítő fóliára kellett szerkeszteni.</p>
+<p style="text-align: justify;">Cipóriánnak eszébe jutott egy zseniális terv a városi bank kirablására. Nagyon szerette volna cinkostársainak megmutatni tervét, mely oly zseniálisan egyszerű volt, hogy egy oldalra ráfért az egész. Cipórián viszont nagyon félt, hogy rivális csoportok vagy esetleg a rendőrség kezébe kerülhetnek a tervek. Így azt találta ki, hogy több fóliát fog használni, melyek egymásra téve (és átvilágítva) pont a kívánt ábrát adják ki. Úgy gondolta, hogy maximum két fóliát esetleg ellophatnak tőle, ezért úgy szerkesztette meg őket, hogy bármelyik kettőt kivéve a csomagból abból a két fóliából semmilyen információt ne lehessen megtudni a tervéről.</p>
+<p>Hogy csinálhatta?</p>
+<p><span id="more-1807203"></span></p>
+<h3>Megjegyzések</h3>
+<p style="text-align: justify;">Az egyszerűség kedvéért feltehető, hogy csak fekete-fehér, vagy esetleg szürkeskálás ábráról van szó. Az ábrát vehetjük diszkrét pontokból (pixelekből) állónak.&nbsp;</p>
+<p style="text-align: justify;">Az eredményül kapott ábrának (ha az összes fóliát egymásra rakjuk) nem kell feltétlenül nagyon kontrasztosnak vagy élesnek lennie, a lényeg, hogy felismerhető legyen.</p>
+<p style="text-align: justify;">Minden fóliát fel kell használni!</p>
+<p style="text-align: justify;">Mivel ez nem egy olyan egyszerű, magától értetődő feladat, tessék nyugodtan ötletelni a kommentekben!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/03/a_titkos_terv/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arszlán és a háremhölgyek</title>
+		<link>/2010/02/arszlan_es_a_haremholgyek/</link>
+					<comments>/2010/02/arszlan_es_a_haremholgyek/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2010 11:50:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[16_éven_felülieknek]]></category>
+		<category><![CDATA[algoritmus]]></category>
+		<category><![CDATA[nehéz]]></category>
+		<category><![CDATA[valószínűségszámítás]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/18/arszlan_es_a_haremholgyek</guid>
+
+					<description><![CDATA[Jóval a királylányos kaland előtt Arszlán a török szultán segítségére volt valamely gaztett elkövetésében, amelynek részleteit mára már homály fedi. Fizetségül és hálája jeléül a szultán egy hölgyet ajánlott Arszlánnak saját háreméből. A hölgyek egymás után jöttek be a palotába, Arszlán pedig egyesével eldönthette, hogy megelégszik-e az adott hölggyel, vagy inkább megnézi a következőt. Mivel utólag vissza már nem hívhatott ... <a class="read-more" href="/2010/02/arszlan_es_a_haremholgyek/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Jóval a királylányos kaland előtt Arszlán a török szultán segítségére volt valamely gaztett elkövetésében, amelynek részleteit mára már homály fedi. Fizetségül és hálája jeléül a szultán egy hölgyet ajánlott Arszlánnak saját háreméből.</p>
+<p>A hölgyek egymás után jöttek be a palotába, Arszlán pedig egyesével eldönthette, hogy megelégszik-e az adott hölggyel, vagy inkább megnézi a következőt. Mivel utólag vissza már nem hívhatott hölgyeket, mindössze annyit tehetett, hogy előbb felmérte a háremet az első néhány lány megtekintésével, és ezután kiválasztotta az első olyat, aki szebb volt az addigiaknál.</p>
+<p>Természetesen, ha túl sok lányt nézett volna meg az elején, akkor a végén talán egy csinosabb sem lett volna náluk, így nagyon is fontos ennek az előzetes felmérési szakasznak a hossza.</p>
+<p>Ha tudjuk, hogy a háremben 300 lány volt, és teljesen véletlenszerű sorrendben vonultak fel, hány lányból álljon a felmérés ahhoz, hogy a legnagyobb legyen az esély a legszebb kiválasztására?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/arszlan_es_a_haremholgyek/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>3 kupac gyufa</title>
+		<link>/2010/01/3_kupac_gyufa/</link>
+					<comments>/2010/01/3_kupac_gyufa/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[algoritmus]]></category>
+		<category><![CDATA[gyufa]]></category>
+		<category><![CDATA[kétszemélyes]]></category>
+		<category><![CDATA[nehéz]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/01/25/3_kupac_gyufa</guid>
+
+					<description><![CDATA[Egyik este a kocsmában Beliánék a következő játékot játszották. Belián elővett egy doboz gyufát, majd három kupacba rendezte a szálakat úgy, hogy az egyikbe 3, a másikba 4 a harmadikba pedig 5 szál jutott. A játékot két személy játssza, és felváltva választanak egy kupacot, majd abból tetszés szerint néhány szál gyufát elvesznek maguknak. Ezután a másik játékos jön, ő is ... <a class="read-more" href="/2010/01/3_kupac_gyufa/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Egyik este a kocsmában Beliánék a következő játékot játszották. Belián elővett egy doboz gyufát, majd három kupacba rendezte a szálakat úgy, hogy az egyikbe 3, a másikba 4 a harmadikba pedig 5 szál jutott.</p>
+<p>A játékot két személy játssza, és felváltva választanak egy kupacot, majd abból tetszés szerint néhány szál gyufát elvesznek maguknak. Ezután a másik játékos jön, ő is választ, és elvesz annyit, amennyit akar. A lényeg, hogy egyszerre csak az egyik kupacból vehet el gyufát, és mindenképp legalább egyet el kell vennie.</p>
+<p>A játékot az nyeri, aki az utolsó szál gyufát elveszi.</p>
+<p>Beliánt néhány kör után ki kellett zárni, mert mindig ő nyert, így Arszlán és Cipórián közt folyt a verseny napkeltéig.</p>
+<p>Kérdésünk az, hogy milyen trükköt ismerhetett Belián. Adjunk nyerő stratégiát a kezdő játékos számára. Mi a helyzet abban az esetben, ha az veszít, akinek az utolsó gyufát el kell vennie?</p>
+<p> <span id="more-1698154"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>A kezdő játékosnak van nyerő stratégiája. Nincs más dolga, csak, hogy összexorolja a kupacban levő gyufák számát, és úgy vegyen el a kupacból, hogy lépései után a xor értéke mindig nulla legyen.</p>
+<p>&oplus;-szal jelölve a xor műveletet, kezdetben 3 &oplus; 4 &oplus; 5 =&nbsp;2. Így az első  lépésnek választhatjuk az első kupacból két gyufa elvételét, hiszen így 1  &oplus; 4 &oplus; 5 =&nbsp;0 marad.</p>
+<p>Ha nulla a xor értéke, akkor a rákövetkező játékos ezt mindenképp elrontja, és fordítva: ha nem nulla az érték, akkor van olyan lépés, amivel nullára állítható.</p>
+<p>A győztes lépés előtt már csak egy kupac van, és úgy állítjuk a (most már egytagú) xort nullára, hogy minden gyufát elveszünk az asztalról.</p>
+<p>A módszer működik több kupac esetén is, és akárhogy megválaszthatjuk a kezdetben a kupacokban levő gyufák számát. Ha a kezdeti xor értéke nem nulla, akkor az első, egyébként a második játékosnak lesz nyerő stratégiája.</p>
+<p>A fordított játékszabályok esetén pontosan ez a  stratégia játszható egészen addig, amíg csak 1 olyan kupac nem marad,  amiben legalább két gyufa van. Ekkor ebből a kupacból kell annyit  elvenni, hogy az asztalon páratlan számú kupac maradjon, utána felváltva vesznek el a játékosok egy-egy gyufát, az utolsó az ellenfélnek marad, így ő veszít.</p>
+<p>A részleteket a <a href="http://en.wikipedia.org/wiki/Nim">wikipedián</a> olvashatjátok, de egyedül sem nehéz belátni, hogy a módszer miért működik, ez egy jó gondolkodtató feladat lehet.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/01/3_kupac_gyufa/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

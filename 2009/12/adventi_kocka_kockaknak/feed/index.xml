@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Adventi kocka &#8211; kockáknak	</title>
+	<atom:link href="/2009/12/adventi_kocka_kockaknak/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/12/adventi_kocka_kockaknak/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Wed, 11 May 2016 20:19:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: csakazertse		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-156</link>
+
+		<dc:creator><![CDATA[csakazertse]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2009 10:46:37 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-156</guid>
+
+					<description><![CDATA[2. csak összehasonlításul, ha más is csinálná, könnyen elszámolhattam &lt;br /&gt;
+&lt;br /&gt;
+O(n) = n. fokúhoz kocka oldalán látszó (összerakásnál majd érintkező) névjegyek száma = 8^n&lt;br /&gt;
+Nagyobb kocka összerakásához kell 20 kisebb kocka, ezeknek összesen 48 lapja érintkezik.&lt;br /&gt;
+A 0-adfokú kockához 12 névjegy kell.&lt;br /&gt;
+KN(n) = amennyi névjegy egy n-edfokú kockához kell = 20*KN(n-1) - 48*O(n-1) =&lt;br /&gt;
+... = 8*20^n + 4*8^n&lt;br /&gt;
+&lt;br /&gt;
+Az adventi verzióhoz kell még négy kiskocka, kockánként két új érintkező lap adódik.&lt;br /&gt;
+AN(n) = ennyi névjegy kell az adventi verzióhoz = KN(n) + 4*(KN(n-1) - 2*O(n-1) =&lt;br /&gt;
+... = 48/5 * 20^n + 5*8^n&lt;br /&gt;
+&lt;br /&gt;
+4.&lt;br /&gt;
+egy 0-adfokút összeraktam, de az adventi naptár már megvolt, és a fent kapott számok meg elborzasztottak. A névjegyek amúgyis a todo-listákhoz kellenek :-). Kicsit azért elgondolkodtam, h honnan lehetne szerezni költséghatékonyan végtelen számú összeragasztgatható kiskockát.]]></description>
+			<content:encoded><![CDATA[<p>2. csak összehasonlításul, ha más is csinálná, könnyen elszámolhattam </p>
+<p>O(n) = n. fokúhoz kocka oldalán látszó (összerakásnál majd érintkező) névjegyek száma = 8^n<br />
+Nagyobb kocka összerakásához kell 20 kisebb kocka, ezeknek összesen 48 lapja érintkezik.<br />
+A 0-adfokú kockához 12 névjegy kell.<br />
+KN(n) = amennyi névjegy egy n-edfokú kockához kell = 20*KN(n-1) &#8211; 48*O(n-1) =<br />
+&#8230; = 8*20^n + 4*8^n</p>
+<p>Az adventi verzióhoz kell még négy kiskocka, kockánként két új érintkező lap adódik.<br />
+AN(n) = ennyi névjegy kell az adventi verzióhoz = KN(n) + 4*(KN(n-1) &#8211; 2*O(n-1) =<br />
+&#8230; = 48/5 * 20^n + 5*8^n</p>
+<p>4.<br />
+egy 0-adfokút összeraktam, de az adventi naptár már megvolt, és a fent kapott számok meg elborzasztottak. A névjegyek amúgyis a todo-listákhoz kellenek :-). Kicsit azért elgondolkodtam, h honnan lehetne szerezni költséghatékonyan végtelen számú összeragasztgatható kiskockát.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: _Cactus_		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-155</link>
+
+		<dc:creator><![CDATA[_Cactus_]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2009 13:26:45 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-155</guid>
+
+					<description><![CDATA[A negyedik feladat megoldása: &lt;a href=&quot;http://gergo.erdi.hu/blog/2009-12-01-adventi_menger-szivacs/&quot; rel=&quot;nofollow&quot;&gt;gergo.erdi.hu/blog/2009-12-01-adventi_menger-szivacs/&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Értelemszerűen ehhez az első feladatot is meg kellett oldani, de azt nem lövöm le :)]]></description>
+			<content:encoded><![CDATA[<p>A negyedik feladat megoldása: <a href="http://gergo.erdi.hu/blog/2009-12-01-adventi_menger-szivacs/" rel="nofollow">gergo.erdi.hu/blog/2009-12-01-adventi_menger-szivacs/</a></p>
+<p>Értelemszerűen ehhez az első feladatot is meg kellett oldani, de azt nem lövöm le 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-154</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2009 08:23:19 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-154</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak?fullcommentlist=1#c7861900&quot; class=&quot;reply_nick_27416&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7861900 );&quot; rel=&quot;nofollow&quot;&gt;@terasz9&lt;/a&gt;: Ez a beszéd! :)]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak?fullcommentlist=1#c7861900" class="reply_nick_27416" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7861900 );" rel="nofollow">@terasz9</a>: Ez a beszéd! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: terasz9		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-153</link>
+
+		<dc:creator><![CDATA[terasz9]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 16:28:54 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-153</guid>
+
+					<description><![CDATA[ok, köszönöm a válaszokat.&lt;br /&gt;
+nem tudtátok elvenni a kedvemet, maradok&lt;br /&gt;
+:)&lt;br /&gt;
+&lt;br /&gt;
+de most már tényleg nem offolom szét a kommentfalat, elnézést. megyek kockát építeni.]]></description>
+			<content:encoded><![CDATA[<p>ok, köszönöm a válaszokat.<br />
+nem tudtátok elvenni a kedvemet, maradok<br />
+🙂</p>
+<p>de most már tényleg nem offolom szét a kommentfalat, elnézést. megyek kockát építeni.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Kuszmák		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-152</link>
+
+		<dc:creator><![CDATA[Kuszmák]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 13:39:00 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-152</guid>
+
+					<description><![CDATA[&quot;Építsetek meg ti is egy minél magasabb fokú adventi kockát!&quot;&lt;br /&gt;
+Megéptettem az elsőfokút, ami a nulladfokúnál magasabb, tehát ezt a részét megcsináltam! :)]]></description>
+			<content:encoded><![CDATA[<p>&#8220;Építsetek meg ti is egy minél magasabb fokú adventi kockát!&#8221;<br />
+Megéptettem az elsőfokút, ami a nulladfokúnál magasabb, tehát ezt a részét megcsináltam! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-151</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 12:55:35 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-151</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak?fullcommentlist=1#c7857215&quot; class=&quot;reply_nick_353130&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7857215 );&quot; rel=&quot;nofollow&quot;&gt;@csakazertse&lt;/a&gt;: Feltettem egy képet a negyedfokúról. Remélem így már egyértelmű, hogy miről van szó.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak?fullcommentlist=1#c7857215" class="reply_nick_353130" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7857215 );" rel="nofollow">@csakazertse</a>: Feltettem egy képet a negyedfokúról. Remélem így már egyértelmű, hogy miről van szó.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-150</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 12:48:51 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-150</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak?fullcommentlist=1#c7857927&quot; class=&quot;reply_nick_27416&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7857927 );&quot; rel=&quot;nofollow&quot;&gt;@terasz9&lt;/a&gt;: Ehhez a konkrét feladathoz pl. csak néhány (mennyi is? :) ) névjegykártyára van szükség, meg minimális kézügyességre. A kockahajtogatás/építés tényleg nagyon szórakoztató tud lenni, érdemes kipróbálni (és nagyon addiktív - én szóltam). &lt;br /&gt;
+&lt;br /&gt;
+AZ általános képlet kidolgozása persze feltételez némi matematikai alapismeretet, de középiskolai tudással ez is bőven megoldható szerintem. Kell hozzá egy kis térlátás mondjuk, az biztos.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak?fullcommentlist=1#c7857927" class="reply_nick_27416" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7857927 );" rel="nofollow">@terasz9</a>: Ehhez a konkrét feladathoz pl. csak néhány (mennyi is? 🙂 ) névjegykártyára van szükség, meg minimális kézügyességre. A kockahajtogatás/építés tényleg nagyon szórakoztató tud lenni, érdemes kipróbálni (és nagyon addiktív &#8211; én szóltam). </p>
+<p>AZ általános képlet kidolgozása persze feltételez némi matematikai alapismeretet, de középiskolai tudással ez is bőven megoldható szerintem. Kell hozzá egy kis térlátás mondjuk, az biztos.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: graymonkey		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-149</link>
+
+		<dc:creator><![CDATA[graymonkey]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 11:57:29 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-149</guid>
+
+					<description><![CDATA[A jelenlegi feladathalmaz nagyjából lefedi azt amit szeretnénk, a továbbiakban is ezekhez hasonló könnyebb-nehezebb feladatok lesznek.&lt;br /&gt;
+&lt;br /&gt;
+Némi absztrakt gondolkozással, és gimis matek tudással a legtöbb feladat megoldható. &lt;br /&gt;
+&lt;br /&gt;
+A &quot;könnyű&quot; taggel ellátott feladatokhoz csak ötlet kell, különösebb felkészültségre nincs szükség.]]></description>
+			<content:encoded><![CDATA[<p>A jelenlegi feladathalmaz nagyjából lefedi azt amit szeretnénk, a továbbiakban is ezekhez hasonló könnyebb-nehezebb feladatok lesznek.</p>
+<p>Némi absztrakt gondolkozással, és gimis matek tudással a legtöbb feladat megoldható. </p>
+<p>A &#8220;könnyű&#8221; taggel ellátott feladatokhoz csak ötlet kell, különösebb felkészültségre nincs szükség.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: terasz9		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-148</link>
+
+		<dc:creator><![CDATA[terasz9]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 11:37:13 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-148</guid>
+
+					<description><![CDATA[/off&lt;br /&gt;
+&lt;br /&gt;
+valahol ott a rabos-kapcsolós résznél tök elment a blog matematika szakos egyetemi végzettség felé (ami persze nem probléma, láthatóan jelentős, lelkes és érdeklődő közönség gyűlt ide, maximális reszpekt nekik).&lt;br /&gt;
+&lt;br /&gt;
+Csak érdeklődnék: a jövőben lesznek további, az első posztokhoz hasonló agydolgoztató, érdekes feladványok a pórnép számára, vagy most már örökre beragadtunk ebbe a fraktálos, kilencismeretlenes egyenletes, elméleti matematikai síkba?&lt;br /&gt;
+&lt;br /&gt;
+Ne értsétek félre, nincs vele gondom, csak akkor sajnos nem nekem való a blog, és tovább állok. Tényleg csak kérdem. Előre is köszi.&lt;br /&gt;
+&lt;br /&gt;
+/on]]></description>
+			<content:encoded><![CDATA[<p>/off</p>
+<p>valahol ott a rabos-kapcsolós résznél tök elment a blog matematika szakos egyetemi végzettség felé (ami persze nem probléma, láthatóan jelentős, lelkes és érdeklődő közönség gyűlt ide, maximális reszpekt nekik).</p>
+<p>Csak érdeklődnék: a jövőben lesznek további, az első posztokhoz hasonló agydolgoztató, érdekes feladványok a pórnép számára, vagy most már örökre beragadtunk ebbe a fraktálos, kilencismeretlenes egyenletes, elméleti matematikai síkba?</p>
+<p>Ne értsétek félre, nincs vele gondom, csak akkor sajnos nem nekem való a blog, és tovább állok. Tényleg csak kérdem. Előre is köszi.</p>
+<p>/on</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: -Maya		</title>
+		<link>/2009/12/adventi_kocka_kockaknak/#comment-147</link>
+
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 11:28:25 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak#comment-147</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak?fullcommentlist=1#c7857215&quot; class=&quot;reply_nick_353130&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7857215 );&quot; rel=&quot;nofollow&quot;&gt;@csakazertse&lt;/a&gt;: csak a legmagasabban elhelyezkedőkre.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak?fullcommentlist=1#c7857215" class="reply_nick_353130" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7857215 );" rel="nofollow">@csakazertse</a>: csak a legmagasabban elhelyezkedőkre.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

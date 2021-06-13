@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>valószínűségszámítás &#8211; Fogaskerék</title>
+	<atom:link href="/tag/valoszinusegszamitas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Thu, 18 Feb 2010 11:50:00 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Arszlán és a háremhölgyek</title>
+		<link>/2010/02/arszlan_es_a_haremholgyek/</link>
+					<comments>/2010/02/arszlan_es_a_haremholgyek/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2010 11:50:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[16_éven_felülieknek]]></category>
+		<category><![CDATA[algoritmus]]></category>
+		<category><![CDATA[nehéz]]></category>
+		<category><![CDATA[valószínűségszámítás]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/18/arszlan_es_a_haremholgyek</guid>
+
+					<description><![CDATA[Jóval a királylányos kaland előtt Arszlán a török szultán segítségére volt valamely gaztett elkövetésében, amelynek részleteit mára már homály fedi. Fizetségül és hálája jeléül a szultán egy hölgyet ajánlott Arszlánnak saját háreméből. A hölgyek egymás után jöttek be a palotába, Arszlán pedig egyesével eldönthette, hogy megelégszik-e az adott hölggyel, vagy inkább megnézi a következőt. Mivel utólag vissza már nem hívhatott ... <a class="read-more" href="/2010/02/arszlan_es_a_haremholgyek/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Jóval a királylányos kaland előtt Arszlán a török szultán segítségére volt valamely gaztett elkövetésében, amelynek részleteit mára már homály fedi. Fizetségül és hálája jeléül a szultán egy hölgyet ajánlott Arszlánnak saját háreméből.</p>
+<p>A hölgyek egymás után jöttek be a palotába, Arszlán pedig egyesével eldönthette, hogy megelégszik-e az adott hölggyel, vagy inkább megnézi a következőt. Mivel utólag vissza már nem hívhatott hölgyeket, mindössze annyit tehetett, hogy előbb felmérte a háremet az első néhány lány megtekintésével, és ezután kiválasztotta az első olyat, aki szebb volt az addigiaknál.</p>
+<p>Természetesen, ha túl sok lányt nézett volna meg az elején, akkor a végén talán egy csinosabb sem lett volna náluk, így nagyon is fontos ennek az előzetes felmérési szakasznak a hossza.</p>
+<p>Ha tudjuk, hogy a háremben 300 lány volt, és teljesen véletlenszerű sorrendben vonultak fel, hány lányból álljon a felmérés ahhoz, hogy a legnagyobb legyen az esély a legszebb kiválasztására?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/arszlan_es_a_haremholgyek/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arszlán halálos ajtói</title>
+		<link>/2010/02/arszlan_halalos_ajtoi/</link>
+					<comments>/2010/02/arszlan_halalos_ajtoi/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2010 17:41:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[16_éven_felülieknek]]></category>
+		<category><![CDATA[valószínűségszámítás]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/15/arszlan_halalos_ajtoi</guid>
+
+					<description><![CDATA[Történt egyszer, hogy Arszlán egy televíziós vetélkedőn eljutott a döntőig. A műsorvezető felkínált neki három ajtót, amelyikből bármelyiket választhatta, azonban jó előre felhívták a figyelmét arra, hogy a három ajtóból csak egy rejti a játék fődíját (a király világszép lányát), a másik kettő mögött oroszlánok és mindenféle válogatott kínzások várják. Jó, hát ez egy amolyan középkori vetélkedő volt, de ha ... <a class="read-more" href="/2010/02/arszlan_halalos_ajtoi/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Történt egyszer, hogy Arszlán egy televíziós vetélkedőn eljutott a döntőig. A műsorvezető felkínált neki három ajtót, amelyikből bármelyiket választhatta, azonban jó előre felhívták a figyelmét arra, hogy a három ajtóból csak egy rejti a játék fődíját (a király világszép lányát), a másik kettő mögött oroszlánok és mindenféle válogatott kínzások várják. Jó, hát ez egy amolyan középkori vetélkedő volt, de ha én mondom, akkor elhihetitek, hogy tényleg szórul szóra ez történt&#8230;</p>
+<p>Arszlán rábökött az egyik ajtóra, aztán a porondmester kinyitott egy másikat, amiről viszont előre megmondta, hogy nem a királylány lesz mögötte.</p>
+<p>Ezután Arszlán még egyszer meggondolhatta, hogy kitart-e az eredeti ajtó mellett, vagy mégis inkább áttér a harmadikra.</p>
+<p>Attól teljesen függetlenül, hogy mit választott végül, hiszen tudjuk, hogy azóta is él és virul, arra vagyunk kíváncsiak, hogy mi lett volna a helyes döntés&#8230; Hogyan okoskodhatott?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/arszlan_halalos_ajtoi/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A mindig nyerő csodakocka</title>
+		<link>/2009/10/mindig_nyero_csodakocka/</link>
+					<comments>/2009/10/mindig_nyero_csodakocka/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2009 05:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[valószínűségszámítás]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/19/mindig_nyero_csodakocka</guid>
+
+					<description><![CDATA[Arszlán, Belián és Cipórián, a három gazfickó kedvenc csapszékükben múlatják az időt. Arszlán, a legfurfangosabb mind közül, a következő fogadást ajánlja Beliánnak: &#8211; Itt van három dobókocka, magam készítettem őket. Csak abban különböznek egy szabályos dobókockától, hogy több oldalukon is előfordulhat ugyanaz a szám. Tehát pl. lehet, hogy minden oldalán hatos van, vagy három oldalán kettes a többin ötös, stb. ... <a class="read-more" href="/2009/10/mindig_nyero_csodakocka/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Arszlán, Belián és Cipórián, a három gazfickó kedvenc csapszékükben múlatják az időt. Arszlán, a legfurfangosabb mind közül, a következő fogadást ajánlja Beliánnak:</p>
+<blockquote>
+<div class="parbeszed">
+<p style="text-align: justify;">&ndash;  Itt van három dobókocka, magam készítettem őket. Csak abban különböznek egy szabályos dobókockától, hogy több oldalukon is előfordulhat ugyanaz a szám. Tehát pl. lehet, hogy minden oldalán hatos van, vagy három oldalán kettes a többin ötös, stb. Természetesen csak az 1-től 6-ig terjedő számok jöhetnek szóba.</p>
+<p style="text-align: justify;">A játék menete a következő: választasz közülük egyet, az lesz a tiéd. Én a maradék kettőből választok egyet magamnak, a harmadik kockát pedig félrerakjuk, nem játszik. Ezután felváltva dobunk a választott kockánkkal. Az nyer aki nagyobbat dob, döntetlen esetén újra dobunk. Egy tucat dobásból aki többször veszít, az fizet egy korsó rumot a másiknak. Na, benne vagy?</p>
+<p style="text-align: justify;">&ndash;  És honnan tudjam, hogy nem cinkeltek-e a kockák? &ndash; tamáskodik Belián.</p>
+<p style="text-align: justify;">&ndash;  Belián barátom, hiszen te választasz először. Te sem ma kezdted a szakmát, simán kiszúrod a nyerő kockát, ha van. &ndash; nyugtatja Arszlán &ndash; De tudod mit? Bármikor választhatsz másik kockát ha akarsz, de persze ez esetben én is újra választok a másik kettő közül.</p>
+<p style="text-align: justify;">&ndash;  Na jó, rendben van, mutasd azokat a kockákat. &ndash; egyezik bele végül Belián.</p>
+</div>
+</blockquote>
+<p style="text-align: justify;">Mondanom sem kell, aznap este Arszlán tönkreverte Beliánt és Cipóriánt is ebben a játékban. Vajon hogyan csinálta a csavaros eszű gazfickó?</p>
+<p> <span id="more-1453598"></span> </p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p style="text-align: justify;">A dolog lényege, hogy egymást &quot;körbeverő&quot; dobókockákat kellett konstruálni. Sok szép megoldás érkezett, nem is részletezem itt tovább, a kommentekben mindent kielemeztetek.</p>
+<p style="text-align: justify;">Bónusz kérdés programozóknak: hány különböző ilyen kockahármast lehet konstruálni? Van-e ezek között &quot;legjobb&quot;?</p>
+<p style="text-align: justify;">Bónusz 2: működne-e ugyanez a trükk úgy is, hogy 5 kockából választunk kettőt-kettőt?</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/10/mindig_nyero_csodakocka/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hárman párbajoznak</title>
+		<link>/2009/10/harman_parbajoznak_1/</link>
+					<comments>/2009/10/harman_parbajoznak_1/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2009 06:53:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[valószínűségszámítás]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/09/harman_parbajoznak_1</guid>
+
+					<description><![CDATA[Arszlán, Belián és Cipórián, a három gazfickó párbajoznak. A szabályok szerint háromszög alakban állnak fel és sorban lőnek egymásra. Arszlán kezd, majd Belián következik, utána Cipórián, aztán újra Arszlán és így körbe-körbe. (Ha valakit eltettek láb alól, az természetesen kimarad.) Bárki bárkire lőhet, de körönként csak egyszer. A párbaj addig tart, amíg ketten a fűbe nem harapnak. Mindenki tudja a ... <a class="read-more" href="/2009/10/harman_parbajoznak_1/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Arszlán, Belián és Cipórián, a három gazfickó párbajoznak. A szabályok szerint háromszög alakban állnak fel és sorban lőnek egymásra. Arszlán kezd, majd Belián következik, utána Cipórián, aztán újra Arszlán és így körbe-körbe. (Ha valakit eltettek láb alól, az természetesen kimarad.) Bárki bárkire lőhet, de körönként csak egyszer. A párbaj addig tart, amíg ketten a fűbe nem harapnak.</p>
+<p>Mindenki tudja a többiekről, hogy milyen lövő. Arszlán az esetek 30%-ában talál, Belián valóságos mester, ilyen távolságból mindig célba talál, míg Cipórián az esetek felében hibázik.</p>
+<p>Képzeld magad Arszlán helyébe. Te hogy viselkednél, ha szeretnéd ép bőrrel megúszni a dolgot?</p>
+<p><span id="more-1438134"></span></p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>A Gumi Fogaskerék díjat Hvuk kapja megoldásáért, de mindenki győztesnek érezheti magát, aki arra tippelt, hogy Arszlánnak elsőre senkit sem szabad lelőni. Hvuk remekül kiszámolta, hogy ebben az esetben 30% a túlélési esély, minden más esetben ennél valamivel kevesebb. A levezetést lásd <a href="http://fogaskerek.blog.hu/2009/10/09/harman_parbajoznak_1/fullcommentlist/1#c7334737">lejjebb</a>.</p>
+<p>De hogy a történetünket tovább folytassam, a párbaj végülis elmaradt, mert miután Arszlán a levegőbe lőtt, berontottak a térre aaaa&#8230;.őőőő&#8230;., ja igen a bíboros gárdistái, és mindenkit hazazavartak. Hőseink tehát továbbra is élnek-virulnak, és reméljük további kalandjaikkal is megismerkedhetünk a későbbiekben.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/10/harman_parbajoznak_1/feed/</wfw:commentRss>
+			<slash:comments>45</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

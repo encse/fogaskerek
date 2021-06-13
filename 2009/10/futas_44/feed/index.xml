@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Futás!	</title>
+	<atom:link href="/2009/10/futas_44/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/10/futas_44/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Mon, 14 Dec 2009 03:45:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: stremix		</title>
+		<link>/2009/10/futas_44/#comment-315</link>
+
+		<dc:creator><![CDATA[stremix]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2009 03:45:14 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/26/futas_44#comment-315</guid>
+
+					<description><![CDATA[Igen, a várható eredményre mindenki ráérzett. Amúgy szerintem akkor érnének be egyszerre ha Arszlán indulna a startvonalról, a többiek pedig 5 és 10 méterrel előrébb. Ahogy már rusty le is írta, hogy másodszor a cél előtt 10 méterrel lennének egy vonalban.]]></description>
+			<content:encoded><![CDATA[<p>Igen, a várható eredményre mindenki ráérzett. Amúgy szerintem akkor érnének be egyszerre ha Arszlán indulna a startvonalról, a többiek pedig 5 és 10 méterrel előrébb. Ahogy már rusty le is írta, hogy másodszor a cél előtt 10 méterrel lennének egy vonalban.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: cooldavee		</title>
+		<link>/2009/10/futas_44/#comment-314</link>
+
+		<dc:creator><![CDATA[cooldavee]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2009 02:27:20 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/26/futas_44#comment-314</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/10/26/futas_44?fullcommentlist=1#c7473629&quot; class=&quot;reply_nick_341647&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7473629 );&quot; rel=&quot;nofollow&quot;&gt;@Lőry&lt;/a&gt;: Már vártam, hogy megkérdezd. ;-)&lt;br /&gt;
+&lt;br /&gt;
+Eredetileg ennyi utat tettek meg:&lt;br /&gt;
+&lt;br /&gt;
+A: s (azaz kb. 100 méter)&lt;br /&gt;
+B: s-5 (azaz kb. 95 méter)&lt;br /&gt;
+C: s-10 (azaz kb. 90 méter)&lt;br /&gt;
+&lt;br /&gt;
+Ha azt akarjuk, hogy C lefussa az egész távot, akkor át kell skáláznunk ezeket a számokat, mindegyiket megszorozva s/(s-10) hányadossal. Ez persze a v=s/t egyenletekből is szépen kijön:&lt;br /&gt;
+&lt;br /&gt;
+A: s^2/(s-10) (azaz kb. 1000/9 méter, azaz kb. 111.11 méter)&lt;br /&gt;
+B: s*(s-5)/(s-10) (azaz kb. 950/9 méter, azaz kb. 105.56 méter)&lt;br /&gt;
+C: s (azaz kb. 100 méter)&lt;br /&gt;
+&lt;br /&gt;
+Tehát Arszlánnak kb. 11.11 méterrel, míg Beliánnak kb. 5.56 méterrel kellene a rajtvonal mögül indulnia ahhoz, hogy egyszerre érjenek célba.&lt;br /&gt;
+&lt;br /&gt;
+Alternatív megoldás, amihez a 3 futónak kevesebbet kell számolgatnia: kezdetben fussák le végig a kb. 100 métert, ekkor nyilván különböző idők alatt futják le a kb. 100 métert:&lt;br /&gt;
+&lt;br /&gt;
+t_a &#060; t_b &#060; t_c.&lt;br /&gt;
+&lt;br /&gt;
+Ezután induljanak megint a rajtvonalról egymás mellől, de különböző időkben. Cipórián a rajtpisztoly dörrenésére azonnal induljon el, Belián a rajtpisztoly után t_c-t_b idővel, Arszlán pedig a rajtpisztoly után t_c-t_a idővel (avagy Belián után t_b-t_a idővel). Az egész verseny t_c ideig tart.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/10/26/futas_44?fullcommentlist=1#c7473629" class="reply_nick_341647" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7473629 );" rel="nofollow">@Lőry</a>: Már vártam, hogy megkérdezd. 😉</p>
+<p>Eredetileg ennyi utat tettek meg:</p>
+<p>A: s (azaz kb. 100 méter)<br />
+B: s-5 (azaz kb. 95 méter)<br />
+C: s-10 (azaz kb. 90 méter)</p>
+<p>Ha azt akarjuk, hogy C lefussa az egész távot, akkor át kell skáláznunk ezeket a számokat, mindegyiket megszorozva s/(s-10) hányadossal. Ez persze a v=s/t egyenletekből is szépen kijön:</p>
+<p>A: s^2/(s-10) (azaz kb. 1000/9 méter, azaz kb. 111.11 méter)<br />
+B: s*(s-5)/(s-10) (azaz kb. 950/9 méter, azaz kb. 105.56 méter)<br />
+C: s (azaz kb. 100 méter)</p>
+<p>Tehát Arszlánnak kb. 11.11 méterrel, míg Beliánnak kb. 5.56 méterrel kellene a rajtvonal mögül indulnia ahhoz, hogy egyszerre érjenek célba.</p>
+<p>Alternatív megoldás, amihez a 3 futónak kevesebbet kell számolgatnia: kezdetben fussák le végig a kb. 100 métert, ekkor nyilván különböző idők alatt futják le a kb. 100 métert:</p>
+<p>t_a &lt; t_b &lt; t_c.</p>
+<p>Ezután induljanak megint a rajtvonalról egymás mellől, de különböző időkben. Cipórián a rajtpisztoly dörrenésére azonnal induljon el, Belián a rajtpisztoly után t_c-t_b idővel, Arszlán pedig a rajtpisztoly után t_c-t_a idővel (avagy Belián után t_b-t_a idővel). Az egész verseny t_c ideig tart.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: psmith		</title>
+		<link>/2009/10/futas_44/#comment-313</link>
+
+		<dc:creator><![CDATA[psmith]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 10:04:45 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/26/futas_44#comment-313</guid>
+
+					<description><![CDATA[Szerintem ezek mind feleslegesen túlbonyolított megoldások.&lt;br /&gt;
+&lt;br /&gt;
+Először A,B és C t idő alatt 100, 95 és 90 métert tettek meg.&lt;br /&gt;
+Gondolom másodszorra is, ezzel tehát t idő alatt holtverseny alakul ki a céltól 10 méterre.&lt;br /&gt;
+&lt;br /&gt;
+A fennmaradó 10 métert gondolom arányosan teszik meg, mint az első futás 100 méterét, tehát a sorrend nem változik, viszont az &quot;előnyök&quot; a tizedére, 0,5 illetve 1 méterre csökkennek.]]></description>
+			<content:encoded><![CDATA[<p>Szerintem ezek mind feleslegesen túlbonyolított megoldások.</p>
+<p>Először A,B és C t idő alatt 100, 95 és 90 métert tettek meg.<br />
+Gondolom másodszorra is, ezzel tehát t idő alatt holtverseny alakul ki a céltól 10 méterre.</p>
+<p>A fennmaradó 10 métert gondolom arányosan teszik meg, mint az első futás 100 méterét, tehát a sorrend nem változik, viszont az &#8220;előnyök&#8221; a tizedére, 0,5 illetve 1 méterre csökkennek.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: terasz9		</title>
+		<link>/2009/10/futas_44/#comment-312</link>
+
+		<dc:creator><![CDATA[terasz9]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 08:49:16 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/26/futas_44#comment-312</guid>
+
+					<description><![CDATA[Tegyük fel, hogy Arszlán 20 másodperc alatt futja a százat, így az első versenyen az ő eredménye 20 másodperc, míg Belián 21,05 másodperc alatt teszi meg a száz métert [(20/95)*100], szegény Cipóriánnak pedig 22,2 másodperc kell a száz méter végigfutásához [(20/90)*100].&lt;br /&gt;
+&lt;br /&gt;
+A második versenyen Arszlán a 110 métert 22 másodperc alatt futja (20*1,1), Belián 22,1025 másodperc alatt (21,05*1,05), míg Cipórián az előző esethez hasonlóan 22,2 másodperc alatt szántja végig a pályát.&lt;br /&gt;
+&lt;br /&gt;
+Az eredmény tehát változatlan lesz, bár jóval kisebb különbség mellett: Arszlán az első, kb. egytizeddel utána Belián, míg kéttizeddel utána Cipórián ér be a célba.]]></description>
+			<content:encoded><![CDATA[<p>Tegyük fel, hogy Arszlán 20 másodperc alatt futja a százat, így az első versenyen az ő eredménye 20 másodperc, míg Belián 21,05 másodperc alatt teszi meg a száz métert [(20/95)*100], szegény Cipóriánnak pedig 22,2 másodperc kell a száz méter végigfutásához [(20/90)*100].</p>
+<p>A második versenyen Arszlán a 110 métert 22 másodperc alatt futja (20*1,1), Belián 22,1025 másodperc alatt (21,05*1,05), míg Cipórián az előző esethez hasonlóan 22,2 másodperc alatt szántja végig a pályát.</p>
+<p>Az eredmény tehát változatlan lesz, bár jóval kisebb különbség mellett: Arszlán az első, kb. egytizeddel utána Belián, míg kéttizeddel utána Cipórián ér be a célba.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Lőry		</title>
+		<link>/2009/10/futas_44/#comment-311</link>
+
+		<dc:creator><![CDATA[Lőry]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 01:09:22 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/26/futas_44#comment-311</guid>
+
+					<description><![CDATA[Szinte magát teszi fel persze ezek után az a kérdés, hogy akkor vajon mégis hány méter előnyt kellene adni Beliánnak és Cipóriánnak, hogy valóban döntetlen legyen a várható eredmény?]]></description>
+			<content:encoded><![CDATA[<p>Szinte magát teszi fel persze ezek után az a kérdés, hogy akkor vajon mégis hány méter előnyt kellene adni Beliánnak és Cipóriánnak, hogy valóban döntetlen legyen a várható eredmény?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: rusty		</title>
+		<link>/2009/10/futas_44/#comment-310</link>
+
+		<dc:creator><![CDATA[rusty]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2009 13:15:56 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/26/futas_44#comment-310</guid>
+
+					<description><![CDATA[Az első alkalommal A 100m-t, B 95m-t, C 90m-t tett meg adott idő alatt.&lt;br /&gt;
+&lt;br /&gt;
+A második alkalommal A 10m-reel, B 5m-rel hátrébbról indul.&lt;br /&gt;
+Ha az előző teljesítményt megismétlik az előbb &#039;adott idő&#039; alatt a cél előtt 10m-rel lesznek egymás mellett.&lt;br /&gt;
+&lt;br /&gt;
+A végső sorrend így változatlan marad, csak a távolságok csökkennek arányosan: A nyer, B mőgőtte 50cm-rel, C 10-zel.]]></description>
+			<content:encoded><![CDATA[<p>Az első alkalommal A 100m-t, B 95m-t, C 90m-t tett meg adott idő alatt.</p>
+<p>A második alkalommal A 10m-reel, B 5m-rel hátrébbról indul.<br />
+Ha az előző teljesítményt megismétlik az előbb &#8216;adott idő&#8217; alatt a cél előtt 10m-rel lesznek egymás mellett.</p>
+<p>A végső sorrend így változatlan marad, csak a távolságok csökkennek arányosan: A nyer, B mőgőtte 50cm-rel, C 10-zel.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: hvuk		</title>
+		<link>/2009/10/futas_44/#comment-309</link>
+
+		<dc:creator><![CDATA[hvuk]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2009 09:17:26 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/26/futas_44#comment-309</guid>
+
+					<description><![CDATA[Először is a feladat nem jó. Ugyanis elvileg nem lehet kiszámolni, hogy mi lesz a sorrend. Jó közelítéssel élve egy 100 méteres futás úgy néz ki, hogy a rajt után először t1 ideig késlekedik a futó, majd t2 ideig gyorsul, majd t3 ideig egyenletes sebességgel halad, ahol t1, t2 és t3 emberfüggő, összegük meg a futásának ideje. Ilyen feltételekkel pedig nyilván nem lehet megmondani.&lt;br /&gt;
+&lt;br /&gt;
+A feladat tehát nyilván csak úgy értelmes, ha feltesszük, hogy végig egyenletes vonalú egyenletes mozgással haladtak. Azért, mert csak így oldható meg. :) &lt;br /&gt;
+&lt;br /&gt;
+Innen viszont már könnyű a dolgunk. Legyen Arszlán ideje t, neki ennyi kell a 100 méterhez. A 110 méterhez így neki 11/10*t kell, Beliánnak a 105 méterhez 105/95*t kell (mert 95-höz kellett neki t), Cipriánnak meg 100/90*t kell a 100 méterhez. Közös nevezőre hozva őket: 1881/1710, 1890/1710 és 1900/1710, azaz a befutási sorrend nem fog változni, bár a verseny - triviálisan - szorosabb lesz.]]></description>
+			<content:encoded><![CDATA[<p>Először is a feladat nem jó. Ugyanis elvileg nem lehet kiszámolni, hogy mi lesz a sorrend. Jó közelítéssel élve egy 100 méteres futás úgy néz ki, hogy a rajt után először t1 ideig késlekedik a futó, majd t2 ideig gyorsul, majd t3 ideig egyenletes sebességgel halad, ahol t1, t2 és t3 emberfüggő, összegük meg a futásának ideje. Ilyen feltételekkel pedig nyilván nem lehet megmondani.</p>
+<p>A feladat tehát nyilván csak úgy értelmes, ha feltesszük, hogy végig egyenletes vonalú egyenletes mozgással haladtak. Azért, mert csak így oldható meg. 🙂 </p>
+<p>Innen viszont már könnyű a dolgunk. Legyen Arszlán ideje t, neki ennyi kell a 100 méterhez. A 110 méterhez így neki 11/10*t kell, Beliánnak a 105 méterhez 105/95*t kell (mert 95-höz kellett neki t), Cipriánnak meg 100/90*t kell a 100 méterhez. Közös nevezőre hozva őket: 1881/1710, 1890/1710 és 1900/1710, azaz a befutási sorrend nem fog változni, bár a verseny &#8211; triviálisan &#8211; szorosabb lesz.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

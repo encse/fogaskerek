@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>analízis &#8211; Fogaskerék</title>
+	<atom:link href="/tag/analizis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Wed, 11 May 2016 20:23:30 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>A végtelenbe és tovább</title>
+		<link>/2009/10/a_vegtelenbe_es_tovabb_5/</link>
+					<comments>/2009/10/a_vegtelenbe_es_tovabb_5/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2009 12:45:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[analízis]]></category>
+		<category><![CDATA[olvasói]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/16/a_vegtelenbe_es_tovabb_5</guid>
+
+					<description><![CDATA[Műsoron kívül közöljük az alábbi határérték feladatot. Lássuk be, hogy 2 + √3 az n-ediken törtrésze 1-hez konvergál. Képlettel:  Konstantin Perinek köszönjük a feladványt. Elég komoly hoppá élményünk volt, amikor végre sikerült rájönni a nyitjára. Megoldás A feladat nehézségét az adja, hogy a törtrész függvénnyel nem igazán lehet jól bánni. Próbáljunk is tőle megszabadulni a következő módon. Legyen an  := ... <a class="read-more" href="/2009/10/a_vegtelenbe_es_tovabb_5/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Műsoron kívül közöljük az alábbi határérték feladatot. Lássuk be, hogy 2 + √3 az n-ediken törtrésze 1-hez konvergál. Képlettel:</p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-2389642" src="/wp-content/uploads/2010/02/egyenlet2.png" alt="egyenlet2" width="147" height="25" /></p>
+<p style="text-align: justify;"> Konstantin Perinek köszönjük a feladványt. Elég komoly hoppá élményünk volt, amikor végre sikerült rájönni a nyitjára.</p>
+<p><span id="more-1454215"></span></p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>A feladat nehézségét az adja, hogy a törtrész függvénnyel nem igazán lehet jól bánni. Próbáljunk is tőle megszabadulni a következő módon. Legyen</p>
+<p>a<sub>n</sub>  := (2+√3)<sup>n</sup></p>
+<p>b<sub>n</sub> := (2-√3)<sup>n</sup></p>
+<p>c<sub>n</sub> := a<sub>n</sub> + b<sub>n</sub></p>
+<p>Mi a<sub>n</sub> törtrészének határértékét keressük.</p>
+<p>Az érdekesség az, hogy c<sub>n</sub> egész, ami a binomiális kifejtéséből könnyen látható, ugyanis az √3 páratlan hatványai mind kiesnek belőle a különböző előjelek miatt. A maradék csupa egész szám lesz. Most persze mindjárt jön a kérdés, hogy honnan húztuk elő b<sub>n</sub>-t. Lehet játszani az eredeti sorozattal, pl. megpróbálni explicit képletet adni a √3-as tag együtthatóira, meg a &#8220;többi&#8221; részre. Ott pl. felbukkan a kérdéses tag. Cooldavee is írt egy jó megoldást. Esetleg rákeresni a b<sub>n</sub> egészrészéből képzett sorozat elemeire a világhálón. (Mi az első és harmadik ötletet próbáltuk.)</p>
+<p>Mindenesetre, ha már egyszer megvan c<sub>n</sub>, onnan gyerekjáték az egész. Ugyanis c<sub>n</sub> éppen a<sub>n</sub> felső egészrésze, hiszen b<sub>n</sub> &lt; 1.</p>
+<p>Ebből következik, hogy az 1-b<sub>n</sub> éppen az a sorozat, aminek a határértékét keressük:</p>
+<p>{a<sub>n</sub>} = 1 &#8211; b<sub>n</sub></p>
+<p>de lim(1- b<sub>n</sub>) = 1 – 0.</p>
+<p>Így a végeredmény 1.</p>
+<p><strong>Megjegyzés</strong> c<sub>n</sub> éppen az n-edik Heron háromszög (olyan háromszög, aminek területe egész valamint oldalainak hossza 3 egymást követő egész szám) középső oldalával egyenlő. Ezt közelíti a<sub>n</sub> alulról.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/10/a_vegtelenbe_es_tovabb_5/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

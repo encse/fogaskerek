@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Lámpák és kapcsolók	</title>
+	<atom:link href="/2009/11/lampak_es_kapcsolok/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/11/lampak_es_kapcsolok/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Fri, 13 Nov 2009 16:21:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: Thresher		</title>
+		<link>/2009/11/lampak_es_kapcsolok/#comment-244</link>
+
+		<dc:creator><![CDATA[Thresher]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2009 16:21:17 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/13/lampak_es_kapcsolok#comment-244</guid>
+
+					<description><![CDATA[Tényleg régi feladvány, én se írom le inkább a megfejtést.]]></description>
+			<content:encoded><![CDATA[<p>Tényleg régi feladvány, én se írom le inkább a megfejtést.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Egyéves Önkéntes		</title>
+		<link>/2009/11/lampak_es_kapcsolok/#comment-243</link>
+
+		<dc:creator><![CDATA[Egyéves Önkéntes]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2009 08:42:18 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/13/lampak_es_kapcsolok#comment-243</guid>
+
+					<description><![CDATA[&lt;a href=&quot;http://fogaskerek.blog.hu/2009/11/13/lampak_es_kapcsolok?fullcommentlist=1#c7657773&quot; class=&quot;reply_nick_251055&quot; onclick=&quot;javascript:if ( typeof followCommentReply != &#039;undefined&#039; ) return followCommentReply( 7657773 );&quot; rel=&quot;nofollow&quot;&gt;@Szajmong&lt;/a&gt;: hát igen, ezzel le is lőtted a poént.&lt;br /&gt;
+remélem a te esetedben kompakt fénycsövek lesznek. :)]]></description>
+			<content:encoded><![CDATA[<p><a href="http://fogaskerek.blog.hu/2009/11/13/lampak_es_kapcsolok?fullcommentlist=1#c7657773" class="reply_nick_251055" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 7657773 );" rel="nofollow">@Szajmong</a>: hát igen, ezzel le is lőtted a poént.<br />
+remélem a te esetedben kompakt fénycsövek lesznek. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Szerző: Szajmong		</title>
+		<link>/2009/11/lampak_es_kapcsolok/#comment-242</link>
+
+		<dc:creator><![CDATA[Szajmong]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2009 08:14:46 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/13/lampak_es_kapcsolok#comment-242</guid>
+
+					<description><![CDATA[Ezt tudom :D&lt;br /&gt;
+&lt;br /&gt;
+Csak jelezném a megoldás lényegét:&lt;br /&gt;
+Egy izzó nem csak viágítani tud.]]></description>
+			<content:encoded><![CDATA[<p>Ezt tudom 😀</p>
+<p>Csak jelezném a megoldás lényegét:<br />
+Egy izzó nem csak viágítani tud.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>számolgatós &#8211; Fogaskerék</title>
+	<atom:link href="/tag/szamolgatos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Wed, 11 May 2016 20:20:11 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Túl sok a jóból</title>
+		<link>/2010/02/tul_sok_a_jobol_1/</link>
+					<comments>/2010/02/tul_sok_a_jobol_1/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2010 10:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[számolgatós]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/08/tul_sok_a_jobol_1</guid>
+
+					<description><![CDATA[Középiskolában azt tanultuk, hogy másodfokú egyenletnek legfeljebb 2 db valós gyöke lehet. Így volt ezzel Arszlán is, ám egy nap a következő különös egyenlet jött vele szembe: Észrevette, hogy mivel az egyenlet szimmetrikus a három paraméterre, az általánosság megsértése nélkül feltehető, hogy a&#60;b&#60;c. Ezenkívül szembeötlő, hogy x=a, x=b, és x=c is mind megoldásai az egyenletnek. Pedig ez egy másodfokú egyenlet! ... <a class="read-more" href="/2010/02/tul_sok_a_jobol_1/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Középiskolában azt tanultuk, hogy másodfokú egyenletnek legfeljebb 2 db valós gyöke lehet. Így volt ezzel Arszlán is, ám egy nap a következő különös egyenlet jött vele szembe:</p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-2389641" src="/wp-content/uploads/2010/02/egyenlet1.png" alt="egyenlet1" width="300" height="32" /></p>
+<p style="text-align: justify;">Észrevette, hogy mivel az egyenlet szimmetrikus a három paraméterre, az általánosság megsértése nélkül feltehető, hogy a&lt;b&lt;c. Ezenkívül szembeötlő, hogy x=a, x=b, és x=c is mind megoldásai az egyenletnek. Pedig ez egy másodfokú egyenlet! Hogy lehet ez?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/tul_sok_a_jobol_1/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hajózás</title>
+		<link>/2009/12/hajozas/</link>
+					<comments>/2009/12/hajozas/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2009 07:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[számolgatós]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/15/hajozas</guid>
+
+					<description><![CDATA[A következő feladatot gimnazista koromban hallottam. Egy hajó kapitányának életkora K, legénységének létszáma L. Mindkettő pozitív egész. A kettő között az alábbi összefüggés áll fenn: L(L&#8211;1) = K(L&#8211;2)+15 Hogy hívják a kapitányt? Megoldás Vonjunk ki 2-t az egyenlet mindkét oldalából, mégpediglen azért, mert a baloldalból is szeretnénk L-2-t kiemelni: L*L &#8211; L &#8211; 2 =&#160;K(L-2) + 13 Ekkor (L-2)(L+1) =&#160;K(L-2) ... <a class="read-more" href="/2009/12/hajozas/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>A következő feladatot gimnazista koromban hallottam.</p>
+<p>Egy hajó kapitányának életkora K, legénységének létszáma L. Mindkettő pozitív egész. A kettő között az alábbi összefüggés áll fenn:</p>
+<p><em>L</em>(<em>L</em>&ndash;1) = K(L&ndash;2)+15</p>
+<p>Hogy <em>hívják </em>a kapitányt?</p>
+<p> <span id="more-1597944"></span> </p>
+<h2>Megoldás</h2>
+<div class="spoiler">
+<p>Vonjunk ki 2-t az egyenlet mindkét oldalából, mégpediglen azért, mert a baloldalból is szeretnénk L-2-t kiemelni:</p>
+<p>L*L &#8211; L &#8211; 2 =&nbsp;K(L-2) + 13</p>
+<p>Ekkor</p>
+<p>(L-2)(L+1) =&nbsp;K(L-2) +&nbsp;13.</p>
+<p>Rendezzük az ismeretleneket a baloldalra:</p>
+<p>(L-2)(L+1) &#8211; K(L-2) =&nbsp;13</p>
+<p>Újabb kiemelés után:</p>
+<p>(L-2)(L+1-K) =&nbsp;13</p>
+<p>Felhasználva, hogy K és L is egész számok a 13-at csak négyféleképpen lehet két szám szorzatára bontani:</p>
+<table width="200" cellspacing="1" cellpadding="1" border="1">
+<thead>     </thead>
+<tbody>
+<tr>
+<td>L-2</td>
+<td>L+1-K</td>
+<td>L</td>
+<td>K</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td>1</td>
+<td>13</td>
+<td>3</td>
+<td>-9</td>
+</tr>
+<tr>
+<td>-1</td>
+<td>-13</td>
+<td>1</td>
+<td>15</td>
+</tr>
+<tr>
+<td>13</td>
+<td>1</td>
+<td>15</td>
+<td>15</td>
+</tr>
+<tr>
+<td>-13</td>
+<td>-1</td>
+<td>-11</td>
+<td>-9</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Mivel L és K is pozitív, csak az L=1, K=15 illetve L&nbsp;=&nbsp;15, K=15 lehet megoldás.</p>
+<p>A kapitány tehát mindenképpen 15 éves, a legénység pedig vagy 1 vagy 15 fős. Innen már csak egy kis kulturális háttérismeret kell ahhoz, hogy kiderüljön: a tizenöt éves kapitány minden bizonnyal a hasonló című Verne regényben szereplő Dick Sand lesz.</p>
+<p>Elegáns?</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/12/hajozas/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Adventi kocka &#8211; kockáknak</title>
+		<link>/2009/12/adventi_kocka_kockaknak/</link>
+					<comments>/2009/12/adventi_kocka_kockaknak/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 08:15:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[gyakorlati]]></category>
+		<category><![CDATA[számolgatós]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/12/02/adventi_kocka_kockaknak</guid>
+
+					<description><![CDATA[Mint az már az eddigiekből kiderülhetett, Arszlán és barátai nagyon kedvelik a matematikát. A logikai feladatok mellett egy másik különösen izgalmas terület számukra a fraktálok témaköre. Így kézenfekvő volt az ötlet, hogy az idei adventi kalendáriumot egy térbeli fraktál, a Menger szivacs alapján építsék meg. Persze nem a teljes fraktált, csak egy közelítését. Épp kapóra jött, hogy egy korábbi &#8220;munkájuk&#8221; ... <a class="read-more" href="/2009/12/adventi_kocka_kockaknak/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Mint az már az eddigiekből kiderülhetett, Arszlán és barátai nagyon kedvelik a matematikát. A logikai feladatok mellett egy másik különösen izgalmas terület számukra a fraktálok témaköre. Így kézenfekvő volt az ötlet, hogy az idei adventi kalendáriumot egy térbeli fraktál, a <a href="http://en.wikipedia.org/wiki/Menger_sponge">Menger szivacs</a> alapján építsék meg. Persze nem a teljes fraktált, csak egy közelítését.</p>
+<p style="text-align: justify;">Épp kapóra jött, hogy egy korábbi &#8220;munkájuk&#8221; alkalmával jelentősebb mennyiségű névjegykártyához jutottak, mely eddig csak porosodott a raktár sarkában. Elhatározták, hogy ebből fogják megépíteni a kalendáriumot.</p>
+<p style="text-align: justify;">6 névjegykártyából ilyen kis kockákat könnyen lehet csinálni:</p>
+<p><span id="more-1568105"></span></p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-2389649" src="/wp-content/uploads/2010/02/menger3.jpg" alt="menger3" width="223" height="227" /></p>
+<p style="text-align: justify;">Nem túl szép, hogy a fülecskék kilógnak, így a látható oldalakra egy-egy további névjegykártyából takarást is tenni kell, így lesz szép és tartós a szerkezet. Ez egy kocka esetén  &#8211; amely a Menger szivacs nulladfokú közelítésének tekinthető &#8211; tehát összesen 12 kártyát jelent. Magasabbrendű közelítéseknél persze átlagosan kevesebb kártya kell kockánként, hiszen két kocka kapcsolódó közös oldalára nem kell extra takarás (de a két kocka oldala igen, tehát egy közös oldal 2 kártyát jelent!)</p>
+<p style="text-align: justify;">Hogy emlékeztessen egy adventi koszorúra, kicsit változtattak az alap szivacs sémán: a felső lap négy sarkára így egy-egy eggyel kisebb rendű szivacs került. A képen egy elsőfokú közelítés látható.</p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-2389648" src="/wp-content/uploads/2010/02/menger2.jpg" alt="menger2" width="209" height="242" /></p>
+<h3>Kérdések</h3>
+<p>1. Hány névjegykártya kell összesen a fenti elsőfokú adventi kockához?</p>
+<p>2. Általában n-edfokúhoz?</p>
+<p>3. Vajon a gyakorlatban hányadfokú közelítést tudnak megépíteni barátaink, ha a megfelelő mennyiségű névjegykártya beszerzése nem akadály?</p>
+<p>4. Építsetek meg ti is egy minél magasabb fokú adventi kockát! Jó szórakozást hozzá, és képeket feltétlenül küldjetek! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h3>Update</h3>
+<p>A könnyebb érthetőség kedvért íme egy negyedfokú adventi Menger-kocka, amit gyorsan összedobtunk a srácokkal itt az irodában*:</p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-2389647" src="/wp-content/uploads/2010/02/menger1.jpg" alt="menger1" width="225" height="225" srcset="/wp-content/uploads/2010/02/menger1.jpg 225w, /wp-content/uploads/2010/02/menger1-150x150.jpg 150w" sizes="(max-width: 225px) 100vw, 225px" /></p>
+<p>* Na jó, azért az durva lenne&#8230; igazából <a href="http://structuresynth.sourceforge.net/">Structure Synth</a> + <a href="http://sunflow.sourceforge.net/">Sunflow </a>segítségével készült a kép.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/12/adventi_kocka_kockaknak/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tortavágás</title>
+		<link>/2009/11/tortavagas/</link>
+					<comments>/2009/11/tortavagas/#comments</comments>
+		
+		<dc:creator><![CDATA[-Maya]]></dc:creator>
+		<pubDate>Thu, 26 Nov 2009 11:41:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[olvasói]]></category>
+		<category><![CDATA[számolgatós]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/11/26/tortavagas</guid>
+
+					<description><![CDATA[Lelkes olvasónknak, Szájmonnak köszönjük az alábbi feladatot. Eszembe jutott egy régi feladat amire nekem van egy megoldásom (nem biztos, hogy a leghatékonyabb), és kíváncsi lennék, hogy mások milyen megoldásokat találnak. Sok-sok (-sok) éve egy akkor középiskolás barátom kapta a matektanárától, de a hivatalos megoldás sosem jutott el hozzám. A feladat a következő: Arszlánnak születésnapja van amire négy barátja is hivatalos, ... <a class="read-more" href="/2009/11/tortavagas/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Lelkes olvasónknak, Szájmonnak köszönjük az alábbi feladatot.</p>
+<blockquote>
+<p style="text-align: justify;">Eszembe jutott egy régi feladat amire nekem van egy megoldásom (nem biztos, hogy a leghatékonyabb), és kíváncsi lennék, hogy mások milyen megoldásokat találnak. Sok-sok (-sok) éve egy akkor középiskolás barátom kapta a matektanárától, de a hivatalos megoldás sosem jutott el hozzám.</p>
+<p>A feladat a következő:</p>
+<p>Arszlánnak születésnapja van amire négy barátja is hivatalos, van szép torta is, éppen kocka alakú melynek a látható oldalait finom cukormáz borítja.</p>
+<p style="text-align: justify;">
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-2389646" src="/wp-content/uploads/2010/02/kocka.jpg" alt="kocka" width="243" height="207" /></p>
+<p style="text-align: center;">
+<p style="text-align: justify;">Arszlán az igazságosság híve, ezért úgy szeretné felvágni a tortát, hogy mindenkinek egyforma mennyiség jusson mind a torta belsejéből, mind a felszínét borító cukormázból. (A máz vastagságát nem kell most figyelembe venni.) Még egy kis gond van, ugyanis senki nem szeretne több darabot kapni, egybefüggő szeletekre vágynak.</p>
+<p>Szájmon
+</p>
+</blockquote>
+<p>Hogyan szeletelte fel végül csavaros eszű barátunk a tortát? Küldjetek minél többféle megoldást!</p>
+<p><span id="more-1553725"></span></p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p style="text-align: justify;">A legfrappánsabb megoldás <a href="http://fogaskerek.blog.hu/2009/11/26/tortavagas/fullcommentlist/1#c7804364">csakazértse kommentjében</a> található. <a href="http://fogaskerek.blog.hu/2009/11/26/tortavagas/fullcommentlist/1#c7807306">Lőry bizonyítása</a> teszi teljessé a képet, így a szokásos Gumi Fogaskerék díj megosztva jár nekik.</p>
+<p style="text-align: justify;">Nagyon izgalmas feladat volt, küldjetek még több ilyet!</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/11/tortavagas/feed/</wfw:commentRss>
+			<slash:comments>18</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cipórián álma</title>
+		<link>/2009/10/madarak_28/</link>
+					<comments>/2009/10/madarak_28/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2009 06:00:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[közepes]]></category>
+		<category><![CDATA[számolgatós]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2009/10/15/madarak_28</guid>
+
+					<description><![CDATA[Nem sokkal a párbaj után Cipórián furcsát álmodott, később így örökítette meg az esetet. Madárvers Írta: Cipórián a Lator &#160; Hétvégén egy mezőn jártam, néhány fával, mindegyiken több madárral. Több mint egy fa, már-már erdő, s mennyi madár, egész felhő! Járok-kelek, nézegetek. Számolgatok, jegyzetelek. Elámulok, mit álmodok? Minden fán ugyanannyi madár, összesen 200-300 is meglehet tán! Tovább bonyolódik az eset: ... <a class="read-more" href="/2009/10/madarak_28/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Nem sokkal a párbaj után Cipórián furcsát álmodott, később így örökítette meg az esetet.</p>
+<blockquote>
+<h2 style="text-align: center;">Madárvers</h2>
+<p style="text-align: center;">Írta: Cipórián a Lator</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Hétvégén egy mezőn jártam,<br />
+néhány fával, mindegyiken több madárral.<br />
+Több mint egy fa, már-már erdő,<br />
+s mennyi madár, egész felhő!</p>
+<p style="text-align: center;">
+Járok-kelek, nézegetek.<br />
+Számolgatok, jegyzetelek.<br />
+Elámulok, mit álmodok?</p>
+<p style="text-align: center;">
+Minden fán ugyanannyi madár,<br />
+összesen 200-300 is meglehet tán!</p>
+<p style="text-align: center;">
+Tovább bonyolódik az eset:<br />
+pontos számukból a fák száma is meglehet.</p>
+</blockquote>
+<p>Kérdésünk ezúttal az, hogy <strike>mit szív</strike> hány madárról és hány fáról álmodhatott a szerző.</p>
+<p>Megjegyzés: mostantól a hozzászólások előzetes moderálás után kerülnek csak fel az oldalra. Nyugodtan írjatok megoldásokat, megjelennek majd, de csak a hivatalos megoldással egyidőben. A feladatok pontosítására vonatkozó kérdéseket természetesen hamarabb megjelentetjük.</p>
+<p><span id="more-1447310"></span></p>
+<h3>Megoldás</h3>
+<div class="spoiler">
+<p>Legyen a madarak száma M, a fák száma F, valamint az egy fára jutó madarak száma m. Erre az M =&nbsp;Fm összefüggés érvényes a harmadik versszak alapján.</p>
+<p>Az első versszakból kiderül, hogy F &gt; 1, m &gt; 1, a harmadikból pedig, hogy 200 &lt;= M &lt;= 300.</p>
+<p>A negyedik versszak alapján M egyértelműen írható fel két (1-nél nagyobb) egész szorzataként. Ezalapján M nem lehet más mint egy prímszám négyzete. Márpedig egyetlen olyan prím van aminek a négyzete 200 és 300 közé esik: a 17. Tehát F = 17, m=17 és M = 289.</p>
+<p>Összefoglalva: a mezőn 17 fa és 289 madár volt.</p>
+<p>Gratulálunk a megfejtőknek, készüljetek a hétfőre! (Azért a matematikus tanulmányokat folytatóknak hétvégére posztoltunk egy analízis feladatot is.)</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2009/10/madarak_28/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

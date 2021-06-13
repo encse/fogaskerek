@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Hozzászólások ehhez: Túl sok a jóból	</title>
+	<atom:link href="/2010/02/tul_sok_a_jobol_1/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/02/tul_sok_a_jobol_1/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Wed, 11 May 2016 20:17:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Szerző: rusty		</title>
+		<link>/2010/02/tul_sok_a_jobol_1/#comment-53</link>
+
+		<dc:creator><![CDATA[rusty]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2010 12:21:56 +0000</pubDate>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/08/tul_sok_a_jobol_1#comment-53</guid>
+
+					<description><![CDATA[A megoldás egyszerű, bár munkás. Könnyű elszámolni...  :)&lt;br /&gt;
+&lt;br /&gt;
+Egy azonossággal van dolgunk.&lt;br /&gt;
+&lt;br /&gt;
+Közös nevezőre hozás és egyszerűsítés után az &#039;x-es tagok&#039; kiesnek.]]></description>
+			<content:encoded><![CDATA[<p>A megoldás egyszerű, bár munkás. Könnyű elszámolni&#8230;  🙂</p>
+<p>Egy azonossággal van dolgunk.</p>
+<p>Közös nevezőre hozás és egyszerűsítés után az &#8216;x-es tagok&#8217; kiesnek.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

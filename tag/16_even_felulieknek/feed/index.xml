@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>16_éven_felülieknek &#8211; Fogaskerék</title>
+	<atom:link href="/tag/16_even_felulieknek/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>... a hoppá érzés fontosságáról ...</description>
+	<lastBuildDate>Thu, 18 Feb 2010 11:50:00 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Arszlán és a háremhölgyek</title>
+		<link>/2010/02/arszlan_es_a_haremholgyek/</link>
+					<comments>/2010/02/arszlan_es_a_haremholgyek/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Thu, 18 Feb 2010 11:50:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[16_éven_felülieknek]]></category>
+		<category><![CDATA[algoritmus]]></category>
+		<category><![CDATA[nehéz]]></category>
+		<category><![CDATA[valószínűségszámítás]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/18/arszlan_es_a_haremholgyek</guid>
+
+					<description><![CDATA[Jóval a királylányos kaland előtt Arszlán a török szultán segítségére volt valamely gaztett elkövetésében, amelynek részleteit mára már homály fedi. Fizetségül és hálája jeléül a szultán egy hölgyet ajánlott Arszlánnak saját háreméből. A hölgyek egymás után jöttek be a palotába, Arszlán pedig egyesével eldönthette, hogy megelégszik-e az adott hölggyel, vagy inkább megnézi a következőt. Mivel utólag vissza már nem hívhatott ... <a class="read-more" href="/2010/02/arszlan_es_a_haremholgyek/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Jóval a királylányos kaland előtt Arszlán a török szultán segítségére volt valamely gaztett elkövetésében, amelynek részleteit mára már homály fedi. Fizetségül és hálája jeléül a szultán egy hölgyet ajánlott Arszlánnak saját háreméből.</p>
+<p>A hölgyek egymás után jöttek be a palotába, Arszlán pedig egyesével eldönthette, hogy megelégszik-e az adott hölggyel, vagy inkább megnézi a következőt. Mivel utólag vissza már nem hívhatott hölgyeket, mindössze annyit tehetett, hogy előbb felmérte a háremet az első néhány lány megtekintésével, és ezután kiválasztotta az első olyat, aki szebb volt az addigiaknál.</p>
+<p>Természetesen, ha túl sok lányt nézett volna meg az elején, akkor a végén talán egy csinosabb sem lett volna náluk, így nagyon is fontos ennek az előzetes felmérési szakasznak a hossza.</p>
+<p>Ha tudjuk, hogy a háremben 300 lány volt, és teljesen véletlenszerű sorrendben vonultak fel, hány lányból álljon a felmérés ahhoz, hogy a legnagyobb legyen az esély a legszebb kiválasztására?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/arszlan_es_a_haremholgyek/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arszlán halálos ajtói</title>
+		<link>/2010/02/arszlan_halalos_ajtoi/</link>
+					<comments>/2010/02/arszlan_halalos_ajtoi/#comments</comments>
+		
+		<dc:creator><![CDATA[encse]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2010 17:41:00 +0000</pubDate>
+				<category><![CDATA[Egyéb]]></category>
+		<category><![CDATA[16_éven_felülieknek]]></category>
+		<category><![CDATA[valószínűségszámítás]]></category>
+		<guid isPermaLink="false">http://fogaskerek.blog.hu/2010/02/15/arszlan_halalos_ajtoi</guid>
+
+					<description><![CDATA[Történt egyszer, hogy Arszlán egy televíziós vetélkedőn eljutott a döntőig. A műsorvezető felkínált neki három ajtót, amelyikből bármelyiket választhatta, azonban jó előre felhívták a figyelmét arra, hogy a három ajtóból csak egy rejti a játék fődíját (a király világszép lányát), a másik kettő mögött oroszlánok és mindenféle válogatott kínzások várják. Jó, hát ez egy amolyan középkori vetélkedő volt, de ha ... <a class="read-more" href="/2010/02/arszlan_halalos_ajtoi/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Történt egyszer, hogy Arszlán egy televíziós vetélkedőn eljutott a döntőig. A műsorvezető felkínált neki három ajtót, amelyikből bármelyiket választhatta, azonban jó előre felhívták a figyelmét arra, hogy a három ajtóból csak egy rejti a játék fődíját (a király világszép lányát), a másik kettő mögött oroszlánok és mindenféle válogatott kínzások várják. Jó, hát ez egy amolyan középkori vetélkedő volt, de ha én mondom, akkor elhihetitek, hogy tényleg szórul szóra ez történt&#8230;</p>
+<p>Arszlán rábökött az egyik ajtóra, aztán a porondmester kinyitott egy másikat, amiről viszont előre megmondta, hogy nem a királylány lesz mögötte.</p>
+<p>Ezután Arszlán még egyszer meggondolhatta, hogy kitart-e az eredeti ajtó mellett, vagy mégis inkább áttér a harmadikra.</p>
+<p>Attól teljesen függetlenül, hogy mit választott végül, hiszen tudjuk, hogy azóta is él és virul, arra vagyunk kíváncsiak, hogy mi lett volna a helyes döntés&#8230; Hogyan okoskodhatott?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2010/02/arszlan_halalos_ajtoi/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
